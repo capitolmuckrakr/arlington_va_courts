@@ -11,9 +11,14 @@ from selenium.webdriver.firefox.options import Options
 from time import sleep
 import os, logging
 
-def driver():
+def driver(headless=False):
     fp = webdriver.FirefoxProfile()
-    driver = webdriver.Firefox(firefox_profile=fp)
+    if headless:
+        options = Options()
+        options.add_argument("--headless")
+        driver = webdriver.Firefox(firefox_options=options,firefox_profile=fp)
+    else:
+        driver = webdriver.Firefox(firefox_profile=fp)
     return driver
 
 def captcha_start_page(driver=driver):
