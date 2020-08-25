@@ -47,4 +47,5 @@ date_search(driver)
 sleep(1)
 
 element = driver.find_element_by_class_name("search-results")
-print(element.text[76:])
+
+print(element.text[43:][:-25])
