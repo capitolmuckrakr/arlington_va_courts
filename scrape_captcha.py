@@ -35,11 +35,14 @@ def captcha_start_arlington_court(driver=driver):
     driver.implicitly_wait(2)
     element.click()
 
-def captcha_start_date_search(driver=driver,date = "08/03/2020"):
-    element = driver.find_element_by_link_text("Hearing Date Search")
-    element.click()
-    driver.implicitly_wait(10)
-    element = driver.find_element_by_id("txthearingdate")
+def date_search(driver=driver,date = "08/03/2020"):
+    try:
+        element = driver.find_element_by_link_text("Hearing Date Search")
+        element.click()
+        driver.implicitly_wait(10)
+        element = driver.find_element_by_id("txthearingdate")
+    except NoSuchElementException:
+        element = driver.find_element_by_id("datepickerele")
     element.send_keys(date)
     element.send_keys(Keys.ENTER)
 
