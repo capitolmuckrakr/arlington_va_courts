@@ -43,10 +43,7 @@ sleep(0.6)
 driver.find_element_by_id("applyCourtBtn").click()
 sleep(1)
 
-element = driver.find_element_by_id("datepickerele")
-date = "08/03/2020"
-element.send_keys(date)
-element.send_keys(Keys.ENTER)
+date_search(driver)
 sleep(1)
 
 element = driver.find_element_by_class_name("search-results")
