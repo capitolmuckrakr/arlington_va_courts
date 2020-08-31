@@ -1,0 +1,128 @@
+Arlington General District Court	Case #: GC19000134-00	Defendant: ANDERSON, CATHERINE	Complainant: SARTRAZ AHMEDI ANJUM	Hearing: 08/09/2019, 9:00 AM	Charge: BATTERY:EMERG HEALTH CARE PERS	Result: CONTINUED
+Arlington General District Court	Case #: GC19000134-01	Defendant: ANDERSON, CATHERINE	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19000134-02	Defendant: ANDERSON, CATHERINE	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GT19024557-00	Defendant: AZIZI, SHAKOOR ABDUL	Complainant: BOADO, M	Hearing: 08/09/2019, 9:00 AM	Amended Charge: FTP/FTA	Result: FINAL
+Arlington General District Court	Case #: GT19018700-00	Defendant: BENTLEY, LAMAR	Complainant: HALL, A	Hearing: 08/09/2019, 9:00 AM	Charge: IMPROPER DISPLAY LIC PLATES	Result: FINAL
+Arlington General District Court	Case #: GC19003168-00	Defendant: HUESTON, JOSHUA ISAIAH	Complainant: OFF DUNCAN, T	Hearing: 08/09/2019, 9:00 AM	Amended Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19003167-00	Defendant: MORTON, CHARLES ANTHONY	Complainant: SGT GARCIA	Hearing: 08/09/2019, 9:00 AM	Charge: PRISONER POSS UNLAW CHEMICAL	Result: CONTINUED
+Arlington General District Court	Case #: GC19003165-00	Defendant: MOTLEY, DONALD FRANCIS	Complainant: OFF BROWN, J	Hearing: 08/09/2019, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GC19003166-00	Defendant: MOTLEY, DONALD FRANCIS	Complainant: OFF BROWN, J	Hearing: 08/09/2019, 9:00 AM	Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GT18037936-00	Defendant: PEARSON, GARY WAYNE	Complainant: THOMAS, I	Hearing: 08/09/2019, 9:00 AM	Charge: EXPIR REGIS *9/18*	Result: CONTINUED
+Arlington General District Court	Case #: GT18037937-00	Defendant: PEARSON, GARY WAYNE	Complainant: THOMAS, I	Hearing: 08/09/2019, 9:00 AM	Charge: EXPIR VA INSPEC *7/18*	Result: CONTINUED
+Arlington General District Court	Case #: GT18037938-00	Defendant: PEARSON, GARY WAYNE	Complainant: THOMAS, I	Hearing: 08/09/2019, 9:00 AM	Amended Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT18037938-01	Defendant: PEARSON, GARY WAYNE	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT18037938-02	Defendant: PEARSON, GARY WAYNE	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19000201-01	Defendant: POLAND, MATTHEW	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: CAPIAS/VIOL OF PROBATION	Result: CONTINUED
+Arlington General District Court	Case #: GC19000202-01	Defendant: POLAND, MATTHEW	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: CAPIAS/VIOL OF PROBATION	Result: CONTINUED
+Arlington General District Court	Case #: GC19001068-00	Defendant: SANMIGUEL-OTERO, JONATHAN	Complainant: POLING, A	Hearing: 08/09/2019, 9:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001068-01	Defendant: SANMIGUEL-OTERO, JONATHAN	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19001068-02	Defendant: SANMIGUEL-OTERO, JONATHAN	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19001070-00	Defendant: SANMIGUEL-OTERO, JONATHAN	Complainant: POLING, A	Hearing: 08/09/2019, 9:00 AM	Charge: PRISONER POSS UNLAW CHEMICAL	Result: CONTINUED
+Arlington General District Court	Case #: GC19003080-00	Defendant: VITALE, LOUIS ANTHONY	Complainant: OFF WILLIAMS, T	Hearing: 08/09/2019, 9:00 AM	Charge: UNAUTH POSSESSION: DRUG PARA	Result: FINAL
+Arlington General District Court	Case #: GT19000381-00	Defendant: WILSON, JAHAD IRAD	Complainant: K. HARDYMON	Hearing: 08/09/2019, 9:00 AM	Amended Charge: OBTAIN DOCUMENTS NOT ENTITLED	Result: CONTINUED
+Arlington General District Court	Case #: GT19000381-01	Defendant: WILSON, JAHAD IRAD	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19000382-00	Defendant: WILSON, JAHAD IRAD	Complainant: K. HARDYMON	Hearing: 08/09/2019, 9:00 AM	Charge: ALTER/FORGE CERTIF TITLE/REG	Result: CONTINUED
+Arlington General District Court	Case #: GT18014622-00	Defendant: WILSON, OLAUNDO D	Complainant: BROWN, S	Hearing: 08/09/2019, 9:00 AM	Charge: SUSPENDED (3RD OFF)	Result: CONTINUED
+Arlington General District Court	Case #: GT18014622-01	Defendant: WILSON, OLAUNDO D	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT18014622-02	Defendant: WILSON, OLAUNDO D	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT18014623-00	Defendant: WILSON, OLAUNDO D	Complainant: BROWN, S	Hearing: 08/09/2019, 9:00 AM	Charge: EXP VA INSPEC (11/17)	Result: CONTINUED
+Arlington General District Court	Case #: GT18014624-00	Defendant: WILSON, OLAUNDO D	Complainant: BROWN, S	Hearing: 08/09/2019, 9:00 AM	Charge: EXP VA REG (12/17)	Result: CONTINUED
+Arlington General District Court	Case #: GC19001513-00	Defendant: ZENEBE, HENOK	Complainant: SENTZ, S	Hearing: 08/09/2019, 9:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19001513-01	Defendant: ZENEBE, HENOK	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Charge: BAILEE VIOL REL/ PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19001513-02	Defendant: ZENEBE, HENOK	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:00 AM	Amended Charge: FAIL TO APPEAR, MISD OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001514-00	Defendant: ZENEBE, HENOK	Complainant: SENTZ, S	Hearing: 08/09/2019, 9:00 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: CONTINUED
+Arlington General District Court	Case #: GC19001644-00	Defendant: BROOKS, DELONTE ANTJUAN	Complainant: MOREHOUSE, M.	Hearing: 08/09/2019, 9:30 AM	Charge: INDECENT EXPOSURE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001651-00	Defendant: CLAY, HAILEY DAWN	Complainant: BIGGERS, L	Hearing: 08/09/2019, 9:30 AM	Charge: CARRY WEAPON IN AIRPORT TERM.	Result: CONTINUED
+Arlington General District Court	Case #: GC19002187-00	Defendant: FITIWI, ROBEL	Complainant: LAHMONZI, OUSSAMA	Hearing: 08/09/2019, 9:30 AM	Charge: ASSAULT: (MISDEMEANOR)	Result: FINAL
+Arlington General District Court	Case #: GC19002188-00	Defendant: FITIWI, ROBEL	Complainant: LAHMONZI, OUSSAMA	Hearing: 08/09/2019, 9:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC19002434-00	Defendant: FITIWI, ROBEL	Complainant: KORY KOROZOWICZ	Hearing: 08/09/2019, 9:30 AM	Charge: ASSAULT: (MISDEMEANOR)	Result: FINAL
+Arlington General District Court	Case #: GC19002794-00	Defendant: MITCHELL, ANTON DEWAYNE	Complainant: BENNETT, D	Hearing: 08/09/2019, 9:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC19001092-00	Defendant: OTTEN, CHRISTOPHER ROBERT	Complainant: MOIR, R	Hearing: 08/09/2019, 9:30 AM	Charge: DISORDERLY CONDUCT	Result: CONTINUED
+Arlington General District Court	Case #: GC18003174-00	Defendant: STEVENSON, DAWN JOANNE	Complainant: ELLIOTT, A	Hearing: 08/09/2019, 9:30 AM	Amended Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC18003174-01	Defendant: STEVENSON, DAWN JOANNE	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 9:30 AM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC19002769-00	Defendant: THELWELL, KANIKA	Complainant: SWETNAM, K	Hearing: 08/09/2019, 9:30 AM	Charge: CIVIL VIOLATION - CIVIL; DANGEROUS DOG	Result: CONTINUED
+Arlington General District Court	Case #: GT19022251-00	Defendant: ALEXANDER, CHRISTOPHER R	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EQUIPMENT VIOLATION	Result: FINAL
+Arlington General District Court	Case #: GT19026689-00	Defendant: BARRINGER, BENJAMIN WANGLEY	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: RECKLESS DRIVING-78/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19022237-00	Defendant: BAUTISTA, SEAN MICHAEL	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA REG 2/19	Result: FINAL
+Arlington General District Court	Case #: GT19022238-00	Defendant: BAUTISTA, SEAN MICHAEL	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA STATE INSPECTION 11/18	Result: FINAL
+Arlington General District Court	Case #: GT19017387-00	Defendant: BERRYMAN, CRYSTAL MECHELLE	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: NO VALID OL	Result: FINAL
+Arlington General District Court	Case #: GT19017442-00	Defendant: BERRYMAN, CRYSTAL MECHELLE	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXPIRED VA REGISTRATION 12/18	Result: FINAL
+Arlington General District Court	Case #: GT19026690-00	Defendant: BORBOR, TAMBA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Amended Charge: 74/55 SP	Result: CONTINUED
+Arlington General District Court	Case #: GT19026691-00	Defendant: BUI, HOANG ANH	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FTO HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19029925-00	Defendant: CHAVEZ-VALLE, IRWIN BRYAN	Complainant: CPL KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19026692-00	Defendant: COUSINS, SHANNON MONIQNA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: RECKLESS DRIVING-79/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19025404-00	Defendant: DAVIS, TAYLOR LEIGH	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FOLLOWING TOO CLOSE/ACC	Result: WAIVED
+Arlington General District Court	Case #: GT19026693-00	Defendant: DILLON, TROY MICHAEL THOMAS	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 74/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19026694-00	Defendant: ELLA, ELLA AKATU	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19027235-00	Defendant: EVICH, PETER JOHN	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA REG 5/19	Result: WAIVED
+Arlington General District Court	Case #: GT19021140-00	Defendant: GARCIA ZUNIGA, MILTON A	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA STATE INSPECTION 3/19	Result: WAIVED
+Arlington General District Court	Case #: GT19027237-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 76/55 SPEED	Result: CONTINUED
+Arlington General District Court	Case #: GT19027238-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: CHILD RESTRAINT VIOLATION	Result: CONTINUED
+Arlington General District Court	Case #: GT19027239-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: CHILD RESTRAINT VIOLATION 14YR	Result: CONTINUED
+Arlington General District Court	Case #: GT19027240-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: CHILD RESTRAINT VIOLATION 11YR	Result: CONTINUED
+Arlington General District Court	Case #: GT19027241-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: CHILD RESTRAINT VIOLATION 7YR	Result: CONTINUED
+Arlington General District Court	Case #: GT19027243-00	Defendant: GOODEN, BOBBY RODRIGUEZ	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: CHILD RESTRAINT VIOLATION 6YRS	Result: CONTINUED
+Arlington General District Court	Case #: GT19026695-00	Defendant: GORDY, CHRISTIAN DAVIS	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: NO VALID DL	Result: FINAL
+Arlington General District Court	Case #: GT19026696-00	Defendant: GORDY, CHRISTIAN DAVIS	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP REJECTION STICKER (2/19)	Result: FINAL
+Arlington General District Court	Case #: GT19026697-00	Defendant: GREIG, ANN	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA STATE INSPECTION (1/19)	Result: WAIVED
+Arlington General District Court	Case #: GT19026698-00	Defendant: GUTIERREZ, ERIKA NOELLE	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: UNSAFE LANE CHANGE-ACC	Result: WAIVED
+Arlington General District Court	Case #: GC19001345-00	Defendant: ISHMELL, KIMBERLY	Complainant: KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GT19012408-00	Defendant: ISHMELL, KIMBERLY	Complainant: KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Amended Charge: DWI, 1ST >.15	Result: CONTINUED
+Arlington General District Court	Case #: GT19012411-00	Defendant: ISHMELL, KIMBERLY	Complainant: KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Charge: DRIV UNDER REVO/SUSPENSION	Result: CONTINUED
+Arlington General District Court	Case #: GT19012442-00	Defendant: ISHMELL, KIMBERLY	Complainant: KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Charge: DRINK WHILE DRIVING/OPEN CONT.	Result: CONTINUED
+Arlington General District Court	Case #: GT19012522-00	Defendant: ISHMELL, KIMBERLY	Complainant: KOOHARIAN, B	Hearing: 08/09/2019, 10:00 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT19022257-00	Defendant: JACKSON, JOHN CHRISTOPHER	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: UNSAFE/IMPROP LANE CHG/ACC	Result: WAIVED
+Arlington General District Court	Case #: GT19026699-00	Defendant: JEFFERSON, MALIK BASHIRI DAVID	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 74/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19026700-00	Defendant: JOHNSON, THERON CLAY	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GC19002441-00	Defendant: JONES, THOMAS RUDOLPH	Complainant: NUCELLI, A., ACPD 1423	Hearing: 08/09/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002442-00	Defendant: JONES, THOMAS RUDOLPH	Complainant: NUCELLI, A., ACPD 1423	Hearing: 08/09/2019, 10:00 AM	Charge: PRISONER POSS UNLAW CHEMICAL	Result: CONTINUED
+Arlington General District Court	Case #: GC19002443-00	Defendant: JONES, THOMAS RUDOLPH	Complainant: NUCELLI, A., ACPD 1423	Hearing: 08/09/2019, 10:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19002444-00	Defendant: JONES, THOMAS RUDOLPH	Complainant: NUCELLI, A., ACPD 1423	Hearing: 08/09/2019, 10:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19001915-00	Defendant: KELLEY, DAVID WAYNE	Complainant: YANDA, S	Hearing: 08/09/2019, 10:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GT19022260-00	Defendant: KNOWLES, JESSICA RYAN	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA REG 3/19	Result: WAIVED
+Arlington General District Court	Case #: GT19026701-00	Defendant: KOMEAU, JAMES DEMETRI	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19025405-00	Defendant: LAWAL, SODIK ABIODUN	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: UNSAFE LANE CHANGE/ACC	Result: FINAL
+Arlington General District Court	Case #: GC19002210-00	Defendant: LOVE, DANA MARIE	Complainant: AMES, B	Hearing: 08/09/2019, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19002211-00	Defendant: LOVE, DANA MARIE	Complainant: AMES, B	Hearing: 08/09/2019, 10:00 AM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GT19026702-00	Defendant: MBUNKEU, GERVAIS TCHEPEMI	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT19016570-00	Defendant: MCKAIN, CRYSTAL KATRINA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT19027244-00	Defendant: MCMAHON, KEVIN MATTHEW	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: NO VALID OL	Result: FINAL
+Arlington General District Court	Case #: GT19027245-00	Defendant: MCMAHON, KEVIN MATTHEW	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA REG 1/19	Result: FINAL
+Arlington General District Court	Case #: GT19026703-00	Defendant: MEYERS, LAWRENCE LEO	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GC19002723-00	Defendant: MOORE, DANIEL ANTHONY	Complainant: ROBERTSON, E	Hearing: 08/09/2019, 10:00 AM	Charge: ENTER PROPERTY TO DAMAGE, ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19002724-00	Defendant: MOORE, DANIEL ANTHONY	Complainant: ROBERTSON, E	Hearing: 08/09/2019, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19002725-00	Defendant: MOORE, DANIEL ANTHONY	Complainant: ROBERTSON, E	Hearing: 08/09/2019, 10:00 AM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GT19026704-00	Defendant: NOBLE, KEVIN LAMONT; SR	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19026705-00	Defendant: PARKER, WALTER WILLIAM	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FTO HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19027248-00	Defendant: PETERS, PAUL LEONARD; III	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP OUT OF STATE PLATES 1/19	Result: FINAL
+Arlington General District Court	Case #: GT19026706-00	Defendant: ROSKOSKY, MARK ALEC	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19026707-00	Defendant: ROSS, PRESTON; III	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 74/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GC19002330-00	Defendant: SANDERS, EUGENE	Complainant: EINBINDER, E	Hearing: 08/09/2019, 10:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GT19021145-00	Defendant: SHONEBARGER, TIFFANY ANDREA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: EXP VA REG 3/19	Result: WAIVED
+Arlington General District Court	Case #: GT19027249-00	Defendant: SUPLICK, STEPHEN A	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19026708-00	Defendant: SURIS, ANASAZI GONZALES	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19027251-00	Defendant: TRYDUB, YURII	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: 64/55 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19025406-00	Defendant: ULIZIO, ELENA MICHELE	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FOLLOWING TOO CLOSE/ACC	Result: WAIVED
+Arlington General District Court	Case #: GT19026709-00	Defendant: VASQUEZ, ANDRADE SARA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: RECKLESS DRIVING-85/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19026710-00	Defendant: VASQUEZ, ANDRADE SARA	Complainant: MCSHAN, S	Hearing: 08/09/2019, 10:00 AM	Charge: FAILURE TO WEAR SEATBELT	Result: FINAL
+Arlington General District Court	Case #: GT19021634-00	Defendant: WELLS, LEROY ANTOINE TERALE	Complainant: DENOVILLE, T	Hearing: 08/09/2019, 10:00 AM	Amended Charge: DWI, 1ST	Result: CONTINUED
+Arlington General District Court	Case #: GC19002529-00	Defendant: WRIGHT, IESHA NICHOLE	Complainant: MALDONADO, M	Hearing: 08/09/2019, 10:00 AM	Charge: DESTRUCTION OF PROPERTY	Result: CONTINUED
+Arlington General District Court	Case #: GC19001394-00	Defendant: ELLIS, ANTHONY BRYANT	Complainant: SMITH, A	Hearing: 08/09/2019, 11:30 AM	Charge: EMBEZZLEMENT: >=$200	Result: CONTINUED
+Arlington General District Court	Case #: GC19001394-01	Defendant: ELLIS, ANTHONY BRYANT	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 11:30 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19001394-02	Defendant: ELLIS, ANTHONY BRYANT	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 11:30 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19001394-03	Defendant: ELLIS, ANTHONY BRYANT	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 11:30 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19030390-00	Defendant: AMAYA DURAN, LEONARDO DAVID	Complainant: OFF MALDONADO RIVERA, M	Hearing: 08/09/2019, 2:00 PM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19030390-01	Defendant: AMAYA DURAN, LEONARDO DAVID	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 08/09/2019, 2:00 PM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC17005809-00	Defendant: BENITEZ, DENNIS ALEXANDER	Complainant: CASEY, M	Hearing: 08/09/2019, 2:00 PM	Amended Charge: UNLAWFUL ENTRY	Result: CONTINUED
+Arlington General District Court	Case #: GC17005809-01	Defendant: BENITEZ, DENNIS ALEXANDER	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 2:00 PM	Charge: SHOW CAUSE/RESTITUTION VIOL	Result: CONTINUED
+Arlington General District Court	Case #: GC17005809-02	Defendant: BENITEZ, DENNIS ALEXANDER	Complainant: COMMONWEALTH OF VA	Hearing: 08/09/2019, 2:00 PM	Charge: CAPIAS-FAIL TO PAY RESTITUTION	Result: CONTINUED
+Arlington General District Court	Case #: GC19003014-00	Defendant: FOREMAN, DENISE T	Complainant: HA, C H	Hearing: 08/09/2019, 2:00 PM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19002928-00	Defendant: JAMES, GENE DELONTA	Complainant: OFF MARTENS, A	Hearing: 08/09/2019, 2:00 PM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19002929-00	Defendant: JAMES, GENE DELONTA	Complainant: OFF MARTENS, A	Hearing: 08/09/2019, 2:00 PM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GT19030391-00	Defendant: LEARY, ARTHUR JAMES	Complainant: OFF GREVER, L	Hearing: 08/09/2019, 2:00 PM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19003162-00	Defendant: RESPER, JAVIER	Complainant: DET SILVERNALE, B	Hearing: 08/09/2019, 2:00 PM	Charge: OBTAIN PRESCRIP BY FRAUD/ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19003061-00	Defendant: VASON, WILLIE J	Complainant: JONES, J L	Hearing: 08/09/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19003125-00	Defendant: WILLIAMS, KENNETH RAY	Complainant: MISHLER, A	Hearing: 08/09/2019, 2:00 PM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19003073-00	Defendant: ZAFAR, USMAN	Complainant: POVEDA, S	Hearing: 08/09/2019, 2:00 PM	Charge: MANUF/ETC AID SHPLFT DETECT	Result: CONTINUED
+Arlington General District Court	Case #: GC19003074-00	Defendant: ZAFAR, USMAN	Complainant: POVEDA, S	Hearing: 08/09/2019, 2:00 PM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19003017-00	Defendant: ZAJAC, MACIEJ R	Complainant: HA, C H	Hearing: 08/09/2019, 2:00 PM	Charge: ASSAULT & BATTERY	Result: CONTINUED

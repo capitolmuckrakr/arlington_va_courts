@@ -1,0 +1,43 @@
+Arlington General District Court	Case #: GC20001144-00	Defendant: BULLARD, DARRELL DEVON	Complainant: OFF EPSTEIN, H	Hearing: 05/18/2020, 9:00 AM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC20001145-00	Defendant: BULLARD, DARRELL DEVON	Complainant: OFF EPSTEIN, H	Hearing: 05/18/2020, 9:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC20001858-00	Defendant: FARMER, MELVIN CURTIS	Complainant: OFF RIGGS, J	Hearing: 05/18/2020, 9:00 AM	Amended Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GT20017787-00	Defendant: FARMER, MELVIN CURTIS	Complainant: OFF GREVER, L	Hearing: 05/18/2020, 9:00 AM	Charge: DWI, 1ST W/CHILD	Result: CONTINUED
+Arlington General District Court	Case #: GT20017788-00	Defendant: FARMER, MELVIN CURTIS	Complainant: OFF GREVER, L	Hearing: 05/18/2020, 9:00 AM	Charge: DRIVE W/O LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC20001869-00	Defendant: MCCULLOR, DEMARCUS	Complainant: OFF BROWN, J	Hearing: 05/18/2020, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GC20001879-00	Defendant: MCCULLOR, DEMARCUS	Complainant: OFF BROWN, J	Hearing: 05/18/2020, 9:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC20001870-00	Defendant: SANTOS, BRADY	Complainant: OFF ALBA, Z	Hearing: 05/18/2020, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC20001871-00	Defendant: SANTOS, BRADY	Complainant: OFF ALBA, Z	Hearing: 05/18/2020, 9:00 AM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GC20001868-00	Defendant: SPRIGGS, CARLTON	Complainant: OFF ALBA, Z	Hearing: 05/18/2020, 9:00 AM	Charge: STRANGLE:WOUND/INJURY RESULTS	Result: CONTINUED
+Arlington General District Court	Case #: GC20001184-00	Defendant: DAVILA, JESSICA JESENIA	Complainant: MILTON, A	Hearing: 05/18/2020, 9:30 AM	Charge: FAR EVASION	Result: CONTINUED
+Arlington General District Court	Case #: GC20001804-00	Defendant: DIGGS, IBEN YASEEN	Complainant: MORRISON, D	Hearing: 05/18/2020, 9:30 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GC20001183-00	Defendant: HARMON, ANTIONE DEVON; JR	Complainant: MILTON, A	Hearing: 05/18/2020, 9:30 AM	Charge: FARE EVASION	Result: CONTINUED
+Arlington General District Court	Case #: GC19005382-00	Defendant: LELIS, PATRICIA	Complainant: CPL WANEK, S	Hearing: 05/18/2020, 9:30 AM	Charge: FALSE REPORT/SUMMON TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC20000904-00	Defendant: MORRIS, ROBERT	Complainant: M	Hearing: 05/18/2020, 9:30 AM	Charge: FARE EVASION	Result: CONTINUED
+Arlington General District Court	Case #: GC20000250-00	Defendant: ZIMMERMAN, WILLIAM	Complainant: DET CLIFFORD, T	Hearing: 05/18/2020, 9:30 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT20002003-00	Defendant: ZIMMERMAN, WILLIAM	Complainant: DET CLIFFORD, T	Hearing: 05/18/2020, 9:30 AM	Amended Charge: RD-GENERALLY-MISD	Result: CONTINUED
+Arlington General District Court	Case #: GC20001746-00	Defendant: JACKSON, WILLIE LEE	Complainant: OFF ZAPATA, D	Hearing: 05/18/2020, 10:00 AM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC20001747-00	Defendant: JACKSON, WILLIE LEE	Complainant: OFF ZAPATA, D	Hearing: 05/18/2020, 10:00 AM	Charge: DESTRUCT PROP W/INTENT >=$1000	Result: CONTINUED
+Arlington General District Court	Case #: GC20001748-00	Defendant: JACKSON, WILLIE LEE	Complainant: OFF ZAPATA, D	Hearing: 05/18/2020, 10:00 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC20001787-00	Defendant: KLUTTZ, DARYL EUGENE	Complainant: OFF HUBBARD, E	Hearing: 05/18/2020, 10:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GC20000877-00	Defendant: MORGAN-SCOTT, LUKE	Complainant: OFF ALBA, Z	Hearing: 05/18/2020, 10:00 AM	Charge: ENTER PROPERTY TO DAMAGE	Result: FINAL
+Arlington General District Court	Case #: GC20000878-00	Defendant: MORGAN-SCOTT, LUKE	Complainant: OFF ALBA, Z	Hearing: 05/18/2020, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC20001279-00	Defendant: VIERA, WALTER E	Complainant: GAGE, GEOFFREY	Hearing: 05/18/2020, 10:00 AM	Charge: ENTER/SET IN MOTION A VEHICLE	Result: CONTINUED
+Arlington General District Court	Case #: GC20001280-00	Defendant: VIERA, WALTER E	Complainant: GAGE, GEOFFREY	Hearing: 05/18/2020, 10:00 AM	Charge: PETIT LARC <$500 NOT FRM PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC20001728-00	Defendant: VIERA, WALTER E	Complainant: OFF WILLIAMS, A	Hearing: 05/18/2020, 10:00 AM	Amended Charge: DESTRUCT PROP/MONUMENT	Result: CONTINUED
+Arlington General District Court	Case #: GT19045963-00	Defendant: CLAGGETT, JALAL TAMIR	Complainant: OFF PLAYFORD, S	Hearing: 05/18/2020, 10:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19045969-00	Defendant: CLAGGETT, JALAL TAMIR	Complainant: OFF PLAYFORD, S	Hearing: 05/18/2020, 10:30 AM	Charge: DRINK WHILE DRIVING/OPEN CONT	Result: CONTINUED
+Arlington General District Court	Case #: GT19045985-00	Defendant: CLAGGETT, JALAL TAMIR	Complainant: OFF PLAYFORD, S	Hearing: 05/18/2020, 10:30 AM	Charge: DRIVE W/O LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19046008-00	Defendant: CLAGGETT, JALAL TAMIR	Complainant: OFF PLAYFORD, S	Hearing: 05/18/2020, 10:30 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT19044983-00	Defendant: FORNESS, NOLAN MARCUS; II	Complainant: OFF RUBY, W	Hearing: 05/18/2020, 10:30 AM	Amended Charge: DWI, 2ND W/IN 10YRS	Result: CONTINUED
+Arlington General District Court	Case #: GT19044983-01	Defendant: FORNESS, NOLAN MARCUS; II	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 05/18/2020, 10:30 AM	Charge: BAILEE VIOL REL/ PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19004066-00	Defendant: GALLANT, ERIC JASON	Complainant: OFF MALONE, P	Hearing: 05/18/2020, 10:30 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT19035834-00	Defendant: GALLANT, ERIC JASON	Complainant: OFF MALONE, P	Hearing: 05/18/2020, 10:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19035841-00	Defendant: GALLANT, ERIC JASON	Complainant: OFF MALONE, P	Hearing: 05/18/2020, 10:30 AM	Charge: DRIVE W/O LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20004340-00	Defendant: GARCIA, JENEFER YESENIA	Complainant: KARBOWSKI, T	Hearing: 05/18/2020, 10:30 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20005513-00	Defendant: GARCIA, JENEFER YESENIA	Complainant: KARBOWSKI, T	Hearing: 05/18/2020, 10:30 AM	Charge: DUI 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20009727-00	Defendant: MBERGAN, IBRAHIM M	Complainant: OFF GREVER, L	Hearing: 05/18/2020, 10:30 AM	Charge: DWI: 2ND OFF W/IN 5Y - 10Y	Result: CONTINUED
+Arlington General District Court	Case #: GT20009728-00	Defendant: MBERGAN, IBRAHIM M	Complainant: OFF GREVER, L	Hearing: 05/18/2020, 10:30 AM	Charge: REFUSE BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GC20001366-00	Defendant: COBLE, MATTHEW	Complainant: CRIDER, MICHAEL	Hearing: 05/18/2020, 11:30 AM	Charge: MALIC SET FIRE TO WOOD/GRASS	Result: CONTINUED
+Arlington General District Court	Case #: GC20001367-00	Defendant: COBLE, MATTHEW	Complainant: CRIDER, MICHAEL	Hearing: 05/18/2020, 11:30 AM	Amended Charge: ENTER PROPERTY TO DAMAGE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001483-00	Defendant: SCOTT, KEVIN	Complainant: BURGESS, J	Hearing: 05/18/2020, 11:30 AM	Amended Charge: DRUGS: POSSESS SCH III	Result: CONTINUED
+Arlington General District Court	Case #: GT19020113-00	Defendant: SCOTT, KEVIN MARCELLUS	Complainant: MCCLAUGHERTY, C	Hearing: 05/18/2020, 11:30 AM	Charge: DWI, 1ST	Result: CONTINUED

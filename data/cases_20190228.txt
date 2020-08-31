@@ -1,0 +1,582 @@
+Arlington General District Court	Case #: GC19000036-00	Defendant: ZHOU, YIQIAN	Complainant: KYERE, NANA	Hearing: 02/28/2019, 8:30 AM	Amended Charge: DISORDERLY CONDUCT	Result: CONTINUED
+Arlington General District Court	Case #: GC19000140-01	Defendant: ABHELHAMED, MOHAMED	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19002270-00	Defendant: ACHARYA, BIRENDRA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEEDING	Result: CONTINUED
+Arlington General District Court	Case #: GT19002303-00	Defendant: ADEWOLE JR, CHRISTOPHER JOSEPH	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002352-00	Defendant: AGORKLE, DANIEL	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: CONTINUED
+Arlington General District Court	Case #: GT19001724-00	Defendant: AGUILAR LOPEZ, IZMAR	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19003406-00	Defendant: AHMADI, TRISTAN HAJEED	Complainant: LI	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT18041369-00	Defendant: AMENG, HENOK	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: PASSING ON SHOULDER OF HWY	Result: WAIVED
+Arlington General District Court	Case #: GT19001751-00	Defendant: AMERA, KUMELACHEW DESSIE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY TRAFFIC LIGHTS	Result: WAIVED
+Arlington General District Court	Case #: GT18039259-00	Defendant: AMES, HERMAN ELI; JR	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT19002220-00	Defendant: ANDERJASKA, OLGA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT18041310-00	Defendant: ANDERSON, THOMAS MCKELVEY	Complainant: CLARK, J	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE ON SUSPENDED LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT18041371-00	Defendant: ANLLIN, ALTON H	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE ON SHOULDER	Result: FINAL
+Arlington General District Court	Case #: GT19002209-00	Defendant: APPIAH, ISAAC BEKAI	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18039113-00	Defendant: ASMELLASH, DAWIT	Complainant: SINGAL, N	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVING W/O A LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT18039114-00	Defendant: ASMELLASH, DAWIT	Complainant: SINGAL, N	Hearing: 02/28/2019, 9:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19002325-00	Defendant: AUBLE, NATALIE ANNE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 63/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001737-00	Defendant: BAIRES, ISRAEL ARNOLDO	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT19002334-00	Defendant: BALSAMO, JOSEPHINE	Complainant: HISCHMAN	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002268-00	Defendant: BARNETT, RONALD L	Complainant: TUOMEY,	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001808-00	Defendant: BARZOLLI, ENNIO	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT19001775-00	Defendant: BEKELE, ETSEGENT	Complainant: WOOLLEY	Hearing: 02/28/2019, 9:00 AM	Amended Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT18041375-00	Defendant: BELLAMY, ROBERT M	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO TRN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT19001690-00	Defendant: BEMAH, RAS-ADRIALE	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 49/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19001822-00	Defendant: BENE, NATALIE	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 59/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19002267-00	Defendant: BENSON, ANGELA	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBY NO RGHT TURN ON RD	Result: CONTINUED
+Arlington General District Court	Case #: GT18041409-00	Defendant: BERNARD, NAIYA KHAALID M	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 55/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19003380-00	Defendant: BERRIOS, FREDIS DAVID	Complainant: AHMED	Hearing: 02/28/2019, 9:00 AM	Charge: DEFEC HIGH MOUNT BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT18041384-00	Defendant: BESWICK, KARIN R	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY A HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT18034514-00	Defendant: BOKU, EYASU D	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Amended Charge: FAIL TO PAY FULL TIME & ATT.	Result: FINAL
+Arlington General District Court	Case #: GT19001812-00	Defendant: BONILLA, ERICK	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 54/45 SP	Result: FINAL
+Arlington General District Court	Case #: GT19001816-00	Defendant: BOONE, DURONTE	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 61/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001476-00	Defendant: BOROCHIN, LEONARD M	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 61/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001780-00	Defendant: BOWIE, CHRISTOPHER JOHN JR	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 53/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19002256-00	Defendant: BREWER, SARAH E.	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 53/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19003431-00	Defendant: BRITTON, BRANDON ROBERT	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18041383-00	Defendant: BURGA CAMACUANI, MIGUEL A	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT18041424-00	Defendant: BURGESS, JAMES TYWON HARRISON	Complainant: JOY, J	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: CONTINUED
+Arlington General District Court	Case #: GT18041419-00	Defendant: BURKE, JOHN KEVIN	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO LFT TRN	Result: WAIVED
+Arlington General District Court	Case #: GT19001694-00	Defendant: CAMERON, AMANDA	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GC19000705-00	Defendant: CAMPBELL, ANTHONY; JR.	Complainant: TRAINER, J	Hearing: 02/28/2019, 9:00 AM	Charge: ROBBERY: BANK W/ USE OF GUN	Result: CONTINUED
+Arlington General District Court	Case #: GT19001695-00	Defendant: CARINO, JANICE	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18036304-00	Defendant: CASTILLO, IVAN	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: EXPIRED TAGS	Result: CONTINUED
+Arlington General District Court	Case #: GT18036305-00	Defendant: CASTILLO, IVAN	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19002262-00	Defendant: CH0I, KWANG SUP	Complainant: JOY, J	Hearing: 02/28/2019, 9:00 AM	Charge: DISREGARD STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19000418-00	Defendant: CHAALE, HELEN E	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT18041388-00	Defendant: CHANG, HUAN CHOU	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY TRAFFIC CONTROL DEVICE	Result: WAIVED
+Arlington General District Court	Case #: GT19001696-00	Defendant: CHROMICZ, CELINA	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001733-00	Defendant: COLE, MICHAEL CHRISTOPHER	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT18040064-00	Defendant: COLLINS, JANE DOWNER	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: F.TO YIELD TO STATON.EMER VEH	Result: WAIVED
+Arlington General District Court	Case #: GT18041376-00	Defendant: CONLIN, SHAUN S	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO TRN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18041417-00	Defendant: CONTREAS NAJARRO, JUAN C	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT18041418-00	Defendant: CONTREAS NAJARRO, JUAN C	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O REG	Result: FINAL
+Arlington General District Court	Case #: GT19002279-00	Defendant: COSTARELLA, HAILEY SIMONE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 54/45 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT18041367-00	Defendant: COY, ANA B	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVING ON SHOULDER OF HWY	Result: FINAL
+Arlington General District Court	Case #: GT18041405-00	Defendant: CUBA HAMMOND, CAROLINA JUDITH	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT18041406-00	Defendant: CUBA HAMMOND, CAROLINA JUDITH	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT18041362-00	Defendant: CULBERT, STEPHEN JAMES	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FT YLD TO ONCOMING TRAFFIC	Result: WAIVED
+Arlington General District Court	Case #: GT18036651-00	Defendant: CURTIS, RUDOLPH VICTOR	Complainant: LI, J	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO MAINTAIN PROPER CONTRO	Result: FINAL
+Arlington General District Court	Case #: GT18036652-00	Defendant: CURTIS, RUDOLPH VICTOR	Complainant: LI, J	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE WHILE SUSPENDED	Result: FINAL
+Arlington General District Court	Case #: GT19003374-00	Defendant: DARVILLE, CAROLYN FOX	Complainant: BLACK	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT19001885-00	Defendant: DAVIS, LARRY W	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT18041385-00	Defendant: DEATRICK, SERINA M	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY A HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002255-00	Defendant: DELGASO COLUMA, MARYAN S	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19002437-00	Defendant: DOMINGUEZ FLORES, ANA H	Complainant: UOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 48/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001575-00	Defendant: DONAHUE, LISA L	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 54/45 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003378-00	Defendant: DONAHUE, PATRICK JAMES: III	Complainant: BLACK	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXPIRED REG	Result: FINAL
+Arlington General District Court	Case #: GT19001797-00	Defendant: DOUGHTY, JUSTIN	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19003434-00	Defendant: DRUMMON, RODNEY LANCE	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXP PLATE	Result: FINAL
+Arlington General District Court	Case #: GT19002251-00	Defendant: DUARIE GUTIERREZ, WALTER	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 49/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19005742-00	Defendant: DUGUMA, DESALEGN M	Complainant: HORVATH, J	Hearing: 02/28/2019, 9:00 AM	Charge: EXPIRED VA INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT18041407-00	Defendant: DWIGHT, JUSTIN TYLER	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 54/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002296-00	Defendant: EDWARDS, CHRISTOPHER M	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19001522-00	Defendant: ELLWOOD, STEPHEN B	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 47/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT18041386-00	Defendant: EMILIANO, JUSTO DIEGO	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: FINAL
+Arlington General District Court	Case #: GT18041387-00	Defendant: EMILIANO, JUSTO DIEGO	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT18041420-00	Defendant: ERAMIAN, HAMED	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO LFT TURN	Result: WAIVED
+Arlington General District Court	Case #: GT19001741-00	Defendant: ESCALANTE JUAREZ, FELIPE	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19001698-00	Defendant: FAHLUND, SARAH	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT18041381-00	Defendant: FALLA CAMARGO, ISABEL ALICIA	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: DEFECT LOW MOUNT BRAK LIGHT	Result: WAIVED
+Arlington General District Court	Case #: GT18041967-00	Defendant: FARABY, RASHID GABRIEL	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 51/45 SP	Result: WAIVED
+Arlington General District Court	Case #: GT18040071-00	Defendant: FARREY, LYNN MARIE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002264-00	Defendant: FERACHO-HARRISON, RONISHA RENE	Complainant: JOY, J	Hearing: 02/28/2019, 9:00 AM	Charge: EXPIRED INSPECTION 11/18	Result: FINAL
+Arlington General District Court	Case #: GT19002427-00	Defendant: FETTIG, JAKE A	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: NO COUNTY DECAL	Result: FINAL
+Arlington General District Court	Case #: GT19002430-00	Defendant: FETTIG, JAKE A	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 49/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18033062-00	Defendant: FLORES PINEDA, GLENDA	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 9:00 AM	Charge: DEFECTIVE EQUIPMENT	Result: FINAL
+Arlington General District Court	Case #: GT18041365-00	Defendant: FLORES, MARIA VICTORIA	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: ILLEGAL LEFT TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19001469-00	Defendant: FLYNN, JACQUELINE MARIE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19002244-00	Defendant: FORSYTHE, DAVID PAUL	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19000419-00	Defendant: FOSTER, ROBERT BROOKHOUSE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19004427-00	Defendant: FOX, DOUGLAS L	Complainant: BOWERS, A	Hearing: 02/28/2019, 9:00 AM	Charge: FTO TRAFFIC SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002272-00	Defendant: FRANCO, HUGO	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT18041410-00	Defendant: FREDERICK, LAKIYAH NICOLE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT18041411-00	Defendant: FREDERICK, LAKIYAH NICOLE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: FINAL
+Arlington General District Court	Case #: GT18041412-00	Defendant: FREDERICK, LAKIYAH NICOLE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 55/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19001764-00	Defendant: FREDERICKSON, DAVID GEORGE	Complainant: WOOLEY	Hearing: 02/28/2019, 9:00 AM	Charge: U-TURN OVER DOUBLE YELLOW LINE	Result: FINAL
+Arlington General District Court	Case #: GT18041395-00	Defendant: FRENCH, TANYA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002273-00	Defendant: FUENTES FRANCO, JOSE DENNY	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 53/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GC19000536-00	Defendant: GARCIA, JOHN CHRISTOPHER	Complainant: LONDONO, S.	Hearing: 02/28/2019, 9:00 AM	Charge: INTRDICTED PERSON POSS ALCOHOL	Result: CONTINUED
+Arlington General District Court	Case #: GC19000536-01	Defendant: GARCIA, JOHN CHRISTOPHER	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19000797-00	Defendant: GARDNER, IRENE	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002331-00	Defendant: GARDUNO, MARIN C.	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19005189-00	Defendant: GITLIN, DAVID J	Complainant: STALTER, D	Hearing: 02/28/2019, 9:00 AM	Charge: EXP TAGS (12/18)	Result: FINAL
+Arlington General District Court	Case #: GT19002312-00	Defendant: GLADWELL, JULIET	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 52/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041400-00	Defendant: GOLA, ALICE HOWARD	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002274-00	Defendant: GOMES, AMINATA	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19001769-00	Defendant: GOMEZ CASTRO, LEDIN	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: U TURN OVER DOUBLE YELLOW	Result: FINAL
+Arlington General District Court	Case #: GT19001140-00	Defendant: GONZALES BELTRAN, HILDA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 42/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19001811-00	Defendant: GONZALEZ, TRACY	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 65/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001791-00	Defendant: GORETSKY, CHARLES	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT18041401-00	Defendant: GRANDISON, GAYSHIEL FAYANDY	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT18041392-00	Defendant: GRAVITTI, BRIAN R	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19001701-00	Defendant: HAGOS, HELEN	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SPEEDING	Result: CONTINUED
+Arlington General District Court	Case #: GT19002275-00	Defendant: HALL, DANIEL ROBERT	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19001753-00	Defendant: HAMILTON, TININA KEYOUNA	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: PARK > 100FT IN BIKE LANE	Result: FINAL
+Arlington General District Court	Case #: GT19002245-00	Defendant: HARAMBOURE, ALFREDO ANTONIO	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041380-00	Defendant: HARGER, LISA	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBSY NO RIGHT ON TRN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19001748-00	Defendant: HASSELL, HOPE GEORGEANN	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT19001819-00	Defendant: HAWKINS, ROBERT FOSTER	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 61/45 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19003394-00	Defendant: HERNANDEZ, RACHEL DIANE	Complainant: VELEZ, T	Hearing: 02/28/2019, 9:00 AM	Charge: FTY RIGHT OF WAY	Result: WAIVED
+Arlington General District Court	Case #: GT19003399-00	Defendant: HERNANDEZ, RACHEL DIANE	Complainant: VELEZ	Hearing: 02/28/2019, 9:00 AM	Charge: EXP VA REG	Result: WAIVED
+Arlington General District Court	Case #: GT19002241-00	Defendant: HINNANT, CRYSTAL LOUISE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041366-00	Defendant: HINOJOSA, ALEC R	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19003424-00	Defendant: HOBBS, CARRISA	Complainant: MARTIN, C	Hearing: 02/28/2019, 9:00 AM	Charge: PARKING-15 FEET FIRE HYD	Result: CONTINUED
+Arlington General District Court	Case #: GT18041361-00	Defendant: HOLDER, TREVOR; JR	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: FINAL
+Arlington General District Court	Case #: GT19002344-00	Defendant: HOOVLER, CRAIG A	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT	Result: FINAL
+Arlington General District Court	Case #: GT19002247-00	Defendant: HORN, ALLAN RAY	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT17029456-00	Defendant: HOWARD, MARVIN LEE	Complainant: GAMMELL, G	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO DISPLAY 1+ VA LICPLATE	Result: CONTINUED
+Arlington General District Court	Case #: GT17029457-00	Defendant: HOWARD, MARVIN LEE	Complainant: GAMMELL, G	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE WHILE REVOKED-DUI RELATE	Result: CONTINUED
+Arlington General District Court	Case #: GT17029457-02	Defendant: HOWARD, MARVIN LEE	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO APPEAR, MISD OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT17029458-00	Defendant: HOWARD, MARVIN LEE	Complainant: GAMMELL, G	Hearing: 02/28/2019, 9:00 AM	Charge: ALTERED LIC PLATESE	Result: CONTINUED
+Arlington General District Court	Case #: GT19001346-00	Defendant: HYLAND, LESLIE	Complainant: LI, J	Hearing: 02/28/2019, 9:00 AM	Charge: OP/PERMT/PRK OP UNLIC MTR VEH	Result: WAIVED
+Arlington General District Court	Case #: GT19002541-00	Defendant: IVES, JAMES NICHOLAS	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 51/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001785-00	Defendant: JAAFARI, TOURIA	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT18037863-00	Defendant: JOAQUIN ESTEBAN, RICARDO	Complainant: HAWKINS, L	Hearing: 02/28/2019, 9:00 AM	Amended Charge: NO OL	Result: CONTINUED
+Arlington General District Court	Case #: GT19002230-00	Defendant: JOHNSON, TERANCE	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: SEAT BELT VIOL	Result: FINAL
+Arlington General District Court	Case #: GT19002232-00	Defendant: JOHNSON, TERANCE	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT18031865-00	Defendant: JONES, ANTONIO LAMONT	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 9:00 AM	Charge: DR ON SUSP OL	Result: CONTINUED
+Arlington General District Court	Case #: GT18031866-00	Defendant: JONES, ANTONIO LAMONT	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 9:00 AM	Charge: DISPLAY FRAUDLENT PLATE	Result: CONTINUED
+Arlington General District Court	Case #: GT19001728-00	Defendant: JONES, CHRISTOPHER LEE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18039267-00	Defendant: JONES, CODEI	Complainant: CLARK, J	Hearing: 02/28/2019, 9:00 AM	Charge: SUSPENDED OL	Result: CONTINUED
+Arlington General District Court	Case #: GT19002277-00	Defendant: JONES, GILBERT	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001472-00	Defendant: JONES, VALERIE L	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO RT TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19002304-00	Defendant: JORDAN, LA TISHA P	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 53/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041403-00	Defendant: JUAREZ LOPEZ, JOEL	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO LFT TRN	Result: WAIVED
+Arlington General District Court	Case #: GT19001759-00	Defendant: JUDELSON, ADAM SEBASTIAN	Complainant: BLACK, R	Hearing: 02/28/2019, 9:00 AM	Charge: VIOLATION OF RIGHT TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19002213-00	Defendant: JUNG, WOOKJIN	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002253-00	Defendant: KAMARA, PETRINA SAMINATU	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE SUSPENDED	Result: FINAL
+Arlington General District Court	Case #: GT19002258-00	Defendant: KAMARA, PETRINA SAMINTU	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT18041430-00	Defendant: KARAASLAN, RAMAZAN	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: INACTIVE TAGS	Result: FINAL
+Arlington General District Court	Case #: GT18041358-00	Defendant: KAYSER, KASHMIRA MOHAMED UMER	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: IMPROPER LANE CHANGE	Result: WAIVED
+Arlington General District Court	Case #: GT18041357-00	Defendant: KEHOE, ROSALIND PATRICIA	Complainant: JOY, J	Hearing: 02/28/2019, 9:00 AM	Charge: EXP INSPECTION (2/18)	Result: WAIVED
+Arlington General District Court	Case #: GT18041549-00	Defendant: KELECAVA, BARTON THOMAS	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 52/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001800-00	Defendant: KELLER, JOHN	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: CONTINUED
+Arlington General District Court	Case #: GT19001703-00	Defendant: KELLY, MARYELLEN	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 47/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19003408-00	Defendant: KENNEDY, ANGELA JEAN	Complainant: LI	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXP REG	Result: WAIVED
+Arlington General District Court	Case #: GT19002292-00	Defendant: KENNEDY, MARY BETH	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 49/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19003922-00	Defendant: KLEM, WALTER	Complainant: HIRSCHMAN, C	Hearing: 02/28/2019, 9:00 AM	Charge: EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT19000814-00	Defendant: KNEISLEY, PRISCILLA BETCHTER	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19000795-00	Defendant: KREMER, KAREN	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19004115-00	Defendant: LAVBACK, MARK CHRISTIAN	Complainant: LI, J	Hearing: 02/28/2019, 9:00 AM	Charge: EXP INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19002319-00	Defendant: LAWRENCE, MALCOLM FRANKLIN	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 55/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041364-00	Defendant: LIPPARD, JON M	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: LEFT TURN FAIL TO YIELD ROW	Result: WAIVED
+Arlington General District Court	Case #: GT18041373-00	Defendant: LUCERO, ASHLYN L	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO TRN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19002333-00	Defendant: LUEN, BONIFACIO V	Complainant: HIRSCHMAN	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY TRAFFIC LIGHTS	Result: WAIVED
+Arlington General District Court	Case #: GT19001705-00	Defendant: MACEACHERN, KRISTI	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT19002278-00	Defendant: MADEJSKI, LINDSAY	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT19002240-00	Defendant: MADI, AMED	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT19004431-00	Defendant: MALTZ, DYLAN JOSEPH	Complainant: BOWERS, A	Hearing: 02/28/2019, 9:00 AM	Charge: FTO TRAFFIC SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19001758-00	Defendant: MAMO, SEBSIBE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT19001744-00	Defendant: MARINAY, JOSE LUIS	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT18041382-00	Defendant: MAZE, GRACE ELIZABETH	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: IMPROPERC REG	Result: FINAL
+Arlington General District Court	Case #: GT18041393-00	Defendant: MCCUTCHEN, BRANDEN MARVIN	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: WAIVED
+Arlington General District Court	Case #: GT18035371-00	Defendant: MCMILLION, TIFFANY BENITA	Complainant: SINGAL, N	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT19004430-00	Defendant: MEDINA PEREZ, BRYAN EDUARDO	Complainant: BOWERS, A	Hearing: 02/28/2019, 9:00 AM	Charge: FTO SIGN	Result: WAIVED
+Arlington General District Court	Case #: GC19000826-00	Defendant: MENDEZ, RUBEN	Complainant: MARSH, A	Hearing: 02/28/2019, 9:00 AM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GT18029678-00	Defendant: MENDOZA, LEONEL	Complainant: SINGAL, N	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVING W/ NO OL	Result: FINAL
+Arlington General District Court	Case #: GT19000215-00	Defendant: MENGESHA, YOHANNES	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT18041368-00	Defendant: MEYERSON, OLEG B	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: PASS VEH ON SHOULDER OF HWY	Result: FINAL
+Arlington General District Court	Case #: GT19002237-00	Defendant: MIAN, AYESHA MANZOOR	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 46/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001707-00	Defendant: MILLS, NICOLE	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19001766-00	Defendant: MILNOR, TIFFANY LYNN	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: NO RIGHT ON RED 7A-7P	Result: FINAL
+Arlington General District Court	Case #: GT18030020-00	Defendant: MONROE, ALINE J	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 9:00 AM	Charge: NO OPERATORS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT18041402-00	Defendant: MONSLAVE BETANCUR, PATRICIA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO LFT TRN	Result: WAIVED
+Arlington General District Court	Case #: GT18041374-00	Defendant: MORROW REEVE, KAREN M	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO TRN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19002215-00	Defendant: MOUSSA, BECHIR BAHAR	Complainant: AMEX, B	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GC19000827-00	Defendant: MUNSON, LUMAR	Complainant: REBAR	Hearing: 02/28/2019, 9:00 AM	Charge: INDECENT EXPOSURE	Result: CONTINUED
+Arlington General District Court	Case #: GC19000828-00	Defendant: MUNSON, LUMAR	Complainant: REBAR	Hearing: 02/28/2019, 9:00 AM	Charge: SIMULATED MASTURBATION	Result: CONTINUED
+Arlington General District Court	Case #: GT19002008-00	Defendant: MURNANE, SUSAN WHITE	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18041391-00	Defendant: MURPHY, JOHN P	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO RT ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18041414-00	Defendant: NANCE, TAMARA BRIANA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19002324-00	Defendant: NEALE, KEVIN T	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19003386-00	Defendant: NUNEZ, RAQUAN MILLIARD	Complainant: PUIA	Hearing: 02/28/2019, 9:00 AM	Charge: DEFEC EXHAUST	Result: FINAL
+Arlington General District Court	Case #: GT19001350-00	Defendant: O'NEILL, CAMILLE	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19002249-00	Defendant: OHRINER, ETHAN BENJAMIN	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: 52/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001708-00	Defendant: OKERE, CLARISE	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001709-00	Defendant: ORELLANA CRESPIN, VICTOR	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002211-00	Defendant: ORTEGA, CAROLINA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19004213-00	Defendant: ORTEZ-SORTO, KARLA MARISELA	Complainant: LAZAKOVICH, O	Hearing: 02/28/2019, 9:00 AM	Charge: ILLEGAL WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT19003432-00	Defendant: OVERSTEYNS, ARNE SIMONE	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FTO NO RIGHT ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18041359-00	Defendant: PADDOCK, DEBORAH LOUISE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT MAINTAIN LANE	Result: WAIVED
+Arlington General District Court	Case #: GT19001711-00	Defendant: PALMER, DAVID	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19002434-00	Defendant: PARK KIM, HTANGOCK	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18031821-00	Defendant: PARKS, FELICIA ANN	Complainant: CLARK, J	Hearing: 02/28/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT18032813-00	Defendant: PASCUAL FAUSTINO, HORTENSIA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL-SUSP MD OL	Result: FINAL
+Arlington General District Court	Case #: GT19001746-00	Defendant: PATEL, RITISHA DILIPCHANDRA	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19003428-00	Defendant: PECK, ANGELINA	Complainant: MARTIN, C	Hearing: 02/28/2019, 9:00 AM	Charge: PARKING-IMPR EXP OR NO TAGS	Result: FINAL
+Arlington General District Court	Case #: GT19001886-00	Defendant: PENARANDA, AMPARO ROSARIO	Complainant: BLACK, R	Hearing: 02/28/2019, 9:00 AM	Charge: FTO NO TURN ON RED SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19001933-00	Defendant: PEREZ CORTEZ, JAMIE	Complainant: ROMAN, K	Hearing: 02/28/2019, 9:00 AM	Charge: EXP REG	Result: FINAL
+Arlington General District Court	Case #: GC19000413-00	Defendant: PEREZ GUTIERREZ, CARLOS RUBEN	Complainant: OHR, D	Hearing: 02/28/2019, 9:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GT18041396-00	Defendant: PEREZ, MARGARITA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: DRIV UNDER SUSPENSION	Result: FINAL
+Arlington General District Court	Case #: GT18041397-00	Defendant: PEREZ, MARGARITA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19003373-00	Defendant: PORTER, ELIZABETH SARA	Complainant: LI	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/ EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT19002320-00	Defendant: POWELL, SHAKIL MALIK	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 54/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19002271-00	Defendant: PRICE, RODNEY LEE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT18030845-00	Defendant: QUINTANILLA, ORLANDO G; JR	Complainant: REED, B	Hearing: 02/28/2019, 9:00 AM	Charge: 73/30 SP RECKLESS	Result: CONTINUED
+Arlington General District Court	Case #: GT19002425-00	Defendant: RAGSDALE, KAMI	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 46/30 SPEEDIG	Result: WAIVED
+Arlington General District Court	Case #: GT19002358-00	Defendant: RAGSDALE, KAMI D	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: NO COUNTY DECAL	Result: FINAL
+Arlington General District Court	Case #: GC19000848-00	Defendant: RANDALL, LATASHA DESHAWN	Complainant: WHITE,J	Hearing: 02/28/2019, 9:00 AM	Amended Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GT18041413-00	Defendant: REATEGUI, JOSE LUIS	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 55/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT18041421-00	Defendant: REYES, CESAR ARMANDO	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: FINAL
+Arlington General District Court	Case #: GT18041422-00	Defendant: REYES, CESAR ARMANDO	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: IMPROPER WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT19002329-00	Defendant: RIDLEY, MYKELL ASAUNTE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 62/42 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT18041379-00	Defendant: RILEY, DARRYL NELSON; JR	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE W/O VALID REG	Result: FINAL
+Arlington General District Court	Case #: GT19002282-00	Defendant: ROBLES, NADIA	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 49/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GC19000824-00	Defendant: ROSE, ANDREW LEE	Complainant: NUCELLI, A	Hearing: 02/28/2019, 9:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19000825-00	Defendant: ROSE, ANDREW LEE	Complainant: NUCELLI, A	Hearing: 02/28/2019, 9:00 AM	Charge: DRUG SALE ON,NEAR SCHOOL,LIBR	Result: CONTINUED
+Arlington General District Court	Case #: GT19001713-00	Defendant: ROSEN, VALERI	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002289-00	Defendant: RUBBO, ALEXANDER N	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 43/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19002259-00	Defendant: SAMUEL, DEONTE LAMAR	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: EXPIRED VA TAGS (11/18)	Result: FINAL
+Arlington General District Court	Case #: GT19002261-00	Defendant: SAMUEL, DEONTE LAMAR	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19003420-00	Defendant: SANCHEZ, IVAN GUSTAVO	Complainant: HOFFMAN,	Hearing: 02/28/2019, 9:00 AM	Charge: DR ON SUSP	Result: FINAL
+Arlington General District Court	Case #: GT19002335-00	Defendant: SEID, LUCAS F	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001825-00	Defendant: SELBY, SAMUEL	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 60/45 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001714-00	Defendant: SHAKER, ROBERT	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001740-00	Defendant: SHARPLESS, ANDREA RENE	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: FINAL
+Arlington General District Court	Case #: GT19001760-00	Defendant: SIMPSON, FLORA MALDONADO	Complainant: LI, J	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBY TRFC CNTRL DEVICE	Result: FINAL
+Arlington General District Court	Case #: GT19000417-00	Defendant: SLIWA, CYNTHIA A	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: 46/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001717-00	Defendant: SLONINA, ERIN	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19000744-00	Defendant: SMITH, SHEILA M	Complainant: VELEZ, T	Hearing: 02/28/2019, 9:00 AM	Charge: RESTRICTED AREA	Result: FINAL
+Arlington General District Court	Case #: GT19002326-00	Defendant: SOMVANG, SUDA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 38/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19002222-00	Defendant: STARKE, PATRICK JOSEPH	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19000808-00	Defendant: STERNER, KENNETH LLOYD	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 9:00 AM	Charge: IMPROPER LANE CHANGE	Result: WAIVED
+Arlington General District Court	Case #: GT19002269-00	Defendant: STRUB, ROBIN ELEANDOR	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19001749-00	Defendant: STUART, MICHAEL WILLIAM	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO TURN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18033075-00	Defendant: SWANSON, ANDRIA	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE SUSPENDED	Result: FINAL
+Arlington General District Court	Case #: GT18041390-00	Defendant: TAUQGER, MOHAMMAD	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN NO RT ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18041423-00	Defendant: TAYLOR, ALEIA MELEIKA	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 50/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GC19000791-00	Defendant: TAYLOR, DARIUS CANARD	Complainant: MALDONADO RIVERA, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000792-00	Defendant: TAYLOR, DARIUS CANARD	Complainant: MALDONADO RIVERA, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000811-00	Defendant: TAYLOR, DARIUS CANARD	Complainant: MALDONADO RIVERA, M	Hearing: 02/28/2019, 9:00 AM	Charge: POSSESSION OF BURGLARY TOOLS	Result: CONTINUED
+Arlington General District Court	Case #: GT19003436-00	Defendant: THABET, MYDINAR R	Complainant: BARNICKLE	Hearing: 02/28/2019, 9:00 AM	Charge: FTO HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19001718-00	Defendant: THOMPSON, TAMAR	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 40/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19002338-00	Defendant: TORNEY, PAGE C	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18041404-00	Defendant: TOWNSEND, JAMES JOYE; JR	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: FT OBEY HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002315-00	Defendant: TRENT, STONEY ALEXANDER	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 54/45 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19001720-00	Defendant: TZIROS, KRISTIN	Complainant: HALL	Hearing: 02/28/2019, 9:00 AM	Charge: 41/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19003371-00	Defendant: UMANA, ERICK	Complainant: AHMED	Hearing: 02/28/2019, 9:00 AM	Amended Charge: FTP FULL TIME AND ATTN	Result: FINAL
+Arlington General District Court	Case #: GT19002236-00	Defendant: UMERES-JUAREZ, HALLUAND	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 47/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001810-00	Defendant: VACAFLOR, MILVIA	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 47/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19001332-00	Defendant: VEGA RODRIGUEZ, MICHELLE ENID	Complainant: GOTCHER, K	Hearing: 02/28/2019, 9:00 AM	Charge: FAIL TO OBEY NO RIGHT ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT18041394-00	Defendant: VIGIL HERNANDEZ, LEIDY SARAI	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT19001805-00	Defendant: W-MESKEL, MAKIDA	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Charge: 44/30 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT18027663-00	Defendant: WAITE, SHANANDO THEODORE	Complainant: CLARK, J	Hearing: 02/28/2019, 9:00 AM	Charge: IMPROPER REG MD SUSPENDED TAG	Result: CONTINUED
+Arlington General District Court	Case #: GT19003365-00	Defendant: WALKER, BAILUS	Complainant: AMES, K	Hearing: 02/28/2019, 9:00 AM	Charge: STOP 100FT OF BIKE LANE	Result: FINAL
+Arlington General District Court	Case #: GT18041377-00	Defendant: WALKER, JAMAR KENTRELL	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: DRIVE SUSPENDED	Result: CONTINUED
+Arlington General District Court	Case #: GT18041378-00	Defendant: WALKER, JAMAR KENTRELL	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 65/55 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041372-00	Defendant: WALL, KELVIN	Complainant: FREEMAN, T	Hearing: 02/28/2019, 9:00 AM	Charge: FT PAY FULL TIME+ATTENTION	Result: FINAL
+Arlington General District Court	Case #: GT19002227-00	Defendant: WARD, CLAIRE M	Complainant: TUOMEY	Hearing: 02/28/2019, 9:00 AM	Charge: 42/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19000421-00	Defendant: WEISS, GAYLE	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 42/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041370-00	Defendant: WHITAKER, DEBORAH A	Complainant: TUOMEY, J	Hearing: 02/28/2019, 9:00 AM	Charge: PASSING CAR ON SHOULER OF HWY	Result: WAIVED
+Arlington General District Court	Case #: GT18041408-00	Defendant: WILKS, SHANEL JAYDE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: 64/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT18041398-00	Defendant: WILLIAMS, BRITNEY	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 42/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001125-00	Defendant: WOLFORD, LISA	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 45/30 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18041360-00	Defendant: YATES, VICTORIA ANNE	Complainant: AMES, B	Hearing: 02/28/2019, 9:00 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT19002250-00	Defendant: YOUNG, CHARLES ROYSTER	Complainant: GOTCHER	Hearing: 02/28/2019, 9:00 AM	Charge: 47/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001786-00	Defendant: ZALAZAR, GRACIELA BEATRIZ	Complainant: RIHL, M	Hearing: 02/28/2019, 9:00 AM	Amended Charge: 39/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT18041399-00	Defendant: ZAPATA ROJAS, RONAL	Complainant: HALL, A	Hearing: 02/28/2019, 9:00 AM	Charge: 42/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19001772-00	Defendant: ZENTENO, CARLOS DAVID	Complainant: WOOLLEY	Hearing: 02/28/2019, 9:00 AM	Charge: U-TURN OVER DOUBLE YELLOW LINE	Result: FINAL
+Arlington General District Court	Case #: GC18003681-00	Defendant: ALLEN, THEODORE	Complainant: SINGAL, N	Hearing: 02/28/2019, 9:30 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19000481-00	Defendant: BROCKMAN, SARA TAYLOR	Complainant: CHANNON, G.S.	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000150-00	Defendant: BURTON, JOHNNY BERNARD	Complainant: BOADU, M	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000492-00	Defendant: CLEGG, STEPHEN DAVID	Complainant: SWEARINGER, P	Hearing: 02/28/2019, 9:30 AM	Charge: PUBLIC URINATIION	Result: FINAL
+Arlington General District Court	Case #: GC19000493-00	Defendant: CLEGG, STEPHEN DAVID	Complainant: SWEARINGER, P	Hearing: 02/28/2019, 9:30 AM	Charge: PUBLIC INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GC18004483-00	Defendant: CRAWLEY, DARRET FITZGERALD	Complainant: GILES, K	Hearing: 02/28/2019, 9:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC18004483-01	Defendant: CRAWLEY, DARRET FITZGERALD	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 9:30 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: FINAL
+Arlington General District Court	Case #: GC19000491-00	Defendant: CRAWLEY, DARRET FITZGERALD	Complainant: GILES, K	Hearing: 02/28/2019, 9:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC18004323-00	Defendant: DANTZLER, CHARLES ANTHONY; JR	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 9:30 AM	Amended Charge: POSSESS CTRL DRUG PARA	Result: FINAL
+Arlington General District Court	Case #: GC19000641-00	Defendant: DAVIS, LARRY	Complainant: TAYLOR, L	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000642-00	Defendant: GRAHAM, AVA MONET	Complainant: TAYLOR, L	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000167-00	Defendant: GRAHAM, SEAN	Complainant: R. AHMED	Hearing: 02/28/2019, 9:30 AM	Charge: PUBLIC INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GC19000643-00	Defendant: HINTON, MARCUS ANTOINE	Complainant: MERCURE, J	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000640-00	Defendant: JACKSON, JAVONEE	Complainant: TAYLOR, L	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC18005166-00	Defendant: JAMES, SHARLIE DENISE	Complainant: BLACK, R	Hearing: 02/28/2019, 9:30 AM	Charge: ASSAULT: (MISDEMEANOR)	Result: CONTINUED
+Arlington General District Court	Case #: GC19000703-00	Defendant: JOHNSON, AARON DELONTE; JR	Complainant: MILTON, A	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000390-00	Defendant: KHAN, ADIL	Complainant: STANCIK, B.	Hearing: 02/28/2019, 9:30 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GC19000318-00	Defendant: MILLER, KATHERINE GRACE	Complainant: SMITH, A.	Hearing: 02/28/2019, 9:30 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: WAIVED
+Arlington General District Court	Case #: GC18003682-00	Defendant: MILLER, TROY ELLIS	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 9:30 AM	Amended Charge: UNLAWFUL ENTRY	Result: CONTINUED
+Arlington General District Court	Case #: GC18005193-00	Defendant: NICHOLS, AMARI JARELL	Complainant: SIMON, B	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000261-00	Defendant: PAIGE, NORA TOFFEE	Complainant: BAKER, D	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000149-00	Defendant: SUTTON, GLENN; III	Complainant: FARE EVASION	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19000073-00	Defendant: THOMAS, CHRISTOPHER	Complainant: PAGE, L	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC18004746-00	Defendant: THORPE, JOSEPH M	Complainant: HIRSCHMAN, C	Hearing: 02/28/2019, 9:30 AM	Amended Charge: POSSESS CTRL DRUG PARA	Result: FINAL
+Arlington General District Court	Case #: GC18001223-00	Defendant: WARREN, SAMMIE JEREMAIAH	Complainant: FABBRI, J	Hearing: 02/28/2019, 9:30 AM	Amended Charge: POSSESS CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC18001809-00	Defendant: WARREN, SAMMIE JEREMAIAH	Complainant: VIERNES, A	Hearing: 02/28/2019, 9:30 AM	Amended Charge: POSS OF MARIJUANA 2ND OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC18001809-01	Defendant: WARREN, SAMMIE JEREMAIAH	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 9:30 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC18004024-00	Defendant: WIGINGTON, DIONTA	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 9:30 AM	Amended Charge: POSSESSION OF MARIJUANA	Result: FINAL
+Arlington General District Court	Case #: GC19000260-00	Defendant: WREN, TYNARA	Complainant: BAKER, D	Hearing: 02/28/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC18002659-00	Defendant: ANDERSON, MENELIK MAKONNEN	Complainant: WHITE, A	Hearing: 02/28/2019, 10:00 AM	Amended Charge: UNLAWFUL ENTRY	Result: CONTINUED
+Arlington General District Court	Case #: GT19003268-00	Defendant: ANDREWS, NICHOLAS Z	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *11/18*	Result: WAIVED
+Arlington General District Court	Case #: GT19003332-00	Defendant: AYDIN, NAZIM	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 70/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003343-00	Defendant: BAMASI, SAMIRA DIANA	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 70/55 SP	Result: CONTINUED
+Arlington General District Court	Case #: GT19001899-00	Defendant: BELL, TREVN KIIRSTON	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: 79/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19004641-00	Defendant: BRITAN, CLARK DAVID	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: WAIVED
+Arlington General District Court	Case #: GT19001900-00	Defendant: BUSTAMANTE, JENNIFER L	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION	Result: WAIVED
+Arlington General District Court	Case #: GT19003345-00	Defendant: CARPENTER, DEREK JEROME	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19003325-00	Defendant: CASTILLO-FLORES, ALEXANDER A	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: 76/55 SP	Result: FINAL
+Arlington General District Court	Case #: GC18003229-00	Defendant: CASTRO-HERNANDEZ, DAVID ISRAEL	Complainant: FRANCIS	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA (1ST)	Result: CONTINUED
+Arlington General District Court	Case #: GT18033818-00	Defendant: CHA, JUSTIN LEE	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: FOLLOWING TOO CLOSE/ACC	Result: FINAL
+Arlington General District Court	Case #: GT19004002-00	Defendant: CHOLE, RAHEZ F.	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: IMPEDEDING-FLOW OF TRAFFIC	Result: WAIVED
+Arlington General District Court	Case #: GT19003349-00	Defendant: CRUZ, ABNER	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 69/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19004633-00	Defendant: DAVAANYAM, ZORIG	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT19004634-00	Defendant: DAVAANYAM, ZORIG	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: FINAL
+Arlington General District Court	Case #: GT19004010-00	Defendant: DAVIS, ANTHONY M	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19004642-00	Defendant: DEVKOTA, BISHESWOR	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: FOLLOWING TOO CLOSELY	Result: WAIVED
+Arlington General District Court	Case #: GT19004422-00	Defendant: DOANVO, ANH VINH L	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION	Result: WAIVED
+Arlington General District Court	Case #: GT19003352-00	Defendant: DORGHAM, NOELLE SAAD	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 70/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19001372-00	Defendant: DOW, KIPCHOGE K	Complainant: PRESSOU, J	Hearing: 02/28/2019, 10:00 AM	Charge: RECKLESS DRIVING	Result: FINAL
+Arlington General District Court	Case #: GC19000566-00	Defendant: FACONER, STEPHANIE MONIQUE	Complainant: COX, J	Hearing: 02/28/2019, 10:00 AM	Amended Charge: UNAUTH DISTRIB CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GT19001888-00	Defendant: FAIG, MARGEAUX LAWSON	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION 9/18	Result: FINAL
+Arlington General District Court	Case #: GT19001889-00	Defendant: FAIG, MARGEAUX LAWSON	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: NO OL IN POSSESSION	Result: FINAL
+Arlington General District Court	Case #: GT19003353-00	Defendant: FITZGERALD, KEVIN LAWSON	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 69/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GC19000018-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 02/28/2019, 10:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000019-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 02/28/2019, 10:00 AM	Charge: USE CC SCAN INFO IN ANOTH CRIM	Result: CONTINUED
+Arlington General District Court	Case #: GC19000021-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 02/28/2019, 10:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000024-00	Defendant: GONZALEZ, FRANKLIN	Complainant: MCCLAUGHERTY, C	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GT19004644-00	Defendant: GOURLEY, ROBERT DAVID	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: WAIVED
+Arlington General District Court	Case #: GT19003356-00	Defendant: GRAVELY, KIA L	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19004636-00	Defendant: GROVER, JASON SCOTT	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: WAIVED
+Arlington General District Court	Case #: GT19004646-00	Defendant: GUERRERO SOTO, MELANY ASHLY	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: CONTINUED
+Arlington General District Court	Case #: GC18004769-00	Defendant: HAILE, SAMUEL	Complainant: MCCLAUGHERTY, C	Hearing: 02/28/2019, 10:00 AM	Amended Charge: UNAUTH DISTRIB CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC18004769-01	Defendant: HAILE, SAMUEL	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 10:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC18004770-00	Defendant: HAILE, SAMUEL	Complainant: MCCLAUGHERTY, C	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GT19003357-00	Defendant: HALL, CAROLYN M	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 68/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19003295-00	Defendant: HALL, WILLIAM RUSSELL	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXP REG	Result: WAIVED
+Arlington General District Court	Case #: GT19003358-00	Defendant: HARRIS, DARRYL; JR	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GC18004862-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K.	Hearing: 02/28/2019, 10:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004863-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K.	Hearing: 02/28/2019, 10:00 AM	Charge: TRANSPORT DRUGS INTO VIRGINIA	Result: CONTINUED
+Arlington General District Court	Case #: GC18004864-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K.	Hearing: 02/28/2019, 10:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004865-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K.	Hearing: 02/28/2019, 10:00 AM	Charge: TRANSPORT DRUGS INTO VIRGINIA	Result: CONTINUED
+Arlington General District Court	Case #: GC18004866-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K., VSP	Hearing: 02/28/2019, 10:00 AM	Charge: TRANSPORT DRUGS INTO VIRGINIA	Result: CONTINUED
+Arlington General District Court	Case #: GC18004867-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K	Hearing: 02/28/2019, 10:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004868-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: BROWN, K	Hearing: 02/28/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004902-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: K. BROWN	Hearing: 02/28/2019, 10:00 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004903-00	Defendant: HASSEN, HASSEN MOSTAFA	Complainant: K. BROWN	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESS GUN W/ SCH I-II DRUG	Result: CONTINUED
+Arlington General District Court	Case #: GT19003361-00	Defendant: HEALY, CASEY JAMES	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 69/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003293-00	Defendant: HENHAM, JASON LEIGH	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *9/18*	Result: FINAL
+Arlington General District Court	Case #: GT19003300-00	Defendant: HERNANDEZ, JAVIER GEOVANY	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REG	Result: WAIVED
+Arlington General District Court	Case #: GT19003304-00	Defendant: HERNANDEZ, JAVIER GEOVANY	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXP STATE INSPECTION	Result: WAIVED
+Arlington General District Court	Case #: GT19003362-00	Defendant: HOUSER, KAREN ANN	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: IMPRO PASSING ON SHOULDER	Result: FINAL
+Arlington General District Court	Case #: GT19004007-00	Defendant: IZAGUIRRE-CARRASCO, YENIFER K	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19004008-00	Defendant: IZAGUIRRE-CARRASCO, YENIFER K	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: DR W/O LIGHTS AFTER DARK	Result: CONTINUED
+Arlington General District Court	Case #: GT19004637-00	Defendant: JALDIN HERBAS, ROGER	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: FINAL
+Arlington General District Court	Case #: GT19004020-00	Defendant: JOHNSON, SHAMAR	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: FINAL
+Arlington General District Court	Case #: GT19004087-00	Defendant: JOHNSON, SHAMAR LORENI	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19004094-00	Defendant: JOHNSON, SHAMAR LORENZ	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: HOV VIOLATION	Result: FINAL
+Arlington General District Court	Case #: GT19004016-00	Defendant: JOHNSON, SHMAR LORENZ	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT19001901-00	Defendant: JOHNSON, TRENT D'ARBY G	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: DRV IN VIOL OF RESTRICTED LIC	Result: FINAL
+Arlington General District Court	Case #: GT19001902-00	Defendant: JOHNSON, TRENT D'ARBY G	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19003366-00	Defendant: JONES, TRACY LEE	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 68/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19004638-00	Defendant: KANAN, AZAD Z	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: FINAL
+Arlington General District Court	Case #: GC18005181-00	Defendant: KENNEDY, JUANITA MARIE	Complainant: BIGGERS, L	Hearing: 02/28/2019, 10:00 AM	Amended Charge: UNLAWFUL ENTRY	Result: CONTINUED
+Arlington General District Court	Case #: GT19001891-00	Defendant: KESLER, JAMES LAWRENCE	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: FTO HWY SGN NO TTL W/IN BELTWY	Result: WAIVED
+Arlington General District Court	Case #: GT19003294-00	Defendant: KLEIN, ANDREW FOX	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *12/18*	Result: FINAL
+Arlington General District Court	Case #: GT19003368-00	Defendant: LAWRENCE, BRYIAN W	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT19007129-00	Defendant: LENSING, ZOE LENORA	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT18041425-00	Defendant: LIGO, BRYCE RAYMOND	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: IMPROPER PASSING ON RT SHOULDR	Result: WAIVED
+Arlington General District Court	Case #: GT19003381-00	Defendant: LOGAN, ASHLEIGH ERIN	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 72/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT18039723-00	Defendant: LOVE, DEIDRE V.	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:00 AM	Charge: DWI: 1ST OFF, BAC .15-.20%	Result: CONTINUED
+Arlington General District Court	Case #: GT19003114-00	Defendant: MAGGI, FEDERICO	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: FOLLOW TO CLOSELY	Result: WAIVED
+Arlington General District Court	Case #: GT19003323-00	Defendant: MAHAN, KRISTIN LEE	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXP STATE INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19001894-00	Defendant: MCDOWALD, JOSEPH BERMENT	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: NO VALID OL SUSPENDED MD OL	Result: FINAL
+Arlington General District Court	Case #: GT19001895-00	Defendant: MCDOWALD, JOSEPH BERMENT	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: UNREGISTERED MOTOR VEH 6/18	Result: FINAL
+Arlington General District Court	Case #: GT19002082-00	Defendant: MEJIA, FRANCISCO	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: WAIVED
+Arlington General District Court	Case #: GT19003382-00	Defendant: MILUKOFF, ANDREW ALEXIS	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SP	Result: FINAL
+Arlington General District Court	Case #: GT19003297-00	Defendant: MUTHUSWAMY, THIYAGHU	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *11/18*	Result: WAIVED
+Arlington General District Court	Case #: GT19004003-00	Defendant: NIMMER, ELIAS G.	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: FOLLOWING TOO CLOSELY	Result: CONTINUED
+Arlington General District Court	Case #: GT19001903-00	Defendant: OBANDO, SILVIA	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION 9/18	Result: CONTINUED
+Arlington General District Court	Case #: GT19001896-00	Defendant: PARK, SHANG TACK	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: FAIL TO DIM HEADLIGHTS	Result: WAIVED
+Arlington General District Court	Case #: GT19003298-00	Defendant: PARKER, MILTON T; JR	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *10/17*	Result: FINAL
+Arlington General District Court	Case #: GT19003384-00	Defendant: PAYLOV, ALEKSEY D	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 74/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19004009-00	Defendant: PAYSON, GEOFFREY G	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: 76/55 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19003302-00	Defendant: RALPH, AUBREY J	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *12/18*	Result: FINAL
+Arlington General District Court	Case #: GT19001905-00	Defendant: RANEY, ANNETTE P	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION 10/18	Result: WAIVED
+Arlington General District Court	Case #: GT19004630-00	Defendant: REED, SUZANNE BARABARA	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: HOV VIOLATION	Result: CONTINUED
+Arlington General District Court	Case #: GT19004631-00	Defendant: REED, SUZANNE BARBARA	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: DRIVE W/ SUSP/REVOKED LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19004005-00	Defendant: RICHMOND, AIME CLOVIS	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: IMPROPER PASSING ON RIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19004006-00	Defendant: RICHMOND, AIME-CLOVIS	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: FAIL YIELD R-O-W EMERGENCY VEH	Result: FINAL
+Arlington General District Court	Case #: GT18032852-00	Defendant: RIVERA-PINEDA, JONNY	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: RECKLESS BY SP 102/55	Result: FINAL
+Arlington General District Court	Case #: GT19007133-00	Defendant: RIZO GONZALEZ, ALEJANDRO E	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION 12/18	Result: FINAL
+Arlington General District Court	Case #: GT18035616-00	Defendant: ROBINSON, WILLIAM TYRONE	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: NO INSPECTION STICKER	Result: CONTINUED
+Arlington General District Court	Case #: GT18035617-00	Defendant: ROBINSON, WILLIAM TYRONE	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: RECKLESS DRIVE 103/55	Result: CONTINUED
+Arlington General District Court	Case #: GT19001897-00	Defendant: RODRIGUEZ-LEWIN, MARIO E	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION 10/18	Result: FINAL
+Arlington General District Court	Case #: GT19000420-00	Defendant: ROGERS, DONNELL MARSHALL	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXP INSPECTION (7/18)	Result: FINAL
+Arlington General District Court	Case #: GT19000423-00	Defendant: ROGERS, DONNELL MARSHALL	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: DRIVING WHILE SUSPENDED	Result: FINAL
+Arlington General District Court	Case #: GT19003401-00	Defendant: ROMERO, BRAULIO JOSE	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SP	Result: CONTINUED
+Arlington General District Court	Case #: GT19004639-00	Defendant: RONNEBERG, DAVID M	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REJECTION STICKER	Result: WAIVED
+Arlington General District Court	Case #: GT18041878-00	Defendant: RUBIO, CINDY E	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXP INSPECTION (8/18)	Result: WAIVED
+Arlington General District Court	Case #: GC18004375-00	Defendant: RUIZ, CESAR PATRICIO	Complainant: CHUNG, J	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC18004375-01	Defendant: RUIZ, CESAR PATRICIO	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 10:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC18004435-00	Defendant: RUIZ, CESAR PATRICIO	Complainant: GARDNER, D	Hearing: 02/28/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA (2ND)	Result: CONTINUED
+Arlington General District Court	Case #: GC18004435-01	Defendant: RUIZ, CESAR PATRICIO	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 10:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19003402-00	Defendant: SACULLES, DANIEL SOMERA	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 71/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003403-00	Defendant: SCHIDLO, ANGELA MARIE	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 71/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003306-00	Defendant: SCHRAY, MEGAN E	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR REGIS *9/18*	Result: FINAL
+Arlington General District Court	Case #: GT19003308-00	Defendant: SCHRAY, MEGAN E	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *8/18*	Result: FINAL
+Arlington General District Court	Case #: GT19004000-00	Defendant: SEBES, SHINE	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: DR W/O LIGHTS/HEADLIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19004004-00	Defendant: SEBES, SHINE	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: IMPROPER STOPPING	Result: FINAL
+Arlington General District Court	Case #: GT19003404-00	Defendant: SEITZ, JORDAN C	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 73/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003410-00	Defendant: SHEARMAN, DAVID ROBERT	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 73/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003310-00	Defendant: SHEARS, MEREDITH PAIGE V	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *12/18*	Result: WAIVED
+Arlington General District Court	Case #: GT19003311-00	Defendant: SPARKS, TYLER KENDALL	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR REGIS *9/18*	Result: WAIVED
+Arlington General District Court	Case #: GT19003335-00	Defendant: STRONG, DESEAN JASMINE	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: NO VALID OL	Result: FINAL
+Arlington General District Court	Case #: GT19004640-00	Defendant: TAHIR, ADEEN A	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19004414-00	Defendant: TEKLE, SOLOMON GODAME	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: FTO TRAFFIC LIGHT	Result: WAIVED
+Arlington General District Court	Case #: GT19004015-00	Defendant: THOMAS, CHANDLER	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: 73/55 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19003411-00	Defendant: THOMPSON, BRIAN K	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: IMPROPER CONTROL/DRIVING	Result: FINAL
+Arlington General District Court	Case #: GT19001906-00	Defendant: TOROSSIAN, ADRIANA V	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: FAIL TO RENEW VA OL	Result: CONTINUED
+Arlington General District Court	Case #: GT19001907-00	Defendant: TOROSSIAN, ADRIANA V	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Amended Charge: 64/55 SP	Result: CONTINUED
+Arlington General District Court	Case #: GC19000685-00	Defendant: TRICE, VINCENT LAMONT	Complainant: A. GILES	Hearing: 02/28/2019, 10:00 AM	Charge: ROBBERY: BANK OR BANK INST.	Result: CONTINUED
+Arlington General District Court	Case #: GT19003337-00	Defendant: TURAY, CARLTON CHRISTIAN	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXP STATE INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19003341-00	Defendant: TURAY, CARLTON CHRISTIAN	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: DRIVE WHILE SUSP	Result: FINAL
+Arlington General District Court	Case #: GT19003328-00	Defendant: VETTER, JACOB STANLEY	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR INSPEC *10/18*	Result: FINAL
+Arlington General District Court	Case #: GT19003329-00	Defendant: VETTER, JACOB STANLEY	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR REGIS *12/18*	Result: FINAL
+Arlington General District Court	Case #: GT19001898-00	Defendant: VILLEGAS, MICHAEL D	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: RECKLESS 83/55	Result: FINAL
+Arlington General District Court	Case #: GT19001908-00	Defendant: WHITE, DANNY D	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19001909-00	Defendant: WHITE, DANNY D	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED STATE INSPECTION 7/18	Result: FINAL
+Arlington General District Court	Case #: GT19003315-00	Defendant: WHITE, DAVID ALLEN	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR STATE INSPEC *10/18*	Result: WAIVED
+Arlington General District Court	Case #: GT19002536-00	Defendant: WIKER, ERIK DANIEL	Complainant: BICKING, D.R.	Hearing: 02/28/2019, 10:00 AM	Charge: EXP INSPECTION (12/18)	Result: FINAL
+Arlington General District Court	Case #: GT19003413-00	Defendant: WILSON, CHRISTOPHER HENRY	Complainant: MITTENDORFF, S	Hearing: 02/28/2019, 10:00 AM	Charge: 68/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GT19003347-00	Defendant: WU, VICTOR ZAN	Complainant: JEZIORO	Hearing: 02/28/2019, 10:00 AM	Charge: EXP STATE INSPECTION	Result: CONTINUED
+Arlington General District Court	Case #: GT19004632-00	Defendant: WYE, LASHAUN RAMONA	Complainant: KARBOWSKI, T	Hearing: 02/28/2019, 10:00 AM	Charge: IMPROPER PASSING ON RIGHT	Result: WAIVED
+Arlington General District Court	Case #: GT19003316-00	Defendant: XU, ZEYU	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIR REGIS *11/18*	Result: WAIVED
+Arlington General District Court	Case #: GT18037177-00	Defendant: YAWORSKY, ZENIA M	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED VA REGISTRATION	Result: CONTINUED
+Arlington General District Court	Case #: GT18037178-00	Defendant: YAWORSKY, ZENIA M	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: EXPIRED VA INSPECTION	Result: CONTINUED
+Arlington General District Court	Case #: GT18037179-00	Defendant: YAWORSKY, ZENIA M	Complainant: BRUMETT-PADIN, G	Hearing: 02/28/2019, 10:00 AM	Charge: DRIVING SUSPENDED	Result: CONTINUED
+Arlington General District Court	Case #: GT19003997-00	Defendant: AGBAOKU, SODIQ A	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Amended Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19006856-00	Defendant: AHMED, MUSHTAQ	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19002899-00	Defendant: AYELE, DAGEM GETACHEW	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD TRAFFIC LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19003429-00	Defendant: BATSON, KEVIN	Complainant: STANDISH, D	Hearing: 02/28/2019, 10:30 AM	Charge: PARKING-PERMIT REQUIRED	Result: FINAL
+Arlington General District Court	Case #: GT19006821-00	Defendant: BEJJAOUI, HASSAN	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: DR SIDE BREAK LIGHT OUT	Result: FINAL
+Arlington General District Court	Case #: GT18041229-00	Defendant: BEST, JIMMY FRANKLIN; JR	Complainant: SMITH, A.	Hearing: 02/28/2019, 10:30 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT19002900-00	Defendant: BHETWAL, RAM	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: FTO HWY SIGN NO RT TRN ON RED	Result: WAIVED
+Arlington General District Court	Case #: GT19000422-00	Defendant: BLOCKLIN, JUNE	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT18040077-00	Defendant: BRISKMAN, ROBERT DAVID; JR	Complainant: SLACK, T	Hearing: 02/28/2019, 10:30 AM	Amended Charge: IMPROPER CONTROL/DRIVING	Result: CONTINUED
+Arlington General District Court	Case #: GT18032639-00	Defendant: BURDIN, HALLIE AMBER; III	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:30 AM	Amended Charge: RD-GENERALLY-MISD	Result: FINAL
+Arlington General District Court	Case #: GT18032640-00	Defendant: BURDIN, HALLIE AMBER; III	Complainant: JEZIORO, S	Hearing: 02/28/2019, 10:30 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: FINAL
+Arlington General District Court	Case #: GT19001756-00	Defendant: BUSHERA, KEDIR O.	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002888-00	Defendant: COLLAZO, TROY WADI	Complainant: SMITH, A.	Hearing: 02/28/2019, 10:30 AM	Charge: EXP REGISTRATION VA 10/2018	Result: WAIVED
+Arlington General District Court	Case #: GT19002339-00	Defendant: CROCKER, NICHOLAS LEE	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: 46/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18034733-00	Defendant: DINGA, JOSEPH	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: IMPRO USE OF TAGS	Result: FINAL
+Arlington General District Court	Case #: GT18034732-00	Defendant: DINGA, JOSEPH F	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19002330-00	Defendant: DOW, JONATHAN HAROLD	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Amended Charge: 34/25 SP	Result: FINAL
+Arlington General District Court	Case #: GT19006882-00	Defendant: EBADI, ABDUL H	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DEFEC HEADLIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19002332-00	Defendant: EBRAHIM, NEGA ADEM	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE TAIL LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19002354-00	Defendant: ESTIFANOS, GEZHANGE T	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002342-00	Defendant: FALOYE, SUNDAY FOLORUNSO	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: 40/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT18041433-00	Defendant: FELISMINO SABINO, JOAO G	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19003994-00	Defendant: FORTIZ, HUGO ANTONIO	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: LICENSE PLATE COVER	Result: WAIVED
+Arlington General District Court	Case #: GT19002903-00	Defendant: GARBER, DOMINIC	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: FTO HWY SIGN NO UTURN	Result: CONTINUED
+Arlington General District Court	Case #: GT19002883-00	Defendant: GEBRETSADIK, TENSAE H	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHT 2 OUT	Result: FINAL
+Arlington General District Court	Case #: GC18004928-00	Defendant: GRANDE GOMEZ, EDWIN SAUL	Complainant: AMES, B	Hearing: 02/28/2019, 10:30 AM	Amended Charge: UNAUTH DISTRIB CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GT18038552-00	Defendant: GRANDE GOMEZ, EDWIN SAUL	Complainant: AMES, B	Hearing: 02/28/2019, 10:30 AM	Charge: IMPROPER WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT18041432-00	Defendant: GREGORY, DONTA J	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19002336-00	Defendant: H YOSPH, HENOK TODESS	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: USE OF 2 EARPHONES PROHIBITED	Result: FINAL
+Arlington General District Court	Case #: GC18005201-00	Defendant: HAMLER, LANESHIA	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: DISORDERLY CONDUCT	Result: FINAL
+Arlington General District Court	Case #: GC18005202-00	Defendant: HAMLER, LANESHIA	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GT19002327-00	Defendant: HYUN, CELINA	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: FAILURE TO STOP AT STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002403-00	Defendant: JANNEH, ALHAJI I	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARDING RED LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19006383-00	Defendant: JOHNSON, ASHA NEQUIA	Complainant: MATTICE, J	Hearing: 02/28/2019, 10:30 AM	Charge: NO INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19002904-00	Defendant: JOHNSON, WILLIAM C	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: 2 BRAKE LIGHTS OUT	Result: FINAL
+Arlington General District Court	Case #: GT19006820-00	Defendant: KAGARISE, JASON MICHAEL	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIR REGIS	Result: FINAL
+Arlington General District Court	Case #: GT19000747-00	Defendant: KEARNEY, STEPHEN JOHN	Complainant: WILLIAMS, T	Hearing: 02/28/2019, 10:30 AM	Charge: EXP REG 11/18	Result: WAIVED
+Arlington General District Court	Case #: GT19000739-00	Defendant: KERSTEN, GEERT R	Complainant: SMITH, A.	Hearing: 02/28/2019, 10:30 AM	Charge: EXP REGISTRATION 10/18	Result: WAIVED
+Arlington General District Court	Case #: GT19002323-00	Defendant: KIFLE, EFREM	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Amended Charge: 34/25 SP	Result: FINAL
+Arlington General District Court	Case #: GT18041434-00	Defendant: KUNGABA, SAMMUA N	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD RED LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19006836-00	Defendant: KYEI, ALEX	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: PASSENGER BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT18038361-00	Defendant: LAU, FERNANDO A	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE HEADLIGHT	Result: FINAL
+Arlington General District Court	Case #: GT18038362-00	Defendant: LAU, FERNANDO A	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: DRIVING WHILE SUSPENDED	Result: FINAL
+Arlington General District Court	Case #: GT19002310-00	Defendant: LOVINCE, WILLYS	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE HEADLIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19002366-00	Defendant: MANUCHAROV, VAZGEIN	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD RED LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT18041427-00	Defendant: MILLER, BRUCE F	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002360-00	Defendant: MOHAMED, EL TAHER AHMED T	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD RED LIGHT	Result: FINAL
+Arlington General District Court	Case #: GC18004938-00	Defendant: MORAN, PETER DAWSON	Complainant: AMES, K	Hearing: 02/28/2019, 10:30 AM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GT18038544-00	Defendant: MORAN, PETER DAWSON	Complainant: AMES, K	Hearing: 02/28/2019, 10:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT18038545-00	Defendant: MORAN, PETER DAWSON	Complainant: AMES, K	Hearing: 02/28/2019, 10:30 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT18038962-00	Defendant: MORAN, PETER DAWSON	Complainant: AMES, K	Hearing: 02/28/2019, 10:30 AM	Charge: DRIVE WITH NO OL IN POSS.	Result: CONTINUED
+Arlington General District Court	Case #: GT19002298-00	Defendant: NKOM, JEAN ARIEL	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: TAIL LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19006827-00	Defendant: NORBU, GONGCHEN	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: DEFEC EQUIP	Result: FINAL
+Arlington General District Court	Case #: GT19006872-00	Defendant: OSAKWE, DONNY O	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DEFEC 3RD BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT18041426-00	Defendant: OSHODI, CYNTHIA O	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: EXP REG (1/17)	Result: FINAL
+Arlington General District Court	Case #: GT19006849-00	Defendant: OYESOLA, AYODELE	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: NO BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19002896-00	Defendant: PANDTLE, CHRISTIAN ASHMORE	Complainant: SWEARINGER, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD SIGN (STOP SIGN)	Result: WAIVED
+Arlington General District Court	Case #: GC18005050-00	Defendant: PIERRELUS, MONROE NEHEMIE	Complainant: AMES, B	Hearing: 02/28/2019, 10:30 AM	Amended Charge: FAILT TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GT19002897-00	Defendant: POOLE, LINDSEY WINSHIP	Complainant: SWEARINGER, P	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED TAGS 01/2018	Result: FINAL
+Arlington General District Court	Case #: GT19002906-00	Defendant: QIANG, SHENG	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: NO OL	Result: FINAL
+Arlington General District Court	Case #: GT19002907-00	Defendant: QIANG, SHENG	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED SAFETY INSP 09/18	Result: FINAL
+Arlington General District Court	Case #: GT19002908-00	Defendant: QIANG, SHENG	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19002316-00	Defendant: RAYAMAHJHI, NAKUL KUMAR	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE HEALIGHT	Result: FINAL
+Arlington General District Court	Case #: GC18005037-00	Defendant: RICHMOND, RONDA MICHELLE	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 10:30 AM	Amended Charge: DISORDERLY CONDUCT	Result: FINAL
+Arlington General District Court	Case #: GC18005043-00	Defendant: RICHMOND, RONDA MICHELLE	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 10:30 AM	Charge: FAIL TO ID	Result: FINAL
+Arlington General District Court	Case #: GT18040207-00	Defendant: RICHMOND, RONDA MICHELLE	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 10:30 AM	Charge: RECK DR; ENDANG LIFE/LIMB/PROP	Result: FINAL
+Arlington General District Court	Case #: GT18040208-00	Defendant: RICHMOND, RONDA MICHELLE	Complainant: WILLIAMS, R.D.	Hearing: 02/28/2019, 10:30 AM	Charge: UNLAWFL/IMPROP USE WARN DEVICE	Result: FINAL
+Arlington General District Court	Case #: GT19002878-00	Defendant: RIPPETOE, ROBIN E	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED REGISTRATION 11/18	Result: FINAL
+Arlington General District Court	Case #: GT19002880-00	Defendant: RIPPETOE, ROBIN E	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED SAFETY INSP 10/18	Result: FINAL
+Arlington General District Court	Case #: GT19003996-00	Defendant: ROBLES, ANDREA LILI	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19002893-00	Defendant: RODRIGUEZ, MARCIA ANDREA	Complainant: WILLIAMS, T	Hearing: 02/28/2019, 10:30 AM	Charge: EXP REG 07/18	Result: FINAL
+Arlington General District Court	Case #: GC18005276-00	Defendant: RONEY, ANTHONY LEROY	Complainant: JOY, J	Hearing: 02/28/2019, 10:30 AM	Charge: PETIT LARC <$500 NOT FRM PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GT19002080-00	Defendant: SHIFERAW, BEEFEKADU	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002412-00	Defendant: SHINAY, DAVID S	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002420-00	Defendant: SMITH, DARRYL J	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Amended Charge: 34/15 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT19002876-00	Defendant: SMITH, DARRYL J	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE EQUIP BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19002300-00	Defendant: SMITH, GREGORY WILLIAM	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: 46/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT19003999-00	Defendant: TEKLEMARIAM, AYELE ALEMU	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002417-00	Defendant: THOMAS, P FLOYD; III	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DEFECTIVE EQUIPMENT	Result: FINAL
+Arlington General District Court	Case #: GC18005289-00	Defendant: THOMAS, ROGER LESLIE	Complainant: HIRSCHMAN, C	Hearing: 02/28/2019, 10:30 AM	Amended Charge: TRESPASSING	Result: FINAL
+Arlington General District Court	Case #: GT19006208-00	Defendant: UDDIN, MOHAMMED G	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: IMPROPER U-TURN	Result: WAIVED
+Arlington General District Court	Case #: GT19002909-00	Defendant: UMUNNAH, PATRICK ODUNZE	Complainant: SLEEMAN, J	Hearing: 02/28/2019, 10:30 AM	Charge: DRIVING LFT OF DBL YELLOW LINE	Result: WAIVED
+Arlington General District Court	Case #: GT19002345-00	Defendant: UPCHURCH, THERESA ANN	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: 48/25 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT18039718-00	Defendant: VAIL ELIAS, BENEDICTO URBANO	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: DWI: 1ST OFFENSE	Result: FINAL
+Arlington General District Court	Case #: GT18039719-00	Defendant: VAIL ELIAS, BENEDICTO URBANO	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GC19000042-00	Defendant: VIGIL-VILLALTA, KEVIN	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: PURCHASE/POSSESS ALCOHOL	Result: FINAL
+Arlington General District Court	Case #: GC19000043-00	Defendant: VIGIL-VILLALTA, KEVIN	Complainant: LIPSCHUTZ, J	Hearing: 02/28/2019, 10:30 AM	Charge: PUBLIC INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GT18041431-00	Defendant: WEST, LISA L	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD HWY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002301-00	Defendant: WHITAKER, FRANK CLARENCE	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: FAILURE TO STOP AT STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT19002351-00	Defendant: WHITTAKER, CRYSTAL R	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD HWY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT18040105-00	Defendant: ZEMZEMI, KOMEL	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 10:30 AM	Charge: F.STOP AT STOP SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19002349-00	Defendant: ZEWIDIE, DANIEL K	Complainant: SILSBEE, P	Hearing: 02/28/2019, 10:30 AM	Charge: DISREGARD RED LIGHT	Result: FINAL
+Arlington General District Court	Case #: GC19000029-00	Defendant: BAKER, KENNEY LAMAR	Complainant: RIHL, M	Hearing: 02/28/2019, 11:30 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: WAIVED
+Arlington General District Court	Case #: GC19000030-00	Defendant: BAKER, KENNEY LAMAR	Complainant: RIHL, M	Hearing: 02/28/2019, 11:30 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: WAIVED
+Arlington General District Court	Case #: GC19000031-00	Defendant: BAKER, KENNEY LAMAR	Complainant: RIHL, M	Hearing: 02/28/2019, 11:30 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: FINAL
+Arlington General District Court	Case #: GC19000032-00	Defendant: BAKER, KENNEY LAMAR	Complainant: RIHL, M	Hearing: 02/28/2019, 11:30 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: WAIVED
+Arlington General District Court	Case #: GC18004817-00	Defendant: CROCHERON, QUENTIN JEVAN	Complainant: RICHARDS, D.A.	Hearing: 02/28/2019, 11:30 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: FINAL
+Arlington General District Court	Case #: GC18004817-01	Defendant: CROCHERON, QUENTIN JEVAN	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 11:30 AM	Charge: BAILEE VIOL/PRETRIAL COND	Result: FINAL
+Arlington General District Court	Case #: GC18004817-02	Defendant: CROCHERON, QUENTIN JEVAN	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 11:30 AM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC19000370-00	Defendant: ENGELKING SCOTT, WILLIAM	Complainant: SENN, J	Hearing: 02/28/2019, 11:30 AM	Charge: ROBBERY: RESIDENCE	Result: WAIVED
+Arlington General District Court	Case #: GC19000371-00	Defendant: ENGELKING SCOTT, WILLIAM	Complainant: SENN, J	Hearing: 02/28/2019, 11:30 AM	Charge: USE FIREARM IN FELONY 1ST OFF	Result: WAIVED
+Arlington General District Court	Case #: GC19000114-00	Defendant: MACK, MICHAEL JAVELL	Complainant: REESE, R	Hearing: 02/28/2019, 11:30 AM	Amended Charge: ELUDING POLICE	Result: FINAL
+Arlington General District Court	Case #: GC19000116-00	Defendant: MACK, MICHAEL JAVELL	Complainant: REESE, R	Hearing: 02/28/2019, 11:30 AM	Charge: POSSESSION OF MARIJUANA	Result: FINAL
+Arlington General District Court	Case #: GT19000384-00	Defendant: MACK, MICHAEL JAVELL	Complainant: REESE, R	Hearing: 02/28/2019, 11:30 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT19000387-00	Defendant: MACK, MICHAEL JAVELL	Complainant: REESE, R	Hearing: 02/28/2019, 11:30 AM	Charge: FAIL TO FIX DEFECTS AFTER INSP	Result: FINAL
+Arlington General District Court	Case #: GC18004884-00	Defendant: MUNOZ, MONICA G	Complainant: BLACK, R	Hearing: 02/28/2019, 11:30 AM	Charge: EMBEZZLEMENT: >=$200	Result: CONTINUED
+Arlington General District Court	Case #: GC18004885-00	Defendant: MUNOZ, MONICA G	Complainant: BLACK, R	Hearing: 02/28/2019, 11:30 AM	Charge: EMBEZZLEMENT >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC18005290-00	Defendant: SILBERG, HEIDI MICHELLE	Complainant: SMITH, A.	Hearing: 02/28/2019, 11:30 AM	Amended Charge: ASSAULT & BATTERY	Result: FINAL
+Arlington General District Court	Case #: GC18005291-00	Defendant: SILBERG, HEIDI MICHELLE	Complainant: SMITH, A.	Hearing: 02/28/2019, 11:30 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GC19000131-00	Defendant: THOMAS, TERRELL	Complainant: CLARK, J	Hearing: 02/28/2019, 11:30 AM	Charge: REC/BUY STOLEN GOODS >$500	Result: FINAL
+Arlington General District Court	Case #: GC18004875-00	Defendant: TUNNEL, NORMAN TODD	Complainant: VIERNES, A.	Hearing: 02/28/2019, 11:30 AM	Charge: NOT RETURN PROP-BAILEE >=$200	Result: FINAL
+Arlington General District Court	Case #: GC19000741-00	Defendant: CLOSS, J AUSTIN	Complainant: STEPHEN R HUMM	Hearing: 02/28/2019, 2:00 PM	Charge: DESTRUCT PROP W/INTENT <$1000	Result: CONTINUED
+Arlington General District Court	Case #: GC19000794-00	Defendant: COLEMAN, FREDO	Complainant: MARTENS, A	Hearing: 02/28/2019, 2:00 PM	Charge: PETIT LARCENY: 2ND OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19000829-00	Defendant: COOK, DARWIN	Complainant: OUZIDANE, Y	Hearing: 02/28/2019, 2:00 PM	Charge: SALE, DISTRIBUTE MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC14001198-03	Defendant: CRUZ, CATHRENO NICHOLAS	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 2:00 PM	Charge: SHOW CAUSE/RESTITUTION	Result: CONTINUED
+Arlington General District Court	Case #: GC14001198-04	Defendant: CRUZ, CATHRENO NICHOLAS	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 02/28/2019, 2:00 PM	Charge: CAPIAS/NON-COMP/RESTITUTION	Result: CONTINUED
+Arlington General District Court	Case #: GC19000805-00	Defendant: JOHNSON, EDWARD J	Complainant: GONZALEZ, N	Hearing: 02/28/2019, 2:00 PM	Charge: CARRYING WEAPON IN AIR TERM	Result: CONTINUED
+Arlington General District Court	Case #: GC19000670-00	Defendant: LEWIS, MALIK JAMAL	Complainant: FERRELL, E., TRANSIT POLICE	Hearing: 02/28/2019, 2:00 PM	Charge: DISORDERLY CONDUCT	Result: FINAL
+Arlington General District Court	Case #: GC19000670-01	Defendant: LEWIS, MALIK JAMAL	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 2:00 PM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC19000819-00	Defendant: MCCRAY, STEPFON LACON-JARAIL	Complainant: CASEY, M	Hearing: 02/28/2019, 2:00 PM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19000820-00	Defendant: MCCRAY, STEPFON LACON-JARAIL	Complainant: CASEY, M	Hearing: 02/28/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA 1ST	Result: CONTINUED
+Arlington General District Court	Case #: GC19000708-00	Defendant: MILLING, KENNETH	Complainant: WEIDMAN, D	Hearing: 02/28/2019, 2:00 PM	Amended Charge: POSSESS CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC19000069-00	Defendant: MOYA, HECTOR GABRIEL	Complainant: LOGAN, BS	Hearing: 02/28/2019, 2:00 PM	Charge: OBSTRUCTION OF JUSTICE	Result: CONTINUED
+Arlington General District Court	Case #: GT19000216-00	Defendant: MOYA, HECTOR GABRIEL	Complainant: LOGAN, BS	Hearing: 02/28/2019, 2:00 PM	Charge: EXPIRED TAGS	Result: CONTINUED
+Arlington General District Court	Case #: GT19000217-00	Defendant: MOYA, HECTOR GABRIEL	Complainant: LOGAN, BS	Hearing: 02/28/2019, 2:00 PM	Charge: SUSP FOR INSURANCE MONITORING	Result: CONTINUED
+Arlington General District Court	Case #: GT19006023-00	Defendant: PRICE, DARIUS AKEEM	Complainant: DEVON HILL	Hearing: 02/28/2019, 2:00 PM	Amended Charge: HIT AND RUN	Result: CONTINUED
+Arlington General District Court	Case #: GC19000793-00	Defendant: SIMMONS, REGINALD MAURICE	Complainant: MARTENS, A	Hearing: 02/28/2019, 2:00 PM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000357-00	Defendant: STEWART-MONDELL, KARLO ANTONI	Complainant: WASHINGTON, D	Hearing: 02/28/2019, 2:00 PM	Amended Charge: POSSESS CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC19000628-00	Defendant: THOMAS, DANZEL SAMUEL	Complainant: MANNERS, K.	Hearing: 02/28/2019, 2:00 PM	Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: FINAL
+Arlington General District Court	Case #: GC19000628-01	Defendant: THOMAS, DANZEL SAMUEL	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 2:00 PM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC19000629-00	Defendant: THOMAS, DANZEL SAMUEL	Complainant: MANNERS, K.	Hearing: 02/28/2019, 2:00 PM	Charge: FAIL TO PAY METRO FARE	Result: FINAL
+Arlington General District Court	Case #: GC19000817-00	Defendant: VICKERS, STEPHANIE	Complainant: CASEY, M	Hearing: 02/28/2019, 2:00 PM	Charge: DRUGS POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19000818-00	Defendant: VICKERS, STEPHANIE	Complainant: CASEY, M	Hearing: 02/28/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA 1ST OF	Result: CONTINUED
+Arlington General District Court	Case #: GC18004601-00	Defendant: ZIMMERMAN, RAQUAN JOHN	Complainant: RYAN, R	Hearing: 02/28/2019, 2:00 PM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004601-01	Defendant: ZIMMERMAN, RAQUAN JOHN	Complainant: COMMONWEALTH OF VA	Hearing: 02/28/2019, 2:00 PM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC18004602-00	Defendant: ZIMMERMAN, RAQUAN JOHN	Complainant: RYAN, R	Hearing: 02/28/2019, 2:00 PM	Charge: PRISONER POSS MARIJ/ SCH III	Result: CONTINUED
