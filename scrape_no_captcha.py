@@ -44,8 +44,23 @@ driver.find_element_by_id("applyCourtBtn").click()
 sleep(1)
 
 date_search(driver)
-sleep(1)
+driver.implicitly_wait(5)
 
-element = driver.find_element_by_class_name("search-results")
+element = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "search-results"))) 
+
+def results_next_page(driver=driver):
+    try:
+        driver.implicitly_wait(5)
+        try:
+            element = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "loadMore")))
+        except TimeoutException:
+            print("End of results")
+            return False
+        sleep(5)
+        element.click()
+        return True
+    except NoSuchElementException:
+        print("End of results")
+        return False
 
 print(element.text[43:][:-25])
