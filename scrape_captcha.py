@@ -21,13 +21,13 @@ def driver(headless=False):
         driver = webdriver.Firefox(firefox_profile=fp)
     return driver
 
-def captcha_start_page(driver=driver):
+def start_page(driver=driver):
     start_url = 'https://eapps.courts.state.va.us/gdcourts/captchaVerification.do?landing=landing'
     driver.get(start_url)
     element = driver.find_element_by_name("accept")
     element.click()
 
-def captcha_start_arlington_court(driver=driver):
+def select_arlington_court(driver=driver):
     element = driver.find_element_by_id("txtcourts1")
     courtname = "Arlington General District Court"
     element.send_keys(courtname)
@@ -46,16 +46,14 @@ def date_search(driver=driver,date = "08/03/2020"):
     element.send_keys(date)
     element.send_keys(Keys.ENTER)
 
-def captcha_start_scrape_results_page(driver=driver):
+def results(driver=driver):
     results = driver.find_element_by_tag_name("table").text[1036:][:-178]
     return results
 
-def captcha_start_results_next_page(driver=driver):
+def results_next_page(driver=driver):
     try:
         element = driver.find_element_by_name("caseInfoScrollForward")
         element.click()
         return True
     except NoSuchElementException:
-        print("End of results")
         return False
-
