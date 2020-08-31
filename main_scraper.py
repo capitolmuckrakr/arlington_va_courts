@@ -3,11 +3,8 @@ from scrape_no_captcha_v2 import *
 from nextdate import nextdate
 from random import random
 import datetime
-#LOGLEVEL = os.environ.get('LOGLEVEL', 'INFO').upper()
-#logger = logging.getLogger("arlington-court-scraper."+__name__)
-#logger.setLevel(LOGLEVEL)
 
-dates = nextdate(2020)
+dates = nextdate(2019)
 driver = driver(True)
 loopcounter = 0
 while True:
@@ -22,7 +19,7 @@ while True:
         court_date = courtdate.split("/")
         filename = 'data/cases_' + court_date[2] + court_date[0] + court_date[1] + '.txt'
         if os.path.isfile(filename):
-            print("Already saved",filename,"skipping")
+            print("Already saved ",filename,", skipping",sep='')
             continue
         start_page(driver)
         terms(driver)
