@@ -1,4 +1,4 @@
-CREATE TABLE public.cases_summary
+CREATE TABLE cases_summary
 (
   courtname text NOT NULL,
   case_num text NOT NULL,
@@ -7,11 +7,11 @@ CREATE TABLE public.cases_summary
   hearingdate text NOT NULL,
   amended_charge BOOL NOT NULL,
   charge text,
-  result text
-  PRIMARY KEY (case_num, date)
+  result text,
+  PRIMARY KEY (case_num, hearingdate)
 )
 WITH (
   OIDS=FALSE
 );
-ALTER TABLE public.cases_summary
+ALTER TABLE cases_summary
   OWNER TO alex;
