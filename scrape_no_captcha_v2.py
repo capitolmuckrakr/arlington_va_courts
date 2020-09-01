@@ -192,3 +192,11 @@ def read_case_summaries(filepath):
             return cases
     else:
         return False
+
+def format_case_summaries(cases):
+    pattern = re.compile('(Case \#: |Defendant: |Complainant: |Hearing: |Result: )')
+    new_cases = []
+    for line in cases:
+        new_line = pattern.sub('',line).replace('Amended Charge: ','True\t').replace('Charge: ','False\t')
+        new_cases.append(new_line)
+    return new_cases
