@@ -53,7 +53,7 @@ echo $DB_STORAGE
 
 if [[ ! $DB_INSTANCECLASS ]];
 then
-    export DB_INSTANCECLASS=db.t3.large
+    export DB_INSTANCECLASS=db.t3.micro
 fi
 echo $DB_INSTANCECLASS
 
