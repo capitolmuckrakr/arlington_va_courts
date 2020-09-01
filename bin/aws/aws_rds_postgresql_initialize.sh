@@ -21,7 +21,11 @@ echo "Please make sure that PGPASSWORD is set in your shell's environment by ent
 exit 0;
 fi
 
-source ./aws_ec2_param_functions.sh
+maindir=$(pwd)
+
+awsdir="$maindir/bin/aws"
+
+source $awsdir/aws_ec2_param_functions.sh
 
 #setting default parameters for the instance by calling param_functions, to override any function assign the corresponding env var
 
