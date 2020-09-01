@@ -1,0 +1,395 @@
+Arlington General District Court	Case #: GT20000520-00	Defendant: COLEMAN, ADRIAN LEIGH	Complainant: OFFICER JONES, J	Hearing: 03/06/2020, 8:30 AM	Charge: OPER SUSP/REV UPON 18.2-272	Result: CONTINUED
+Arlington General District Court	Case #: GT20005662-00	Defendant: COLEMAN, ADRIAN LEIGH	Complainant: JONES, J L	Hearing: 03/06/2020, 8:30 AM	Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: CONTINUED
+Arlington General District Court	Case #: GT20005665-00	Defendant: COLEMAN, ADRIAN LEIGH	Complainant: JONES, J L	Hearing: 03/06/2020, 8:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20005667-00	Defendant: COLEMAN, ADRIAN LEIGH	Complainant: JONES, J L	Hearing: 03/06/2020, 8:30 AM	Amended Charge: FAIL TO CARRY/EXHIBIT LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC20000324-00	Defendant: FORERO, RAFAEL AMED	Complainant: OFF PEHRSON, N	Hearing: 03/06/2020, 8:30 AM	Charge: OBTAIN PRESCRIP BY FRAUD/ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC20000325-00	Defendant: FORERO, RAFAEL AMED	Complainant: OFF PEHRSON, N	Hearing: 03/06/2020, 8:30 AM	Charge: POSSESS MARIJUANA, 2+ OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC20000326-00	Defendant: FORERO, RAFAEL AMED	Complainant: OFF PEHRSON, N	Hearing: 03/06/2020, 8:30 AM	Charge: POSSESS FICTITIOUS ID OR LIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19005279-00	Defendant: PARKER, COURTNEY PIERRE	Complainant: OFF DOESCHER, S	Hearing: 03/06/2020, 8:30 AM	Charge: CONCEALED WEAPON: CARRY	Result: CONTINUED
+Arlington General District Court	Case #: GT19047978-00	Defendant: PARKER, COURTNEY PIERRE	Complainant: OFF DOESCHER, S	Hearing: 03/06/2020, 8:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19047980-00	Defendant: PARKER, COURTNEY PIERRE	Complainant: OFF DOESCHER, S	Hearing: 03/06/2020, 8:30 AM	Charge: DRIV UNDER REVO/SUSPENSION	Result: CONTINUED
+Arlington General District Court	Case #: GT20007461-00	Defendant: ABOUGHADAREH, KIARASH	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20007463-00	Defendant: ABOUGHADAREH, KIARASH	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Amended Charge: 71/35 SP	Result: CONTINUED
+Arlington General District Court	Case #: GT20002379-00	Defendant: ABRAHA, HELEN BERHE	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007688-00	Defendant: ABUAGLA, AHMED	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007617-00	Defendant: AGA, HENOR BERHANU	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: RECKLESS DRIVING 86/55	Result: FINAL
+Arlington General District Court	Case #: GT20007453-00	Defendant: ALAZMI, SABIH HAMDAN	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: 44/25 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT20007113-00	Defendant: ALEMNEH, BERHANIE A	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 39/25 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20002484-00	Defendant: ALTANGEREL, ERDENEBILEG	Complainant: CARRILLO, S	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-NO HANDICAP PERM	Result: FINAL
+Arlington General District Court	Case #: GT20007122-00	Defendant: AMARE, GETACHEW	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20007382-00	Defendant: AREVALO, CARLOS ISRAEL	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 68/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007526-00	Defendant: ARNEZ OSCAR, ANTONIO	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 39/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007417-00	Defendant: ASGAL, MAGGI IHAB	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007465-00	Defendant: ASSEFA, FIKIRTE YIKUNOAMLA	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007690-00	Defendant: ATASHOVA, GANIRA	Complainant: LOPEZ, E	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20007700-00	Defendant: AYLLON, ADELA	Complainant: CAMPOS, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007553-00	Defendant: BAKER, BRITTANY MICHELLE	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GC19004149-00	Defendant: BAUGHER, ASHLEY	Complainant: OFF NECKLES, D	Hearing: 03/06/2020, 9:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19004149-01	Defendant: BAUGHER, ASHLEY	Complainant: COMMONWEALTH OF VA	Hearing: 03/06/2020, 9:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19004149-02	Defendant: BAUGHER, ASHLEY	Complainant: COMMONWEALTH OF VA	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO APPEAR, FELONY OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20002485-00	Defendant: BAYRAMOV, SADIKH	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-NO HANDICAP PERM	Result: FINAL
+Arlington General District Court	Case #: GT20007368-00	Defendant: BECHT, KELLY D	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 42/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007712-00	Defendant: BENYARD, HICHAM	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007716-00	Defendant: BERMAN, JESSE	Complainant: CARRILLO, S	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN	Result: FINAL
+Arlington General District Court	Case #: GT20007305-00	Defendant: BIANCHETTA, MICHAEL DRUE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO UPDATE LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT20007563-00	Defendant: BILLINGSLY, SARAH EMILY	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 34/25 SPEED	Result: CONTINUED
+Arlington General District Court	Case #: GT20008415-00	Defendant: BLAKE, ELYJAHWUN AUGUSTIS	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007719-00	Defendant: BLAND, ANNIE H	Complainant: SCOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007419-00	Defendant: BLOOM, SARA NELSON	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Amended Charge: 34/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007480-00	Defendant: BOLDEN, NYASHIA NASHAYE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007731-00	Defendant: BOWERS, TIMOTHY P	Complainant: FOSTER, S	Hearing: 03/06/2020, 9:00 AM	Charge: OBSTRACT TRAFFIC LANE	Result: FINAL
+Arlington General District Court	Case #: GT20007740-00	Defendant: BREWER, JORGI	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007535-00	Defendant: BRIGGS, CARLA CHRISTINE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 32/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007810-00	Defendant: BROWN, ROCHELLE	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008357-00	Defendant: BROWN, STEPHEN	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO PARKING ZONE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007641-00	Defendant: BRYAN, GEORGE BLACKMER	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007219-00	Defendant: BUNCH, ADAM DRURY	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 44/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GC20001127-00	Defendant: BURNEY, JAMES HOWARD	Complainant: OFF HLASNICK, M	Hearing: 03/06/2020, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GT20002159-00	Defendant: CALDERON, ANTHONY R	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT20008361-00	Defendant: CAPILONGO, KATHERINE	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESAN	Result: FINAL
+Arlington General District Court	Case #: GT20007430-00	Defendant: CHAMBERS, ALEXANDER	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROPER WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT20007373-00	Defendant: CHAPMAN, JANICE ELIZABETH	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007653-00	Defendant: CHASE, THERESA ANN	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007554-00	Defendant: CHEN, LISA	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 42/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20008368-00	Defendant: CHEW, LISA	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008416-00	Defendant: CHOWDHURY, SHAHANA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007646-00	Defendant: COBERLY, CHRISTINA MARIE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: SAFETY BELT VIOLATION	Result: WAIVED
+Arlington General District Court	Case #: GT20007327-00	Defendant: CORDERO MURCIA, RIENALDO G	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007466-00	Defendant: CORNETT, DAVID BRENT	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007322-00	Defendant: CROSS, SOPHIA GRACE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20008379-00	Defendant: CROTEAU, DAVID A	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: MULTIMTR PARK	Result: FINAL
+Arlington General District Court	Case #: GT20008382-00	Defendant: DAILEY, SHELLEY	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007376-00	Defendant: DAMEWOOD, ANNA ELIZABETH	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007456-00	Defendant: DANGER, DANIELLE MALACHIE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007633-00	Defendant: DAVENPORT, JOHN DAVID	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GC20001128-00	Defendant: DAVIS, LAPHONSO TERRELL	Complainant: OFF WILLIAMS, A	Hearing: 03/06/2020, 9:00 AM	Amended Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC20001129-00	Defendant: DAVIS, LAPHONSO TERRELL	Complainant: OFF WILLIAMS, A	Hearing: 03/06/2020, 9:00 AM	Charge: OBSTRUCT/RESIST W/O FORCE	Result: CONTINUED
+Arlington General District Court	Case #: GC20001130-00	Defendant: DAVIS, LAPHONSO TERRELL	Complainant: CPL ABRAHAM, J	Hearing: 03/06/2020, 9:00 AM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GT20008388-00	Defendant: DEAN, ASHLEY	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008390-00	Defendant: DOGGETT, VENITA LAS SHON	Complainant: CARRILLO, J	Hearing: 03/06/2020, 9:00 AM	Charge: MULTIMTR PARK	Result: FINAL
+Arlington General District Court	Case #: GT20007533-00	Defendant: DOMINGUEZ, MICHARC ANTHONY	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROP/FICTS REG/TITLE/PLATE	Result: FINAL
+Arlington General District Court	Case #: GT20007248-00	Defendant: DOVE, ROXANNE MCELRATH	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 33/25 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007536-00	Defendant: DOYLEY, APRIL JALEISHA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 32/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007308-00	Defendant: DRISKELL, AMY CLAIRE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: EXPIRED INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT20008800-00	Defendant: DUTCH, CHRISTINE TOMEKA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SP	Result: FINAL
+Arlington General District Court	Case #: GT20008403-00	Defendant: ECHAVARRIA, FABIO	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: EXP SAFETY INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT20007638-00	Defendant: EDAMWEN, UHUROMA C	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20008407-00	Defendant: EDWARDS, CHRISTOPHER	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20008410-00	Defendant: EDWARDS, CHRISTOPHER	Complainant: CHOUDHARY, A	Hearing: 03/06/2020, 9:00 AM	Charge: SGLMTR PARK OVR TIME	Result: CONTINUED
+Arlington General District Court	Case #: GT20007548-00	Defendant: EDWARDS, IMAN RAISA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 35/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007371-00	Defendant: EDWARDS, ROBERT A	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007558-00	Defendant: ESPINOZA MASACHE, CLAUDIO	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20006319-00	Defendant: ESPINOZA, BERTHA LUZ	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20008418-00	Defendant: ESPINOZA, CRISTIA A	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007559-00	Defendant: ETWAROO, DAVINA CHRISTINE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007503-00	Defendant: FALLOWS, JOHN JASON	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 44/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20002493-00	Defendant: FENNER, BENJAMIN	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-REST AREA	Result: WAIVED
+Arlington General District Court	Case #: GT20007523-00	Defendant: FLORES, TRANCITO	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007421-00	Defendant: FLORIAN GARCIA, DIONEL	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Amended Charge: 34/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20008413-00	Defendant: FLOYD, ROSALYN	Complainant: JONES, N	Hearing: 03/06/2020, 9:00 AM	Charge: MULTIMTR PARK OVR	Result: FINAL
+Arlington General District Court	Case #: GT20007516-00	Defendant: FORD, STEVIE ALLEN	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROPER WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT20008492-00	Defendant: FOX, ELLEN	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008496-00	Defendant: FRANLKIN, PAUL L	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN PERM	Result: FINAL
+Arlington General District Court	Case #: GT20007414-00	Defendant: FRAZIER, PHILIP ANTHONY	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20008508-00	Defendant: FULLER, ANTONIO MAURICE	Complainant: JONES, N	Hearing: 03/06/2020, 9:00 AM	Charge: EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT20008521-00	Defendant: FULLER, ANTONIO MAURICE	Complainant: JONES, N	Hearing: 03/06/2020, 9:00 AM	Charge: MULTIMTR PARK OVR TIME	Result: CONTINUED
+Arlington General District Court	Case #: GT20008662-00	Defendant: GAMARRA, MAX	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007551-00	Defendant: GARDNER, DUANE	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 44/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20008665-00	Defendant: GIBSON, EFREM	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: OBSTRUCT BIKE LANE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007635-00	Defendant: GOCHENOUR, CHRISTOPHER J	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO WEAR SEATBELT	Result: FINAL
+Arlington General District Court	Case #: GT20008667-00	Defendant: GODDARD, PETE	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN PERM	Result: FINAL
+Arlington General District Court	Case #: GT20008672-00	Defendant: GONG, KE	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007474-00	Defendant: GONZALEZ MARTINEZ, GUSTAVO J	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20008675-00	Defendant: GRLETA, NEGERI	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007532-00	Defendant: HANSON, ERIC JOSEPH	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007275-00	Defendant: HASSAN, YASSEEN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 40/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007645-00	Defendant: HATCHER, LYRIN LANCE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT20007323-00	Defendant: HENSON, LORENA A	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007325-00	Defendant: HENSON, LORENA A	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007381-00	Defendant: HENTON, HOWARD L	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT20007541-00	Defendant: HILL-WILLIAMS, SABRINA L	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 32/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007550-00	Defendant: HINE, GRETCHEN MARIE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007383-00	Defendant: HOGAN, KEVIN MATTHEW	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 67/45 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20008680-00	Defendant: HUBER, NATALIE	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: RESTRICTED AREA	Result: CONTINUED
+Arlington General District Court	Case #: GT20008682-00	Defendant: HUNG, BRAIN T	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO PARKING ZONE	Result: FINAL
+Arlington General District Court	Case #: GT20009465-00	Defendant: HUNTER, AVIS ANNETTE	Complainant: AVERY, D	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20008685-00	Defendant: HUTCHINSON, JERRY	Complainant: CHOUDHARY, A	Hearing: 03/06/2020, 9:00 AM	Charge: SGLMTR PARK OVR TIME	Result: CONTINUED
+Arlington General District Court	Case #: GT20007276-00	Defendant: JACKSON, SCOTT ALAN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007630-00	Defendant: JBARA, FAOUZI	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20008688-00	Defendant: JONES HILLARY, ROSE	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007619-00	Defendant: JONES SR, SHAUN RIVERA	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007504-00	Defendant: JONES, APRIL YVONE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT20008794-00	Defendant: JONES, DARIUS JAMAL	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007546-00	Defendant: JONES, DERON TYREL	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 42/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20008421-00	Defendant: JONES, MICHAEL ANDRE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007415-00	Defendant: JONES, STEPHEN ANDREW	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007528-00	Defendant: JORDAN CASTRO, KARINA BETZY	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20008696-00	Defendant: JOSEPH, JESSE	Complainant: CARRILLO, S	Hearing: 03/06/2020, 9:00 AM	Charge: NO PARKING ZONE	Result: FINAL
+Arlington General District Court	Case #: GT20007130-00	Defendant: JUAREZ CABRERA, DIONIAS E	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 41/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007478-00	Defendant: JUDY, KATHERINE ROWLAND	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007426-00	Defendant: KALAWTARY, COUROCHE	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 64/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20008699-00	Defendant: KATZ, IVAN	Complainant: LOPEZ, E	Hearing: 03/06/2020, 9:00 AM	Charge: NO FRONT TAG	Result: CONTINUED
+Arlington General District Court	Case #: GT20008700-00	Defendant: KAVISHE, OLIVIA	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008701-00	Defendant: KELLY, MARY	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: MULTIMTR PARK OVR TM	Result: FINAL
+Arlington General District Court	Case #: GT20007520-00	Defendant: KHAN, KAHAD ALI	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROP/FICTS REG/TITLE/PLATE	Result: FINAL
+Arlington General District Court	Case #: GT20007306-00	Defendant: KIDANE, SIELMON T	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 60/45 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007486-00	Defendant: KIDZE, BERTRAND A	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL DRIVE RT SIDE OF ROADWAY	Result: WAIVED
+Arlington General District Court	Case #: GT20007336-00	Defendant: KING, MARY CATHERINE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007379-00	Defendant: KOFFLEY, VICTORIA LYNN	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: NO VALID INSPECTION	Result: CONTINUED
+Arlington General District Court	Case #: GT20007471-00	Defendant: LANZA ZUNIGA, RITZA E	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007473-00	Defendant: LANZA ZUNIGA, RITZA E	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20002551-00	Defendant: LAWS, JOSEPH M	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007454-00	Defendant: LAWS, STEPHANIE MOORHEAD	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007458-00	Defendant: LEIVA, HERNAN	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO YIELD TO ONCOMING TRF	Result: WAIVED
+Arlington General District Court	Case #: GT20007484-00	Defendant: LEONARD, AYANNA SAVONNE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007469-00	Defendant: LIANS, QUIMIAO	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007525-00	Defendant: LOBO TORRICO, EFRAN-FIDEL	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 46/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20008704-00	Defendant: LONGMAN, CHRISTOPHER VINCENT	Complainant: CAMPOS, M	Hearing: 03/06/2020, 9:00 AM	Charge: EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT20007562-00	Defendant: LOPEZ PENA, JUAN PABLO	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 43/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20008726-00	Defendant: LOTFI, REZA	Complainant: MIRANDA, K	Hearing: 03/06/2020, 9:00 AM	Charge: EXP VA SAFETY	Result: FINAL
+Arlington General District Court	Case #: GT20008730-00	Defendant: LOTFI, REZA	Complainant: MIRANDA, K	Hearing: 03/06/2020, 9:00 AM	Charge: EXP INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT20008734-00	Defendant: MALEKI, NICOLE	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20007501-00	Defendant: MALIK, MUJTABA A	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007656-00	Defendant: MCKEE, DANIEL PATRICK	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007522-00	Defendant: MCKENZIE, ROY KENNETH; III	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: EXP SAFETY INSPECTION 8/19	Result: WAIVED
+Arlington General District Court	Case #: GT18030087-00	Defendant: MEDRAN, CORNELIO HUMBERTO	Complainant: LAZAKOVICH, O	Hearing: 03/06/2020, 9:00 AM	Charge: DRIVE SUSPENDED 4TH OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT18030087-01	Defendant: MEDRAN, CORNELIO HUMBERTO	Complainant: COMMONWEALTH OF VA	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT20007389-00	Defendant: MELTON, MADISON KRULITZ	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/25 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007496-00	Defendant: MENCIA REYES, KEVIN	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007506-00	Defendant: MENDEZ VASQUEZ, GELVCA O	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: DRIVING REVOKED DUI RELATED	Result: CONTINUED
+Arlington General District Court	Case #: GT20008736-00	Defendant: MILAM, RUSSELL B	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20007652-00	Defendant: MINGER, MERCEDES MONIQUE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: EXPIRED/NO INSP STICKER	Result: FINAL
+Arlington General District Court	Case #: GT20008738-00	Defendant: MIODUSKI, RYAN	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN PERM	Result: FINAL
+Arlington General District Court	Case #: GT20007505-00	Defendant: MIRZA, NAVEED BAIG	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY TRAFFIC SIGNAL	Result: FINAL
+Arlington General District Court	Case #: GT20008427-00	Defendant: MITCHELL, ERIC TYRONE; JR	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 41/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT20003360-00	Defendant: MODICA, MATHEW RYAN	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBTAIN VA LIC(NEW RES)	Result: FINAL
+Arlington General District Court	Case #: GT20008795-00	Defendant: MOHAMED, SALEH MURAD	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT20008744-00	Defendant: MONTAGUE, JOHANNA	Complainant: FOSTER, S	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN PARK	Result: FINAL
+Arlington General District Court	Case #: GT20007482-00	Defendant: MONTANA, SANDRA KATALINA	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007468-00	Defendant: MOORE, ZEYNEP RUZIYE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007517-00	Defendant: MORALES, RIGO PALOMO	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: TINTED WINDSHIELD	Result: FINAL
+Arlington General District Court	Case #: GT20007615-00	Defendant: MORGAN, DEVIN	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARK OVR TM PAID	Result: FINAL
+Arlington General District Court	Case #: GT20007618-00	Defendant: MORGAN, JAMES	Complainant: LOPEZ, E	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007476-00	Defendant: MUHAMMAD, SHAWNTALIA A	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007620-00	Defendant: NAPOLES, ARMANDO	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007623-00	Defendant: NITINKUMAR, KUSHE P	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20007624-00	Defendant: NORWOOD, MICHAEL; JR	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: PARK OVR TM PAID	Result: FINAL
+Arlington General District Court	Case #: GT20008244-00	Defendant: ORDONEZ LOPEZ, JORGE FIDEL	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007309-00	Defendant: OROZCO MALDONADO, PAMELA C	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007639-00	Defendant: OWENS, MICHAEL FABIAN	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007314-00	Defendant: OWUSU SEKYERE, SYLVESTER KWASI	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20007337-00	Defendant: PAEK, SUSAN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 36/25 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007627-00	Defendant: PANT, SURAJ	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008241-00	Defendant: PEAK, RITA LYNN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Amended Charge: 39/30 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007555-00	Defendant: POBLETE-WASHINGTON, MARTA	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Amended Charge: 34/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007556-00	Defendant: POBLETE-WASHINGTON, MARTA	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROPER LANE CHANGE	Result: FINAL
+Arlington General District Court	Case #: GT20007431-00	Defendant: PORTER, LATOYA R	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007543-00	Defendant: PORTER, TORRANCE CORNELIUS	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 33/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007434-00	Defendant: PULLIAM, KEON VONDREA	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007529-00	Defendant: RAJA, ALI JAN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 38/30 SPEED	Result: CONTINUED
+Arlington General District Court	Case #: GT20007530-00	Defendant: RAJA, ALI JAN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: ILLEGAL WINDOW TINT	Result: CONTINUED
+Arlington General District Court	Case #: GT20007424-00	Defendant: REIS, CHARLES DOS	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: DISREGARD RED LIGHT	Result: WAIVED
+Arlington General District Court	Case #: GT20007629-00	Defendant: RENNARD, LYNDON M	Complainant: LOPEZ, E	Hearing: 03/06/2020, 9:00 AM	Charge: NO FRONT TAG	Result: FINAL
+Arlington General District Court	Case #: GT20007625-00	Defendant: RICHBURG, LATOYA TIWAANA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 34/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT20002590-00	Defendant: RICKEY JR, VINVENT WILLIAM	Complainant: MIRANDA, K	Hearing: 03/06/2020, 9:00 AM	Charge: TMEP NO PARKING	Result: FINAL
+Arlington General District Court	Case #: GT20008243-00	Defendant: RILEL, DANIEL JOSEPH	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007632-00	Defendant: RIVERA, FRANKLIN E	Complainant: CAMPOS, M	Hearing: 03/06/2020, 9:00 AM	Charge: EXP INSPECTION	Result: CONTINUED
+Arlington General District Court	Case #: GT20007634-00	Defendant: RIVERA, FRANKLIN E	Complainant: EASLEY, M	Hearing: 03/06/2020, 9:00 AM	Charge: EXP INSPECTION	Result: CONTINUED
+Arlington General District Court	Case #: GT20007367-00	Defendant: ROBINSON, DEVIN MATTHEW	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 35/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007333-00	Defendant: ROCIACHEVA, MARIA A	Complainant: ALLEN, D	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007628-00	Defendant: RODAS LEIVA, KEVIN ALEXANDER	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 50/35 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT20007432-00	Defendant: RODGERS, BENJAMIN COOKE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT20007433-00	Defendant: RODRIGUEZ, JENNY PAOLA	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007560-00	Defendant: RODRIGUEZ, JUAN DIEGO	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20002591-00	Defendant: ROMANO, CHRISTOPHER	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007622-00	Defendant: RUSSELL, AMANDA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 40/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT20007557-00	Defendant: SALE, MYRTA KING	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007487-00	Defendant: SANDERS MEJIA, JEFFRY A	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007545-00	Defendant: SAWULA, GERALDINE NAKIYEMBA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 32/25 SPEED	Result: CONTINUED
+Arlington General District Court	Case #: GT20002594-00	Defendant: SCHMIDT, JESSE J	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO PARKING ZONE	Result: FINAL
+Arlington General District Court	Case #: GT20007637-00	Defendant: SCHONS, CHRISTOPHER C	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARK OVR TM PAID	Result: FINAL
+Arlington General District Court	Case #: GT20004178-00	Defendant: SCHWARTZ, JULIE SCHRIER	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007313-00	Defendant: SEMLALI, AYOUB	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20008798-00	Defendant: SESAY, KATHY ELIZABETH	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20003269-00	Defendant: SHAPIRO, MARTIN LEE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 62/45 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007335-00	Defendant: SHARMA, NITASHA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 45/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007640-00	Defendant: SHAW, GEORGE C	Complainant: SCHOECHLE, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: CONTINUED
+Arlington General District Court	Case #: GT20007317-00	Defendant: SHERMAN, ONGELIQUE MARIE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007658-00	Defendant: SMITH, AMBER DANIELLE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20008440-00	Defendant: SMITH, TAMMI JUNE	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO YIELD TO PEDESTRIANS	Result: FINAL
+Arlington General District Court	Case #: GT20002599-00	Defendant: SOTO, PHILIPPE	Complainant: MIRANDA, K	Hearing: 03/06/2020, 9:00 AM	Charge: RESIDENTIAL VISTOR ZONE PERMIT	Result: FINAL
+Arlington General District Court	Case #: GT20007642-00	Defendant: SPENCER, ROBERT L	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008442-00	Defendant: STOKES, BEVERLY ANN	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROPER TURN	Result: FINAL
+Arlington General District Court	Case #: GT20007651-00	Defendant: SUTFIN, DAVID JAMES	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: EXPIRED INSP STICKER	Result: FINAL
+Arlington General District Court	Case #: GT20007284-00	Defendant: TESFAYE, MULUGETA H	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: DISREGARD STOP SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007510-00	Defendant: THOMAS, GIOVANNI PATRICIA	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: 64/45 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT20007316-00	Defendant: THOMAS, KRISTIE JOY	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GC20001126-00	Defendant: THOMAS, NICHOLE TAMARA	Complainant: CPL LY PHAN, J	Hearing: 03/06/2020, 9:00 AM	Amended Charge: POSS CONTROLLED SUBSTANCES III	Result: CONTINUED
+Arlington General District Court	Case #: GT20007319-00	Defendant: THORTON, LESLIE THOMASINE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007334-00	Defendant: TSHIMANGA, ELIE M	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20007644-00	Defendant: TWIGGS, ANJANETTE D	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20008245-00	Defendant: UENISHI, TAKUYA	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: 37/30 SP	Result: FINAL
+Arlington General District Court	Case #: GT20007286-00	Defendant: VARA, JESSICA NICOLE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: 40/25 SPEEDING	Result: WAIVED
+Arlington General District Court	Case #: GT20007647-00	Defendant: VARGAS, KELLY	Complainant: MIRANDA, K	Hearing: 03/06/2020, 9:00 AM	Charge: EXP REG	Result: FINAL
+Arlington General District Court	Case #: GT20007648-00	Defendant: VOSS, KATHY JEAN	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007649-00	Defendant: WALSH, THOMAS F; III	Complainant: CARRILLO, S	Hearing: 03/06/2020, 9:00 AM	Charge: PARK OVR TM PAID	Result: FINAL
+Arlington General District Court	Case #: GT20007654-00	Defendant: WARD, EDWARD	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20005579-00	Defendant: WEISBECHER, DAVID JOSEPH	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007657-00	Defendant: WELLER, FERI	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007326-00	Defendant: WHITFIELD, JACOB CHRISTOPHER	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007626-00	Defendant: WILKISON, LAURIE E	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007659-00	Defendant: WILLIAMS, BRIONNA	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007477-00	Defendant: WILLIAMS, CHRISTOPHER LEE	Complainant: MITCHELL, M	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007660-00	Defendant: WILLIAMS, NACRE	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20002374-00	Defendant: WILLIAMS, TREVOR	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-DOUBLE PARKED	Result: FINAL
+Arlington General District Court	Case #: GT20007661-00	Defendant: WILPERT, BERNARD GREGORY	Complainant: FOSTER, S	Hearing: 03/06/2020, 9:00 AM	Charge: RESTRICTED AREA	Result: FINAL
+Arlington General District Court	Case #: GT20007662-00	Defendant: WOHLSCHLEGEL, STEVEN L	Complainant: GARZA-PENA, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007663-00	Defendant: WONDIMU, ABYE	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NO HANDICAP	Result: FINAL
+Arlington General District Court	Case #: GT20007307-00	Defendant: WRIGHT, YOLANDA NICOLE	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20002377-00	Defendant: YACKOW, ANNELISE	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: PARKING VIOL-NO PARKING ZONE	Result: WAIVED
+Arlington General District Court	Case #: GT20007303-00	Defendant: YOO, JULIE CHUNG	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007664-00	Defendant: ZAND, HAMID	Complainant: KYERE, N	Hearing: 03/06/2020, 9:00 AM	Charge: NT RIGHT SIDE	Result: FINAL
+Arlington General District Court	Case #: GT20007665-00	Defendant: ZEBALLOS, CHRISTINE D	Complainant: STEWART, L	Hearing: 03/06/2020, 9:00 AM	Charge: NO RESZN	Result: FINAL
+Arlington General District Court	Case #: GT20007429-00	Defendant: ZHANG, JIAYOU	Complainant: MAXWELL, P	Hearing: 03/06/2020, 9:00 AM	Charge: IMPROPER REG	Result: CONTINUED
+Arlington General District Court	Case #: GT20008240-00	Defendant: ZIENTARA, KATHERINE M	Complainant: BATES, T	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007310-00	Defendant: ZUPAN, JULIE ANN	Complainant: KIRBY, J	Hearing: 03/06/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GC20000102-00	Defendant: ALANAZI, DHARI	Complainant: OFF JOHNSON, Q	Hearing: 03/06/2020, 9:30 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC20000679-00	Defendant: FREEMAN, TAVON	Complainant: WOODILL, A	Hearing: 03/06/2020, 9:30 AM	Charge: FAIL TO PAY FARE	Result: CONTINUED
+Arlington General District Court	Case #: GC20000844-00	Defendant: SHARP, DARRYL M	Complainant: RIFFLEY, A	Hearing: 03/06/2020, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC20000665-00	Defendant: THOMPSON, DAVID LEE	Complainant: OFF PURSTELL, A	Hearing: 03/06/2020, 9:30 AM	Charge: INTOXICATION IN PUBLIC	Result: WAIVED
+Arlington General District Court	Case #: GT20005902-00	Defendant: ABDELAAL, HUSAM YUSEF	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: FOLLOWING TOO CLOSELY	Result: FINAL
+Arlington General District Court	Case #: GT20007975-00	Defendant: ADWITYA, THEO S	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007577-00	Defendant: AL-HASRI, MAWAIALI S A	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: EXP INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT20007578-00	Defendant: AL-HASRI, MAWAIALI S A	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: ILLEGAL WINDOW TINT	Result: FINAL
+Arlington General District Court	Case #: GT20007579-00	Defendant: AL-HASRI, MAWAIALI S A	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO DISPLAY LICENSE PLATES	Result: FINAL
+Arlington General District Court	Case #: GT20007581-00	Defendant: AL-HASRI, MAWAIALI S A	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT20007825-00	Defendant: AL-MUMIN MATHIS, ABDUL	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAF. SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007972-00	Defendant: ANDARABI, SHIKEEB	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20009807-00	Defendant: BARRETT, LETETIA TRACY	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: VIOL OF SCHOOL BUS LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT20000631-00	Defendant: BARRIOS ESCAMILLA, DAVID A	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20002460-00	Defendant: BARROS, STEPHANIE ROUPAR	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: WAIVED
+Arlington General District Court	Case #: GT20003125-00	Defendant: BETEMARIAM, MICHAEL YEFRASHOWA	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT20003660-00	Defendant: BLOM, BARRY JAY	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20005987-00	Defendant: BREWIN, NICOLE BRIGITTE	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: 80/65 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20005876-00	Defendant: CARCIA, PAOLO	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT20001652-00	Defendant: CHAGLA, KIMBERLY JEAN WENZ	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: IMPROPER/ERRATIC LANE CHANGE	Result: WAIVED
+Arlington General District Court	Case #: GT20007841-00	Defendant: CLEMENTI, KATHLEEN A	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20000814-00	Defendant: DAWIT, FANUAL AKLIL	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: RECK DRIVING; BAD BRAKES	Result: CONTINUED
+Arlington General District Court	Case #: GT20000630-00	Defendant: DE LA INCERA, CARLOS J	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT20007838-00	Defendant: DUGGAN, PETER THOMAS	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAFFIC SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20006697-00	Defendant: EDWARDS, ROSA CARINA	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: 85/55 SPEEDING	Result: FINAL
+Arlington General District Court	Case #: GT20002406-00	Defendant: ENKUBAHIRE, SHIFFERAW	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY TRAFFIC SIGNAL	Result: FINAL
+Arlington General District Court	Case #: GT20007834-00	Defendant: ERDENER, SECIL AFIFE	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GC19001660-00	Defendant: ESTES, VALENCIA E	Complainant: CURREN, R	Hearing: 03/06/2020, 10:00 AM	Amended Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19001661-00	Defendant: ESTES, VALENCIA E	Complainant: CURREN, R	Hearing: 03/06/2020, 10:00 AM	Amended Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19001662-00	Defendant: ESTES, VALENCIA E	Complainant: CURREN, R	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO PAY METRO	Result: CONTINUED
+Arlington General District Court	Case #: GT20003661-00	Defendant: FAY, JEFFREY P	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: CONTINUED
+Arlington General District Court	Case #: GT19038853-00	Defendant: GHOUSHEN, THAIER RAID	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Amended Charge: 64/55 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT19045124-00	Defendant: GIBSON, SHERI LYNN	Complainant: CLACK, JUSTIN	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007833-00	Defendant: HABTEMICHAEL, GETACHEW	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAF SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20004074-00	Defendant: HAILU, NATHANIEL GIRMA	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: FINAL
+Arlington General District Court	Case #: GT20002458-00	Defendant: HAZEL, SHEILA LEE	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007832-00	Defendant: HENKEL, CHRISTOPHER WILLIAM	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAFF SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20003659-00	Defendant: HENLEY, JACQUELINE WYNEE	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20002404-00	Defendant: HICKS, GREGORY I; II	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: CONTINUED
+Arlington General District Court	Case #: GT20002405-00	Defendant: HICKS, GREGORY I; II	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: DRIVE W/LIC REVOKED, 1 OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT20003662-00	Defendant: HONEYCUTT, TIFFANY TAVERNER	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT19048726-00	Defendant: JINAD, RAUF ABIODUN	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Amended Charge: 64/55 SPEED	Result: FINAL
+Arlington General District Court	Case #: GT20002459-00	Defendant: KINDEYA, ABABU HAGOS	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: IMPROPER/ERRATIC LANE CHANGE	Result: CONTINUED
+Arlington General District Court	Case #: GT20007831-00	Defendant: LANE, ROSELAND DEVONNE	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY W/TRAFF SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20007585-00	Defendant: LEWIS, GEORGE MICHAEL; II	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: CONTINUED
+Arlington General District Court	Case #: GT20010705-00	Defendant: MACCLARY, DAVID WILLIAM	Complainant: HARRIS	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT20007830-00	Defendant: MAHONEY, MICHELE	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GC20000807-00	Defendant: MALIK, GAUTAM	Complainant: CPL RAVINSKAS, M	Hearing: 03/06/2020, 10:00 AM	Charge: TRANSPRT 1OZ+ SCH I, II TO VA	Result: CONTINUED
+Arlington General District Court	Case #: GC20000808-00	Defendant: MALIK, GAUTAM	Complainant: CPL RAVINSKAS, M	Hearing: 03/06/2020, 10:00 AM	Charge: DISTRIB/PWI MARIJ >1/2 OZ-5LBS	Result: CONTINUED
+Arlington General District Court	Case #: GC20000809-00	Defendant: MALIK, GAUTAM	Complainant: CPL RAVINSKAS, M	Hearing: 03/06/2020, 10:00 AM	Charge: POSS W/INT MANUF/ETC SCH I/II	Result: CONTINUED
+Arlington General District Court	Case #: GT20007826-00	Defendant: MARTINEAU, MARISA A	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAF SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007821-00	Defendant: MJEKIQI, EDMOND	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAFFIC SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20003240-00	Defendant: MORRIS, KENNETH JOSE	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: 79/55 SP	Result: WAIVED
+Arlington General District Court	Case #: GC19000972-00	Defendant: NEALIS, KHALIL JABRIEL	Complainant: WHITE, J	Hearing: 03/06/2020, 10:00 AM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19000972-01	Defendant: NEALIS, KHALIL JABRIEL	Complainant: COMMONWEALTH OF VA	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19000973-00	Defendant: NEALIS, KHALIL JABRIEL	Complainant: WHITE, J	Hearing: 03/06/2020, 10:00 AM	Charge: POSSESSION OF BURGLARY TOOLS	Result: CONTINUED
+Arlington General District Court	Case #: GC19000974-00	Defendant: NEALIS, KHALIL JABRIEL	Complainant: WHITE, J	Hearing: 03/06/2020, 10:00 AM	Charge: ENTER PROPERTY TO DAMAGE, ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GT20001653-00	Defendant: ONUMA, AGU K	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: WAIVED
+Arlington General District Court	Case #: GT20007813-00	Defendant: OZTURK, CAVIT	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: VIOL OF SCHOOL BUS STOP LIGHT	Result: FINAL
+Arlington General District Court	Case #: GC19004528-00	Defendant: PULLER, TOCCARA	Complainant: WILLIAMS, A	Hearing: 03/06/2020, 10:00 AM	Charge: TRESPASS	Result: CONTINUED
+Arlington General District Court	Case #: GT20007586-00	Defendant: RAHAMA, MUSAFA TAYEB	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: CONTINUED
+Arlington General District Court	Case #: GT20002456-00	Defendant: RAMIREZ, JASON STEVEN	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: OPER MV W/ SUN-SHADE-TINT FILM	Result: WAIVED
+Arlington General District Court	Case #: GT20003318-00	Defendant: REESE, NIKKO ANTONIO	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20004239-00	Defendant: REYES, AMAYA WENDY MARIBEL	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: OPER W/TV SCREEN VISABLE TO DR	Result: FINAL
+Arlington General District Court	Case #: GT20004073-00	Defendant: RIGGS, HAROLD NEIL	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT20005894-00	Defendant: RODRIGUEZ, OSMZN H	Complainant: SURAWEERA	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT19032665-00	Defendant: ROMERO, JOSE MORALES	Complainant: OFF LIPSCHUTZ, J	Hearing: 03/06/2020, 10:00 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19032666-00	Defendant: ROMERO, JOSE MORALES	Complainant: OFF LIPSCHUTZ, J	Hearing: 03/06/2020, 10:00 AM	Charge: DRIVE W/O LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19041544-00	Defendant: RUK, STEPHEN IRA	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: VIOL OF SCHOOL BUS STOP LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19038891-00	Defendant: SHANIDUZZAMAN, MO	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT19049027-00	Defendant: SIMESH, SURAFEL DILNESAW	Complainant: CLACK, J	Hearing: 03/06/2020, 10:00 AM	Charge: RECK DR: SPEEDING, OVER 80MPH	Result: FINAL
+Arlington General District Court	Case #: GC20000407-00	Defendant: SIMMONS, GREGORY LAMONT	Complainant: OFF BURCH, P	Hearing: 03/06/2020, 10:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: CONTINUED
+Arlington General District Court	Case #: GT20007587-00	Defendant: SIMMS, SABLE CATHY	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: OUT OF STATE EXP TAGS 6/19	Result: CONTINUED
+Arlington General District Court	Case #: GT20006060-00	Defendant: SMITH, DUSTIN LYWOOD	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: ILLEGAL TINT	Result: FINAL
+Arlington General District Court	Case #: GT20001781-00	Defendant: TEKLU, TEKLEBIRHAN A	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: EMERG MV-APPROACH-NO CAUTION	Result: FINAL
+Arlington General District Court	Case #: GT20006055-00	Defendant: THOMAS, JOSEPH ANDREW	Complainant: HARRIS, C	Hearing: 03/06/2020, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT20000632-00	Defendant: WITHERSPOON, BRANDON MICHAEL	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: 81/65 SP	Result: FINAL
+Arlington General District Court	Case #: GT20001780-00	Defendant: WONDIMU, HENOK A	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY TRAFFIC SIGNAL	Result: FINAL
+Arlington General District Court	Case #: GT20007819-00	Defendant: YAQOOBI, YASIN	Complainant: ALLEN, C; SPS	Hearing: 03/06/2020, 10:00 AM	Charge: F.TO COMPLY WITH TRAFFIC SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20006261-00	Defendant: YESHITLA, LUKAS A	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: 81/65 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20003126-00	Defendant: YUCEL, TUNCAY	Complainant: BROWN, S	Hearing: 03/06/2020, 10:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007861-00	Defendant: BARNES, KENDRICK B	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: IMPROPER BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT20007857-00	Defendant: DEGNAN, CHRISTOPHER J	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: WAIVED
+Arlington General District Court	Case #: GT20007571-00	Defendant: DUNCAN, PETER	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: OPER W/TV SCREEN VISABLE TO DR	Result: FINAL
+Arlington General District Court	Case #: GT20007572-00	Defendant: DUNCAN, PETER	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: IMPROPER TURN	Result: FINAL
+Arlington General District Court	Case #: GT20007847-00	Defendant: EFABO, KOKOV OFFA	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: VEH IMPROPERLY STOPPED ON HWY	Result: WAIVED
+Arlington General District Court	Case #: GT20007855-00	Defendant: ELAMIN, ABUBAKR NASIR ABUB	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT20007386-00	Defendant: GEBREEGZIABHER, ZAID TESFAYE	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: DEFECT HEADLIGHT	Result: FINAL
+Arlington General District Court	Case #: GT20007574-00	Defendant: GIL, NICHOLAS FERNANDO	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: NO DRIVERS LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT20007575-00	Defendant: GIL, NICHOLAS FERNANDO	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007388-00	Defendant: ISLAM, ZAHIROL	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL TO OBEY TRAFFIC SIGNAL	Result: FINAL
+Arlington General District Court	Case #: GT20007853-00	Defendant: KENDALL, MARK L	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: 37/15 SP	Result: WAIVED
+Arlington General District Court	Case #: GT20007827-00	Defendant: KENNEDY, BETH JINAE	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GT20007852-00	Defendant: KILMER, JAMES W	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: WAIVED
+Arlington General District Court	Case #: GT20007848-00	Defendant: OUMAR, DIABY	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL TO OBEY TRAFFIC SIGNAL	Result: FINAL
+Arlington General District Court	Case #: GT20007846-00	Defendant: PAGETT, RILEY WADE	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: FINAL
+Arlington General District Court	Case #: GT20007844-00	Defendant: POUAKAM, GILES W	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: IMPROPER TURN	Result: WAIVED
+Arlington General District Court	Case #: GT20007589-00	Defendant: PREMPEH-SENCHERY, JOHN R	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT20007387-00	Defendant: SOWA, AUGUSTINE	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: DEFECT BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT20007385-00	Defendant: WOLDE, TEWODROG GETACHEW	Complainant: ABRAMAITYS, A J	Hearing: 03/06/2020, 10:30 AM	Charge: DEFECT BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT20007588-00	Defendant: ZUBAIR, MOHAMMED EDRES	Complainant: ANDERSON, N R	Hearing: 03/06/2020, 10:30 AM	Amended Charge: FAIL TO OBEY HIGH. SIGN SLEEP	Result: FINAL
+Arlington General District Court	Case #: GC20000475-00	Defendant: CARTER, LEONARD GEORGE	Complainant: DET O'SHEA	Hearing: 03/06/2020, 11:30 AM	Charge: MALICIOUS WOUNDING	Result: CONTINUED
+Arlington General District Court	Case #: GC20000476-00	Defendant: CARTER, LEONARD GEORGE	Complainant: DET O'SHEA	Hearing: 03/06/2020, 11:30 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004609-00	Defendant: CLINE, RYAN	Complainant: TROOPER CLACK, J	Hearing: 03/06/2020, 11:30 AM	Charge: FLSE STMT ON CRIM HIST CONSENT	Result: FINAL
+Arlington General District Court	Case #: GC19004610-00	Defendant: CLINE, RYAN	Complainant: TROOPER CLACK, J	Hearing: 03/06/2020, 11:30 AM	Charge: PERS SUBJ PROTECT ORDR BUY GUN	Result: FINAL
+Arlington General District Court	Case #: GC19004966-00	Defendant: HESTER, DECARLOS KAYVON	Complainant: DET BIGG, M	Hearing: 03/06/2020, 11:30 AM	Charge: MANUF/DISTRB SCH I/ II 2ND OFF	Result: FINAL
+Arlington General District Court	Case #: GC19004967-00	Defendant: HESTER, DECARLOS KAYVON	Complainant: DET BIGG, M	Hearing: 03/06/2020, 11:30 AM	Charge: MANUF/DISTRB SCH I/ II 2ND OFF	Result: FINAL
+Arlington General District Court	Case #: GC20000559-00	Defendant: PURYEAR, JOHN ELLIOTT	Complainant: DET OHR, D	Hearing: 03/06/2020, 11:30 AM	Charge: NONVIOL FELON POSS GUN W/I 10Y	Result: CONTINUED
+Arlington General District Court	Case #: GC19001846-00	Defendant: STARKS, VINCENT ELLIOTT; JR.	Complainant: OUZIDANE, Y	Hearing: 03/06/2020, 11:30 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: FINAL
+Arlington General District Court	Case #: GC19001847-00	Defendant: STARKS, VINCENT ELLIOTT; JR.	Complainant: OUZIDANE, Y	Hearing: 03/06/2020, 11:30 AM	Charge: MANUF/ETC CONTROLLED SUBSTANCE	Result: WAIVED
+Arlington General District Court	Case #: GC20000487-00	Defendant: WOOTEN, DEANGELO MARQUETTE	Complainant: OFFICER ANDERSON, N	Hearing: 03/06/2020, 11:30 AM	Charge: POSS W/INT MANUF/ETC SCH I/II	Result: CONTINUED
+Arlington General District Court	Case #: GC20000488-00	Defendant: WOOTEN, DEANGELO MARQUETTE	Complainant: OFFICER ANDERSON, N	Hearing: 03/06/2020, 11:30 AM	Charge: POSS W/INT MANUF/ETC SCH I/II	Result: CONTINUED
+Arlington General District Court	Case #: GC20000489-00	Defendant: WOOTEN, DEANGELO MARQUETTE	Complainant: OFFICER ANDERSON, N	Hearing: 03/06/2020, 11:30 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC20000490-00	Defendant: WOOTEN, DEANGELO MARQUETTE	Complainant: OFFICER ANDERSON, N	Hearing: 03/06/2020, 11:30 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC20000491-00	Defendant: WOOTEN, DEANGELO MARQUETTE	Complainant: OFFICER ANDERSON, N	Hearing: 03/06/2020, 11:30 AM	Charge: UNAUTH POSSESSION: DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC20000962-00	Defendant: ALLEN, VANN DAESHAUNE	Complainant: OFF LONDONO, S	Hearing: 03/06/2020, 2:00 PM	Charge: FUGITIVE W/ FELONY ARREST	Result: CONTINUED
+Arlington General District Court	Case #: GC20001044-00	Defendant: BATES, ERIC LEE	Complainant: OFF PLAYFORD, S	Hearing: 03/06/2020, 2:00 PM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GC20001045-00	Defendant: BATES, ERIC LEE	Complainant: OFF PLAYFORD, S	Hearing: 03/06/2020, 2:00 PM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC20001023-00	Defendant: BOYD, JERRIANA MONET	Complainant: OFFICER B WATKINS	Hearing: 03/06/2020, 2:00 PM	Charge: LARCENY OF CHECKS ETC. >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC20001048-00	Defendant: DRIVER, TYLER ELIJAH ALEXANDER	Complainant: OFF GATTO, A	Hearing: 03/06/2020, 2:00 PM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT20009729-00	Defendant: DRIVER, TYLER ELIJAH ALEXANDER	Complainant: OFF GATTO, A	Hearing: 03/06/2020, 2:00 PM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC20001111-00	Defendant: GARCIA AYALA, HERSON	Complainant: MARSH, A	Hearing: 03/06/2020, 2:00 PM	Charge: STALKING: FEAR OF DEATH/ASSLT	Result: CONTINUED
+Arlington General District Court	Case #: GC20001112-00	Defendant: GARCIA AYALA, HERSON	Complainant: ALFONSIN, L	Hearing: 03/06/2020, 2:00 PM	Charge: INDECENT EXPOSURE	Result: CONTINUED
+Arlington General District Court	Case #: GC20000989-00	Defendant: KILGORE, CULLEN LEON	Complainant: HLASNICK, M	Hearing: 03/06/2020, 2:00 PM	Amended Charge: CIVIL VIOLATION - POSSESS MARIJUANA - CIVIL	Result: CONTINUED
+Arlington General District Court	Case #: GT20009727-00	Defendant: MBERGAN, IBRAHIM M	Complainant: OFF GREVER, L	Hearing: 03/06/2020, 2:00 PM	Charge: DWI: 2ND OFF W/IN 5Y - 10Y	Result: CONTINUED
+Arlington General District Court	Case #: GT20009728-00	Defendant: MBERGAN, IBRAHIM M	Complainant: OFF GREVER, L	Hearing: 03/06/2020, 2:00 PM	Charge: REFUSE BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GC20001099-00	Defendant: SCAIFE, GIRARD DINNELL	Complainant: OFF BOWE, M	Hearing: 03/06/2020, 2:00 PM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC20001100-00	Defendant: SCAIFE, GIRARD DINNELL	Complainant: OFF BOWE, M	Hearing: 03/06/2020, 2:00 PM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC20001115-00	Defendant: SCAIFE, GIRARD DINNELL	Complainant: OFF GILES, A	Hearing: 03/06/2020, 2:00 PM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC20000967-00	Defendant: TAYLOR, FRANCIS AKEEM	Complainant: WILLIAM, YU	Hearing: 03/06/2020, 2:00 PM	Charge: FUGITIVE W/ FELONY ARREST	Result: CONTINUED
+Arlington General District Court	Case #: GT20009725-00	Defendant: VELASQUEZ GARCIA, SANTOS CAYET	Complainant: DET SEIBERT, G	Hearing: 03/06/2020, 2:00 PM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20009726-00	Defendant: VELASQUEZ GARCIA, SANTOS CAYET	Complainant: DET SEIBERT, G	Hearing: 03/06/2020, 2:00 PM	Charge: RD-SP IN EXCESS 80 MPH-MISD	Result: CONTINUED
+Arlington General District Court	Case #: GC20001098-00	Defendant: WELLS, RAESHAWN ELIAS	Complainant: CPL MAXWELL, P	Hearing: 03/06/2020, 2:00 PM	Amended Charge: SALE, DISTRIBUTE MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC20001050-00	Defendant: WHARTON, ANDREA QUINN	Complainant: POVEDA, S	Hearing: 03/06/2020, 2:00 PM	Amended Charge: CIVIL VIOLATION - POSSESS MARIJUANA - CIVIL	Result: CONTINUED
+Arlington General District Court	Case #: GC20001051-00	Defendant: WHARTON, ANDREA QUINN	Complainant: POVEDA, S	Hearing: 03/06/2020, 2:00 PM	Charge: DRINK WHILE DRIVING/OPEN CONT.	Result: CONTINUED
+Arlington General District Court	Case #: GC20001113-00	Defendant: WILLETT, ROBERT ANTHONY	Complainant: OFF KEEN, M	Hearing: 03/06/2020, 2:00 PM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GC20001114-00	Defendant: WILLETT, ROBERT ANTHONY	Complainant: OFF KEEN, M	Hearing: 03/06/2020, 2:00 PM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GC20001046-00	Defendant: WILLIAMS BARNES, JERELL D	Complainant: CPL MILLER, C	Hearing: 03/06/2020, 2:00 PM	Charge: OBSTRUCT/RESIST W/O FORCE	Result: CONTINUED
+Arlington General District Court	Case #: GT20009714-00	Defendant: WILLIAMS BARNES, JERELL D	Complainant: CPL MILLER, C	Hearing: 03/06/2020, 2:00 PM	Charge: RECK DR; ENDANG LIFE/LIMB/PROP	Result: CONTINUED
+Arlington General District Court	Case #: GT20009715-00	Defendant: WILLIAMS BARNES, JERELL D	Complainant: CPL MILLER, C	Hearing: 03/06/2020, 2:00 PM	Charge: DRIVE WRONG WAY ON ONE-WAY HWY	Result: CONTINUED

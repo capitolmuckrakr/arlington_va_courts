@@ -1,0 +1,65 @@
+Arlington General District Court	Case #: GC19004570-00	Defendant: ARIF, MARIA	Complainant: OFF GREVER, L	Hearing: 11/05/2019, 9:00 AM	Charge: TRESPASS [LOCAL]	Result: CONTINUED
+Arlington General District Court	Case #: GT19039597-00	Defendant: BERMUDEZ, AZARIA	Complainant: GILES, K	Hearing: 11/05/2019, 9:00 AM	Charge: DRIVE W EXP TAGS 6/19	Result: FINAL
+Arlington General District Court	Case #: GT19039256-00	Defendant: CAMPOS, INDIRA S	Complainant: STONE, A	Hearing: 11/05/2019, 9:00 AM	Charge: EXPIRED INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GC19004593-00	Defendant: COPELAND, JERRELL CORTEZ	Complainant: OFF GILMORE, D	Hearing: 11/05/2019, 9:00 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19004594-00	Defendant: COPELAND, JERRELL CORTEZ	Complainant: OFF GILMORE, D	Hearing: 11/05/2019, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GT19039025-00	Defendant: CRONIN, DANIEL	Complainant: DUBOIS, D	Hearing: 11/05/2019, 9:00 AM	Charge: EXP TAG 2/19	Result: FINAL
+Arlington General District Court	Case #: GT19039195-00	Defendant: FOSHEE, JAMES	Complainant: MALONE, P	Hearing: 11/05/2019, 9:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GC19004569-00	Defendant: GARVIN, TYRONE LAWRENCE	Complainant: TUCKER, Z; ACSO	Hearing: 11/05/2019, 9:00 AM	Amended Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GT19040115-00	Defendant: HENRY, AYANA B	Complainant: LAZAKOVICH, O	Hearing: 11/05/2019, 9:00 AM	Charge: OP W/TINT/SIGNS/DECALS WINDOWS	Result: FINAL
+Arlington General District Court	Case #: GT19038811-00	Defendant: HESCH, JENNIFER MARIE	Complainant: CAPIZZI, S	Hearing: 11/05/2019, 9:00 AM	Charge: EXP INSPECTION 9/19	Result: FINAL
+Arlington General District Court	Case #: GC19004558-00	Defendant: HOOKS, ANTON TRAVON	Complainant: CRUZ, J	Hearing: 11/05/2019, 9:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004559-00	Defendant: HOOKS, ANTON TRAVON	Complainant: CRUZ, J	Hearing: 11/05/2019, 9:00 AM	Charge: CONSPIRE/AID/ABET LARC >$500	Result: CONTINUED
+Arlington General District Court	Case #: GT19040269-00	Defendant: HOSSAIN, MOHAMMAD AKBAR	Complainant: EPSTEIN	Hearing: 11/05/2019, 9:00 AM	Charge: DEF LOW MOUNT BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19038739-00	Defendant: HOUGEN, KATHRYN MARIE	Complainant: CAPIZZI, S	Hearing: 11/05/2019, 9:00 AM	Charge: EXP INSPECTION 7/19	Result: FINAL
+Arlington General District Court	Case #: GC19003486-00	Defendant: JACKSON, WILLIE LEROY; JR	Complainant: OFC BRENT, R	Hearing: 11/05/2019, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19003486-01	Defendant: JACKSON, WILLIE LEROY; JR	Complainant: COMMONWEALTH OF VA	Hearing: 11/05/2019, 9:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19003486-02	Defendant: JACKSON, WILLIE LEROY; JR	Complainant: COMMONWEALTH OF VA	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO APPEAR, MISD OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19003489-00	Defendant: JACKSON, WILLIE LEROY; JR	Complainant: OFC BRENT, R	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO ID	Result: CONTINUED
+Arlington General District Court	Case #: GT19022046-00	Defendant: KIFLAY, HENOK	Complainant: GREEN, J	Hearing: 11/05/2019, 9:00 AM	Amended Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: CONTINUED
+Arlington General District Court	Case #: GC19003760-00	Defendant: LEE, CHRISTOPHER AARON	Complainant: OFFICER MCLOUGHLIN, C	Hearing: 11/05/2019, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19003760-01	Defendant: LEE, CHRISTOPHER AARON	Complainant: COMMONWEALTH OF VA	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO APPEAR, MISD OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19003761-00	Defendant: LEE, CHRISTOPHER AARON	Complainant: OFFICER MCLOUGHLIN, C	Hearing: 11/05/2019, 9:00 AM	Charge: DISORDERLY CONDUCT	Result: CONTINUED
+Arlington General District Court	Case #: GC19003762-00	Defendant: LEE, CHRISTOPHER AARON	Complainant: OFFICER MCLOUGHLIN, C	Hearing: 11/05/2019, 9:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19004560-00	Defendant: MARABLE, DARREN JAMAL	Complainant: OFF DUNCAN, T	Hearing: 11/05/2019, 9:00 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004561-00	Defendant: MARABLE, DARREN JAMAL	Complainant: OFF DUNCAN, T	Hearing: 11/05/2019, 9:00 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19004562-00	Defendant: MARABLE, DARREN JAMAL	Complainant: OFF DUNCAN, T	Hearing: 11/05/2019, 9:00 AM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GT19039084-00	Defendant: MCBARNETTE, BRUCE O	Complainant: WALLACE, S	Hearing: 11/05/2019, 9:00 AM	Charge: EXPIRED VA REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GC19004564-00	Defendant: MULLEN, RAYSHON EDWARD	Complainant: OFF COMEY, B	Hearing: 11/05/2019, 9:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19004565-00	Defendant: MULLEN, RAYSHON EDWARD	Complainant: OFF COMEY, B	Hearing: 11/05/2019, 9:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GT19038712-00	Defendant: MULLIGAN, ELLA LOUISE	Complainant: CAPIZZI, S	Hearing: 11/05/2019, 9:00 AM	Charge: EXP INSPECTION 8/19	Result: FINAL
+Arlington General District Court	Case #: GT19039406-00	Defendant: NIZOMOV, FIRUZ	Complainant: WEISS, W	Hearing: 11/05/2019, 9:00 AM	Charge: DEFECTIVE EQUIPMENT GENERALLY	Result: FINAL
+Arlington General District Court	Case #: GT19039857-00	Defendant: O'DEA, LAURA BODWELL	Complainant: CAPIZZI, S	Hearing: 11/05/2019, 9:00 AM	Charge: EXPIRED INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GC19004568-00	Defendant: OTEY, HERBERT	Complainant: OFF GREVER, L	Hearing: 11/05/2019, 9:00 AM	Charge: PEEP INTO DWELLING THRU DOOR	Result: CONTINUED
+Arlington General District Court	Case #: GC19004592-00	Defendant: PARKER, CARLOS	Complainant: DEP SMITH, D	Hearing: 11/05/2019, 9:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GT19039279-00	Defendant: REDEKER, CHELSEA	Complainant: TABIBI, M	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO UPDTAE OL	Result: FINAL
+Arlington General District Court	Case #: GC19004571-00	Defendant: REMACHE, DIMITRI TRAVIS	Complainant: OFF WEISS, W	Hearing: 11/05/2019, 9:00 AM	Amended Charge: POSSESS CONTROLLED SUBSTANCES	Result: CONTINUED
+Arlington General District Court	Case #: GC19004572-00	Defendant: REMACHE, DIMITRI TRAVIS	Complainant: OFF WEISS, W	Hearing: 11/05/2019, 9:00 AM	Charge: POSSESS GUN W/SELL 1LB+ MARIJ	Result: CONTINUED
+Arlington General District Court	Case #: GC19004573-00	Defendant: REMACHE, DIMITRI TRAVIS	Complainant: OFF WEISS, W	Hearing: 11/05/2019, 9:00 AM	Charge: CONCEALED WEAPON: CARRY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004563-00	Defendant: RICE, TARHISHA M	Complainant: OFF MARTENS, A	Hearing: 11/05/2019, 9:00 AM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GT19040489-00	Defendant: THAM, BAN VINH	Complainant: YOUNG, F	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: FINAL
+Arlington General District Court	Case #: GC19003324-00	Defendant: TRUESDALE, LUVOR D	Complainant: MARKSTEINER, J	Hearing: 11/05/2019, 9:00 AM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19003324-01	Defendant: TRUESDALE, LUVOR D	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO APPEAR,	Result: CONTINUED
+Arlington General District Court	Case #: GC19003330-00	Defendant: TRUESDALE, LUVOR D	Complainant: MARKSTEINER, J	Hearing: 11/05/2019, 9:00 AM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004325-01	Defendant: WEEKS, ANDREW	Complainant: COMMONWEALTH OF VA	Hearing: 11/05/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19004105-00	Defendant: EDGEL, SOPHIA ALEXANDRA	Complainant: OFF OESTERLING, C	Hearing: 11/05/2019, 9:30 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: CONTINUED
+Arlington General District Court	Case #: GT19035943-00	Defendant: EDGEL, SOPHIA ALEXANDRA	Complainant: OFF OESTERLING, C	Hearing: 11/05/2019, 9:30 AM	Charge: DRINK WHILE DRIVING/OPEN CONT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004231-00	Defendant: WILLETT, ROBERT ANTHONY	Complainant: OFF OESTERLING, C	Hearing: 11/05/2019, 9:30 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GT19035923-00	Defendant: CLAUSEN, RACHEL LOUISE	Complainant: THOMPSON, STEVEN	Hearing: 11/05/2019, 10:00 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GC19003430-00	Defendant: THORNTON, SEAQUAN ALONTE	Complainant: DET COOK, C D	Hearing: 11/05/2019, 10:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GT19038979-00	Defendant: ANDERSON, SCOTT CURTIS	Complainant: WATKINS, B	Hearing: 11/05/2019, 10:30 AM	Charge: EXP SAFETY INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19039051-00	Defendant: ARKAWI, LENA TANYA	Complainant: BROWNE, J	Hearing: 11/05/2019, 10:30 AM	Charge: EXP STATE INSPECTION 2/19	Result: FINAL
+Arlington General District Court	Case #: GT19039431-00	Defendant: ASHCRAFT, HALEIGH KATHERINE	Complainant: CATALINO, L	Hearing: 11/05/2019, 10:30 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT19039905-00	Defendant: ATTIPOE, CARL AGBEKO	Complainant: PRICE, G	Hearing: 11/05/2019, 10:30 AM	Charge: DEFECTIVE EQUIPMENT BRAKE LT	Result: FINAL
+Arlington General District Court	Case #: GT19039393-00	Defendant: CHANNON, VINCENT MICHAEL	Complainant: ANDERSON, N R	Hearing: 11/05/2019, 10:30 AM	Charge: DEF EQUIPMT LT/RT BRAKE LIGHT	Result: FINAL
+Arlington General District Court	Case #: GT19039002-00	Defendant: DOMINGUEZ, ALBERTO JESUS	Complainant: WATKINS, B	Hearing: 11/05/2019, 10:30 AM	Charge: DEFECT BRAKE LIGHTS	Result: FINAL
+Arlington General District Court	Case #: GT19038439-00	Defendant: LOMAX, HEMMA RAMRATTAN	Complainant: KING, T	Hearing: 11/05/2019, 10:30 AM	Charge: EXP STATE LIC PLATES	Result: FINAL
+Arlington General District Court	Case #: GT19039117-00	Defendant: LUPOSELLO, MARK ALFRED	Complainant: BROWNE, J	Hearing: 11/05/2019, 10:30 AM	Charge: EXPIRED REGISTRATION	Result: FINAL
+Arlington General District Court	Case #: GT19039204-00	Defendant: MACGREGOR, TIMOTHY S	Complainant: CATALINO, L	Hearing: 11/05/2019, 10:30 AM	Charge: EXP STATE INSPECTION 8/19	Result: FINAL
+Arlington General District Court	Case #: GT19038472-00	Defendant: PEARSON, DOROTHY DORDELMAN	Complainant: JONES, M	Hearing: 11/05/2019, 10:30 AM	Charge: EXP REG 9/19	Result: FINAL
+Arlington General District Court	Case #: GT19039200-00	Defendant: RITTINGER, VICTORIA H	Complainant: CATALINO, L	Hearing: 11/05/2019, 10:30 AM	Charge: FAIL TO HAVE VEHICLE INSPECTED	Result: FINAL
+Arlington General District Court	Case #: GT19039005-00	Defendant: SZULIK-WICKER, KAITLIN M	Complainant: WATKINS, B	Hearing: 11/05/2019, 10:30 AM	Charge: EXP SAFETY INSPECTION	Result: FINAL
+Arlington General District Court	Case #: GT19038997-00	Defendant: THAKOR, ATILKUMAR ANAKSIM	Complainant: MANN, S A	Hearing: 11/05/2019, 10:30 AM	Charge: EXP STATE INSPECTION 5/19	Result: FINAL
+Arlington General District Court	Case #: GT19039517-00	Defendant: VAZIRPOUR, KENNEDY ROXANA	Complainant: BYERS, K	Hearing: 11/05/2019, 10:30 AM	Charge: EXPIRED VA PLATES 8/19	Result: FINAL
+Arlington General District Court	Case #: GC18001736-00	Defendant: JOHNS, ISAAC EDWARD	Complainant: O'DANIEL, J	Hearing: 11/05/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC18003697-00	Defendant: ZHAO, YUTONG	Complainant: LI, XIAOCHI	Hearing: 11/05/2019, 2:00 PM	Amended Charge: TRESPASSING	Result: CONTINUED

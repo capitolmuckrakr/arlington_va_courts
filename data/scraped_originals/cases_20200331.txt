@@ -1,0 +1,85 @@
+Arlington General District Court	Case #: GC20000183-00	Defendant: AFTAB, TALHA	Complainant: WEIDMAN, D	Hearing: 03/31/2020, 8:30 AM	Charge: DESTRUCT OF PROPERTY	Result: CONTINUED
+Arlington General District Court	Case #: GT20006805-00	Defendant: DASHDENDEV, MARGAD ERDENE	Complainant: TPR CLACK, J	Hearing: 03/31/2020, 8:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20006807-00	Defendant: DASHDENDEV, MARGAD ERDENE	Complainant: TPR CLACK, J	Hearing: 03/31/2020, 8:30 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT20002385-00	Defendant: RAHMAN, NAFEES	Complainant: OFF HIRSCHMAN, C	Hearing: 03/31/2020, 8:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20002387-00	Defendant: RAHMAN, NAFEES	Complainant: OFF HIRSCHMAN, C	Hearing: 03/31/2020, 8:30 AM	Charge: REFUSE BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT20012508-00	Defendant: BIEARD, CARLTON R	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: FAIL TO OBEY HIGHWAY SIGN	Result: CONTINUED
+Arlington General District Court	Case #: GT20012250-00	Defendant: BURDETTE, MARIA	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: 47/30 SP	Result: CONTINUED
+Arlington General District Court	Case #: GT20012507-00	Defendant: CARNEY, JULIANNNA M	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: 45/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GT19048462-00	Defendant: CLARK, JOSPEPH C	Complainant: COATES, B	Hearing: 03/31/2020, 9:00 AM	Charge: FT TO DISPLAY CURRENT DECAL	Result: CONTINUED
+Arlington General District Court	Case #: GT20000341-00	Defendant: DUNCAN, JAMAL LEE	Complainant: COATES, B	Hearing: 03/31/2020, 9:00 AM	Charge: EXPIRED REGISTRATION 10/19	Result: CONTINUED
+Arlington General District Court	Case #: GC20001433-00	Defendant: GEBREMESKELE, YOHANA	Complainant: LT DEP FIRE MARS GUICE, A	Hearing: 03/31/2020, 9:00 AM	Amended Charge: VIOLATE FIRE PREVENTION CODE	Result: CONTINUED
+Arlington General District Court	Case #: GC20001392-00	Defendant: HERNANDEZ GOMEZ, KEVIN ESAI	Complainant: OFF SENSENIG, P	Hearing: 03/31/2020, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GC20001393-00	Defendant: HERNANDEZ GOMEZ, KEVIN ESAI	Complainant: OFF SENSENIG, P	Hearing: 03/31/2020, 9:00 AM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GT20012245-00	Defendant: JOSEPH, MARK	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: 47/30 SP	Result: WAIVED
+Arlington General District Court	Case #: GC20001389-00	Defendant: LAHLIQI, SALAH EDDINE	Complainant: TADESSE H GEBRU	Hearing: 03/31/2020, 9:00 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GT20000328-00	Defendant: NASH, DEQUAN FITZGERALD	Complainant: COUTRO, S L	Hearing: 03/31/2020, 9:00 AM	Charge: DRIV UNDER REVO/SUSPENSION	Result: CONTINUED
+Arlington General District Court	Case #: GT20000329-00	Defendant: NASH, DEQUAN FITZGERALD	Complainant: COUTRO, S L	Hearing: 03/31/2020, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT20000338-00	Defendant: NASH, DEQUAN FITZGERALD	Complainant: COUTRO, S L	Hearing: 03/31/2020, 9:00 AM	Charge: FAIL STOP/YIELD ENTERING HWY	Result: CONTINUED
+Arlington General District Court	Case #: GT20012503-00	Defendant: PANETTI, JOHN HAROLD	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: 46/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GC20001431-00	Defendant: SIMPSON, MICHAEL LAWRENCE	Complainant: OFF RAMIREZ, M	Hearing: 03/31/2020, 9:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC20001432-00	Defendant: SIMPSON, MICHAEL LAWRENCE	Complainant: OFF RAMIREZ, M	Hearing: 03/31/2020, 9:00 AM	Charge: UNAUTH POSSESSION: DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GT20014477-00	Defendant: SIMPSON, MICHAEL LAWRENCE	Complainant: OFF RAMIREZ, M	Hearing: 03/31/2020, 9:00 AM	Charge: DWI: 2ND OFF W/IN 5Y - 10Y	Result: CONTINUED
+Arlington General District Court	Case #: GT20012506-00	Defendant: SMITH, SCHAVION L	Complainant: STONE, A	Hearing: 03/31/2020, 9:00 AM	Charge: 47/30 SPEED	Result: WAIVED
+Arlington General District Court	Case #: GC20001276-00	Defendant: YOUNG, LINDA ANN	Complainant: OFF POVEDA, S	Hearing: 03/31/2020, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC20001277-00	Defendant: YOUNG, LINDA ANN	Complainant: OFF POVEDA, S	Hearing: 03/31/2020, 9:00 AM	Charge: FAIL TO ID	Result: FINAL
+Arlington General District Court	Case #: GC20000838-00	Defendant: YOUNGNER, JOSHUA COLE	Complainant: MARTIN, KAHLIL	Hearing: 03/31/2020, 9:00 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC20000952-00	Defendant: COLEMAN, GEORGE THOMAS	Complainant: BOADU, M	Hearing: 03/31/2020, 9:30 AM	Charge: FARE EVASION	Result: CONTINUED
+Arlington General District Court	Case #: GC20001189-00	Defendant: WILLIAMS, KIMBERLY ANN	Complainant: RODRIGUEZ, K	Hearing: 03/31/2020, 9:30 AM	Charge: FARE EVASION	Result: CONTINUED
+Arlington General District Court	Case #: GC20000838-00	Defendant: YOUNGNER, JOSHUA COLE	Complainant: MARTIN, KAHLIL	Hearing: 03/31/2020, 9:30 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004832-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004833-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004834-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: DESTRUCT PROP W/INTENT >=$1000	Result: CONTINUED
+Arlington General District Court	Case #: GC19004835-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004836-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004837-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19004838-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004839-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19004840-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004841-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004842-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004843-00	Defendant: BARNES, DARREN JEROME	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19000094-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 03/31/2020, 10:00 AM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19000095-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 03/31/2020, 10:00 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19000096-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19000097-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 03/31/2020, 10:00 AM	Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC19004558-00	Defendant: HOOKS, ANTON TRAVON	Complainant: CRUZ, J	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004559-00	Defendant: HOOKS, ANTON TRAVON	Complainant: CRUZ, J	Hearing: 03/31/2020, 10:00 AM	Charge: CONSPIRE/AID/ABET LARC >$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19002301-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 03/31/2020, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002301-01	Defendant: IRELAND, ERIN M	Complainant: COMMONWEALTH OF VA	Hearing: 03/31/2020, 10:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GC19002302-00	Defendant: IRELAND, ERIN M	Complainant: RAVINSKAS, M	Hearing: 03/31/2020, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19002303-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 03/31/2020, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19002304-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 03/31/2020, 10:00 AM	Charge: DRIVE W/LIC REVOKED, 1 OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19002305-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 03/31/2020, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19003078-00	Defendant: IRELAND, ERIN M	Complainant: CPL RAVINSKAS, M	Hearing: 03/31/2020, 10:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC11000876-00	Defendant: JACKSON, DAVID	Complainant: HOLMAN, W	Hearing: 03/31/2020, 10:00 AM	Amended Charge: NOT RETURN PROP-BAILEE <$500	Result: CONTINUED
+Arlington General District Court	Case #: GC11000876-01	Defendant: JACKSON, DAVID	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 03/31/2020, 10:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC20001350-00	Defendant: KHALIKOV, RAJAB	Complainant: PENA, P	Hearing: 03/31/2020, 10:00 AM	Charge: RAPE: BY FORCE/THREAT	Result: CONTINUED
+Arlington General District Court	Case #: GC19005405-00	Defendant: RILEY, PATRICK	Complainant: OFF FREIERT, A	Hearing: 03/31/2020, 10:00 AM	Charge: ROBBERY: BUSINESS	Result: CONTINUED
+Arlington General District Court	Case #: GC19005406-00	Defendant: RILEY, PATRICK	Complainant: OFF FREIERT, A	Hearing: 03/31/2020, 10:00 AM	Charge: ASSLT: UNLAW INJ BY ACID ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19005052-00	Defendant: TUCKER, SAMUEL	Complainant: OFF FRANCIS, K	Hearing: 03/31/2020, 10:00 AM	Amended Charge: POSS.OF CONTROLLED SUBSTANCE	Result: FINAL
+Arlington General District Court	Case #: GC19005053-00	Defendant: TUCKER, SAMUEL	Complainant: OFF FRANCIS, K	Hearing: 03/31/2020, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC20000024-00	Defendant: TUCKER, SAMUEL	Complainant: OFF CASEY, M	Hearing: 03/31/2020, 10:00 AM	Charge: ASSAULT & BATTERY	Result: FINAL
+Arlington General District Court	Case #: GC20000024-01	Defendant: TUCKER, SAMUEL	Complainant: COMMONWEALTH OF VA	Hearing: 03/31/2020, 10:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: FINAL
+Arlington General District Court	Case #: GC20000025-00	Defendant: TUCKER, SAMUEL	Complainant: OFF CASEY, M	Hearing: 03/31/2020, 10:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC20000026-00	Defendant: TUCKER, SAMUEL	Complainant: OFF CASEY, M	Hearing: 03/31/2020, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC20000662-00	Defendant: TUCKER, SAMUEL	Complainant: OFF ALBA, Z	Hearing: 03/31/2020, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC20000758-00	Defendant: TUCKER, SAMUEL	Complainant: OFF GILKES, B	Hearing: 03/31/2020, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL
+Arlington General District Court	Case #: GC19004973-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19004974-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004975-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004976-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: DESTRUCT PROP W/INTENT >=$1000	Result: CONTINUED
+Arlington General District Court	Case #: GC19004977-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004978-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004979-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19004980-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004981-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004982-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004983-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19004984-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC20000054-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC20000055-00	Defendant: WILLIAMS, NICO EDDIE	Complainant: DET WHALIN, S	Hearing: 03/31/2020, 10:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC20000721-00	Defendant: TUCKER, SAMUEL	Complainant: MOHAMED, A	Hearing: 03/31/2020, 11:30 AM	Amended Charge: PETIT LARCENY	Result: FINAL
+Arlington General District Court	Case #: GC20000722-00	Defendant: TUCKER, SAMUEL	Complainant: MOHAMED, A	Hearing: 03/31/2020, 11:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: FINAL
+Arlington General District Court	Case #: GC20000723-00	Defendant: TUCKER, SAMUEL VETTLE; JR	Complainant: OFF BOADU, M	Hearing: 03/31/2020, 11:30 AM	Charge: POSS ALCOHOL ON ARL CO PROPRTY	Result: FINAL
+Arlington General District Court	Case #: GC20000724-00	Defendant: TUCKER, SAMUEL VETTLE; JR	Complainant: OFF BOADU, M	Hearing: 03/31/2020, 11:30 AM	Charge: INTOXICATION IN PUBLIC	Result: FINAL

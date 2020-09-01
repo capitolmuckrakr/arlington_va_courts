@@ -1,0 +1,80 @@
+Arlington General District Court	Case #: GC18004152-00	Defendant: BENNETT, TREALANE LAMONT	Complainant: KOOHARIAN, B	Hearing: 06/14/2019, 9:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004153-00	Defendant: BENNETT, TREALANE LAMONT	Complainant: KOOHARIAN, B	Hearing: 06/14/2019, 9:00 AM	Charge: UNAUTH POSSESSION: DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GT18033306-00	Defendant: BENNETT, TREALANE LAMONT	Complainant: MCCLAUGHERTY, C	Hearing: 06/14/2019, 9:00 AM	Charge: ELUDE/DISREGARD POLICE-FELONY	Result: CONTINUED
+Arlington General District Court	Case #: GT18033306-01	Defendant: BENNETT, TREALANE LAMONT	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 9:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: CONTINUED
+Arlington General District Court	Case #: GT18033306-02	Defendant: BENNETT, TREALANE LAMONT	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT18033307-00	Defendant: BENNETT, TREALANE LAMONT	Complainant: KOOHARIAN, B	Hearing: 06/14/2019, 9:00 AM	Charge: FAIL STOP ACCIDENT/FEL DEATH	Result: CONTINUED
+Arlington General District Court	Case #: GC19002331-00	Defendant: BRASWELL, RANADO RODRIGUEZ	Complainant: LAFLEY, S	Hearing: 06/14/2019, 9:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19002332-00	Defendant: BRASWELL, RANADO RODRIGUEZ	Complainant: LI, J	Hearing: 06/14/2019, 9:00 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19002333-00	Defendant: BRASWELL, RANADO RODRIGUEZ	Complainant: LI, J	Hearing: 06/14/2019, 9:00 AM	Charge: ENTER HOUSE TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19002334-00	Defendant: BRASWELL, RANADO RODRIGUEZ	Complainant: LAFLEY, S	Hearing: 06/14/2019, 9:00 AM	Charge: GRAND LARCENY: AUTO THEFT	Result: CONTINUED
+Arlington General District Court	Case #: GC19002335-00	Defendant: HOLMAN, RUBIN D	Complainant: D. SMITH	Hearing: 06/14/2019, 9:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GT19019154-00	Defendant: LARSON, BENJAMIN MICHAEL	Complainant: STEPHENSON, A.A.	Hearing: 06/14/2019, 9:00 AM	Charge: FTO DO NOT ENTER	Result: FINAL
+Arlington General District Court	Case #: GC19002257-00	Defendant: LEWIS III, THOMAS JESSE	Complainant: FABBRI, J	Hearing: 06/14/2019, 9:00 AM	Amended Charge: UNAUTH USE OF MOTOR VEH - MISD	Result: CONTINUED
+Arlington General District Court	Case #: GC19002258-00	Defendant: LEWIS III, THOMAS JESSE	Complainant: FABBRI, J	Hearing: 06/14/2019, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19002259-00	Defendant: LEWIS III, THOMAS JESSE	Complainant: FABBRI, J	Hearing: 06/14/2019, 9:00 AM	Charge: UNAUTHORIZED ENTRY-REAGAN NTL	Result: CONTINUED
+Arlington General District Court	Case #: GT19018124-00	Defendant: LIZARZABURU, CESAR A	Complainant: MARTIN, C	Hearing: 06/14/2019, 9:00 AM	Charge: DRIVE W/O DRIVER'S LICENSE	Result: FINAL
+Arlington General District Court	Case #: GT16021574-00	Defendant: LUK, WAITOU WELBY	Complainant: GILES, K	Hearing: 06/14/2019, 9:00 AM	Charge: FICTITOUS TAGS	Result: CONTINUED
+Arlington General District Court	Case #: GT16021575-00	Defendant: LUK, WAITOU WELBY	Complainant: GILES, K	Hearing: 06/14/2019, 9:00 AM	Amended Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT16021575-01	Defendant: LUK, WAITOU WELBY	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT19023765-00	Defendant: MIRANDA MENDEZ, DORIAN F	Complainant: HIRSCHMAN, C	Hearing: 06/14/2019, 9:00 AM	Charge: DWI: 1ST OFF, BAC >.20%	Result: CONTINUED
+Arlington General District Court	Case #: GT19023767-00	Defendant: MIRANDA MENDEZ, DORIAN F	Complainant: HIRSCHMAN, C	Hearing: 06/14/2019, 9:00 AM	Charge: NO DRIVERS LICENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001590-00	Defendant: NEDD LUDD, VINCENT	Complainant: CLARK, C	Hearing: 06/14/2019, 9:00 AM	Amended Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19001590-01	Defendant: NEDD LUDD, VINCENT	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GT16032528-04	Defendant: POOLE, VINCENT MIKEAL	Complainant: ASAP 2016-970	Hearing: 06/14/2019, 9:00 AM	Charge: CAPIAS/NON-COMP ASAP	Result: CONTINUED
+Arlington General District Court	Case #: GC19002338-00	Defendant: SIVASANKARA-PILLAI, RAMAN MENO	Complainant: STAFFORD, D	Hearing: 06/14/2019, 9:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GT19023763-00	Defendant: TCHKADUA, BADRI	Complainant: YANDA, S	Hearing: 06/14/2019, 9:00 AM	Amended Charge: DWI, 1ST	Result: CONTINUED
+Arlington General District Court	Case #: GC19002321-00	Defendant: TURNER, JAY	Complainant: BONOMO, N	Hearing: 06/14/2019, 9:00 AM	Charge: CALL/SET EMERG ALARM W/O CAUSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002322-00	Defendant: TURNER, JAY	Complainant: BONOMO, N	Hearing: 06/14/2019, 9:00 AM	Charge: FALSE REPORT/SUMMON TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC19001898-00	Defendant: BAGLEY, RONALD AUGUSTUS JR.	Complainant: GILANI,S.	Hearing: 06/14/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GT19018121-00	Defendant: GRAY, KENNETH EDWARD	Complainant: ANDERSON, T.T.	Hearing: 06/14/2019, 9:30 AM	Charge: OP FT GIVE FULL TIME AND ATTEN	Result: FINAL
+Arlington General District Court	Case #: GC19001697-00	Defendant: SEABROOKS, LAUNDEAN WHIT; JR	Complainant: VARAKLIS, A	Hearing: 06/14/2019, 9:30 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19001695-00	Defendant: SEABROOKS, LAUNDEAN WHIT; JR.	Complainant: VARAKLIS, A	Hearing: 06/14/2019, 9:30 AM	Charge: OBSTRUCT/RESIST W/O FORCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001644-00	Defendant: BROOKS, DELONTE ANTJUAN	Complainant: MOREHOUSE, M.	Hearing: 06/14/2019, 10:00 AM	Charge: INDECENT EXPOSURE	Result: CONTINUED
+Arlington General District Court	Case #: GC18004377-00	Defendant: HILL, GERARD	Complainant: DAVIS, J	Hearing: 06/14/2019, 10:00 AM	Charge: BURGLARY NIGHT TO COMM FELONY	Result: FINAL
+Arlington General District Court	Case #: GC18004377-01	Defendant: HILL, GERARD	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 10:00 AM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC18004377-02	Defendant: HILL, GERARD	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 10:00 AM	Charge: BAILEE VIOL/PRETRIAL COND	Result: FINAL
+Arlington General District Court	Case #: GC18004378-00	Defendant: HILL, GERARD	Complainant: DAVIS, J	Hearing: 06/14/2019, 10:00 AM	Charge: GRND LARCENY: >=$200 NOT PERSN	Result: FINAL
+Arlington General District Court	Case #: GC18004379-00	Defendant: HILL, GERARD	Complainant: DAVIS, J	Hearing: 06/14/2019, 10:00 AM	Charge: GRND LARCENY: >=$200 NOT PERSN	Result: FINAL
+Arlington General District Court	Case #: GC18004380-00	Defendant: HILL, GERARD	Complainant: DAVIS, J	Hearing: 06/14/2019, 10:00 AM	Charge: DESTRUCT PROP W/INTENT <$1000	Result: FINAL
+Arlington General District Court	Case #: GC18003763-00	Defendant: HILL, JESSICA LYNN	Complainant: BROWN, J	Hearing: 06/14/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: FINAL
+Arlington General District Court	Case #: GC18003763-01	Defendant: HILL, JESSICA LYNN	Complainant: COMMONWEALTH OF VA	Hearing: 06/14/2019, 10:00 AM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC18003763-02	Defendant: HILL, JESSICA LYNN	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 06/14/2019, 10:00 AM	Charge: BAILEE VIOL REL/PRETRIAL COND	Result: FINAL
+Arlington General District Court	Case #: GC18003764-00	Defendant: HILL, JESSICA LYNN	Complainant: BROWN, J	Hearing: 06/14/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: FINAL
+Arlington General District Court	Case #: GC18003761-00	Defendant: LENHARDT, DAMIEN STARR	Complainant: BROWN, J	Hearing: 06/14/2019, 10:00 AM	Charge: VIOLENT FELON POSS/TRAN WEAPON	Result: FINAL
+Arlington General District Court	Case #: GC18003761-01	Defendant: LENHARDT, DAMIEN STARR	Complainant: COMMONWELATH OF VA	Hearing: 06/14/2019, 10:00 AM	Charge: FAIL TO APPEAR	Result: FINAL
+Arlington General District Court	Case #: GC18003762-00	Defendant: LENHARDT, DAMIEN STARR	Complainant: BROWN, J	Hearing: 06/14/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: FINAL
+Arlington General District Court	Case #: GC18003816-00	Defendant: LENHARDT, DAMIEN STARR	Complainant: BROWN, J	Hearing: 06/14/2019, 10:00 AM	Charge: USE SAWED OFF GUN OTHER PURP	Result: FINAL
+Arlington General District Court	Case #: GC19000124-00	Defendant: OUEDRAOGO PERNET, CHRISTIANE	Complainant: CYMBALISTY, M	Hearing: 06/14/2019, 10:00 AM	Charge: OBSTRUCT/RESIST W/O FORCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19001001-00	Defendant: PIERCE, STACEY ANN	Complainant: WASHINGTON, D	Hearing: 06/14/2019, 10:00 AM	Charge: CARRY WEAPON IN AIRPORT TERM	Result: CONTINUED
+Arlington General District Court	Case #: GC19002292-00	Defendant: POLSTON, NICHOLAS	Complainant: BIGGERS, L	Hearing: 06/14/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002293-00	Defendant: POLSTON, NICHOLAS	Complainant: BIGGERS, L	Hearing: 06/14/2019, 10:00 AM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002294-00	Defendant: POLSTON, NICHOLAS	Complainant: BIGGERS, L	Hearing: 06/14/2019, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19001186-00	Defendant: WILLIAMS, JERROD LEWIS	Complainant: GARDNER, D	Hearing: 06/14/2019, 10:00 AM	Charge: FALSE STMT CRIM INVESTIGATION	Result: CONTINUED
+Arlington General District Court	Case #: GC19001231-00	Defendant: WILLIAMS, JERROD LEWIS	Complainant: GARDNER, D	Hearing: 06/14/2019, 10:00 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19001952-00	Defendant: BYRD, WILLIE CLEMON	Complainant: HUBBARD, E	Hearing: 06/14/2019, 11:30 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19001953-00	Defendant: BYRD, WILLIE CLEMON	Complainant: HUBBARD, E	Hearing: 06/14/2019, 11:30 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19000705-00	Defendant: CAMPBELL, ANTHONY; JR.	Complainant: TRAINER, J	Hearing: 06/14/2019, 11:30 AM	Charge: ROBBERY: BANK W/ USE OF GUN	Result: FINAL
+Arlington General District Court	Case #: GC19001680-00	Defendant: DEVORE, LORENZO THEODORE	Complainant: VARAKLIS, A	Hearing: 06/14/2019, 11:30 AM	Amended Charge: TRESPASSING	Result: FINAL
+Arlington General District Court	Case #: GC19001681-00	Defendant: DEVORE, LORENZO THEODORE	Complainant: VARAKLIS, A	Hearing: 06/14/2019, 11:30 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: FINAL
+Arlington General District Court	Case #: GC19000018-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 06/14/2019, 11:30 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000019-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 06/14/2019, 11:30 AM	Charge: USE CC SCAN INFO IN ANOTH CRIM	Result: CONTINUED
+Arlington General District Court	Case #: GC19000021-00	Defendant: GONZALEZ, FRANKLIN	Complainant: FITZGERALD, C	Hearing: 06/14/2019, 11:30 AM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19000024-00	Defendant: GONZALEZ, FRANKLIN	Complainant: MCCLAUGHERTY, C	Hearing: 06/14/2019, 11:30 AM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19001711-00	Defendant: MCNEAL, JERMAINE EDWARD	Complainant: QUINN, M	Hearing: 06/14/2019, 11:30 AM	Charge: EMBEZZLEMENT >=$500	Result: WAIVED
+Arlington General District Court	Case #: GC19002200-00	Defendant: BRUNDED, JOHN MICHAEL GILBERT	Complainant: LAZAKOVICH, O	Hearing: 06/14/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GT19022340-00	Defendant: BRUNDRED, JOHN GILBRET	Complainant: LAZAKOVICH, O	Hearing: 06/14/2019, 2:00 PM	Charge: IMPROPER REG	Result: CONTINUED
+Arlington General District Court	Case #: GC19002301-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 06/14/2019, 2:00 PM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002302-00	Defendant: IRELAND, ERIN M	Complainant: RAVINSKAS, M	Hearing: 06/14/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19002303-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 06/14/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19002304-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 06/14/2019, 2:00 PM	Charge: DRIVE W/LIC REVOKED, 1 OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19002305-00	Defendant: IRELAND, ERIN M	Complainant: YANDA, S	Hearing: 06/14/2019, 2:00 PM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002230-00	Defendant: MCEWEN, DEANDRE LETRELL	Complainant: WEIDMAN, D	Hearing: 06/14/2019, 2:00 PM	Amended Charge: EMBEZZLEMENT <$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19002231-00	Defendant: MCEWEN, DEANDRE LETRELL	Complainant: WEIDMAN, D	Hearing: 06/14/2019, 2:00 PM	Charge: EMBEZZLEMENT >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19002232-00	Defendant: MCEWEN, DEANDRE LETRELL	Complainant: WEIDMAN, D	Hearing: 06/14/2019, 2:00 PM	Charge: EMBEZZLEMENT >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19002326-00	Defendant: NETTY, D'ANDRE CHRISTIAN	Complainant: HILL, V	Hearing: 06/14/2019, 2:00 PM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GC19002327-00	Defendant: NETTY, D'ANDRE CHRISTIAN	Complainant: HILL, V	Hearing: 06/14/2019, 2:00 PM	Charge: FT PAY METRO FARE	Result: CONTINUED
+Arlington General District Court	Case #: GC19002324-00	Defendant: POWELL, MATTHEW JUSTIN	Complainant: WOOLLEY, I	Hearing: 06/14/2019, 2:00 PM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19002325-00	Defendant: POWELL, MATTHEW JUSTIN	Complainant: WOOLLEY, I	Hearing: 06/14/2019, 2:00 PM	Charge: POSSESSION OF BURGLARY TOOLS	Result: CONTINUED
+Arlington General District Court	Case #: GC19002330-00	Defendant: SANDERS, EUGENE	Complainant: EINBINDER, E	Hearing: 06/14/2019, 2:00 PM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19002336-00	Defendant: ULLA, MOHAMMAD MOHIB	Complainant: PENNIX, S	Hearing: 06/14/2019, 2:00 PM	Charge: POSS.OF CONTROLLED SUBSTANCE	Result: CONTINUED

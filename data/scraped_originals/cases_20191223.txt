@@ -1,0 +1,84 @@
+Arlington General District Court	Case #: GC19004388-00	Defendant: BROU, CECILE RAYMOND	Complainant: GILES, K	Hearing: 12/23/2019, 8:30 AM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004306-00	Defendant: JONES, ANTONIO RAPHAEL	Complainant: JORGE CUAMATZI-PEREZ	Hearing: 12/23/2019, 8:30 AM	Charge: PETIT LARC <$500 NOT FRM PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19004310-00	Defendant: JONES, ANTONIO RAPHAEL	Complainant: DUNCAN, T	Hearing: 12/23/2019, 8:30 AM	Charge: PETIT LARC <$500 NOT FRM PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GT19040426-00	Defendant: MUNTZER, EVELINA P	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 8:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19040429-00	Defendant: MUNTZER, EVELINA P	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 8:30 AM	Charge: REFUSE BREATH, SUBQ W/IN 10YRS	Result: CONTINUED
+Arlington General District Court	Case #: GT19040431-00	Defendant: MUNTZER, EVELINA P	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 8:30 AM	Charge: ELUDE/DISREGARD POLICE-MISD	Result: CONTINUED
+Arlington General District Court	Case #: GC19004672-00	Defendant: NICHOLS, TARIK MOSES	Complainant: VELEZ, T	Hearing: 12/23/2019, 8:30 AM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005375-00	Defendant: BALTAZAR, ARIEL CANLAS	Complainant: OFF LONDONO	Hearing: 12/23/2019, 9:00 AM	Charge: DESTRUCT PROP W/INTENT >=$1000	Result: CONTINUED
+Arlington General District Court	Case #: GC19005376-00	Defendant: BALTAZAR, ARIEL CANLAS	Complainant: OFF LONDONO	Hearing: 12/23/2019, 9:00 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005373-00	Defendant: BAUGHMAN, DARYL JASON	Complainant: OFF ROMAN, K	Hearing: 12/23/2019, 9:00 AM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005374-00	Defendant: BAUGHMAN, DARYL JASON	Complainant: OFF ROMAN, K	Hearing: 12/23/2019, 9:00 AM	Charge: PUBLIC SWEARING/INTOXICATION	Result: CONTINUED
+Arlington General District Court	Case #: GC19005368-00	Defendant: BEAL, JAZMINE STAR	Complainant: OFF DUNCAN, T	Hearing: 12/23/2019, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GC19005370-00	Defendant: CUNNINGHAM, ELEAZER; JR	Complainant: OFF MONTOYA, J	Hearing: 12/23/2019, 9:00 AM	Amended Charge: SHOPLFT:ALTER MERCH LESS THAN	Result: CONTINUED
+Arlington General District Court	Case #: GC19005371-00	Defendant: DE BEARN, GASTON	Complainant: OFF MISHLER, A	Hearing: 12/23/2019, 9:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19005372-00	Defendant: DE BEARN, GASTON	Complainant: OFF MISHLER, A	Hearing: 12/23/2019, 9:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19005369-00	Defendant: JACKSON, KELVIN DALE	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 9:00 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: CONTINUED
+Arlington General District Court	Case #: GC19004709-00	Defendant: MILLER, KEENAN	Complainant: FUENTES, J	Hearing: 12/23/2019, 9:00 AM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19004709-01	Defendant: MILLER, KEENAN	Complainant: COMMONWEALTH OF VA	Hearing: 12/23/2019, 9:00 AM	Charge: FAIL TO APPEAR	Result: CONTINUED
+Arlington General District Court	Case #: GC19005377-00	Defendant: MILLER, KEENAN	Complainant: OFF MARKSTEINER, J	Hearing: 12/23/2019, 9:00 AM	Charge: POSSESSION OF BURGLARY TOOLS	Result: CONTINUED
+Arlington General District Court	Case #: GC19005378-00	Defendant: MILLER, KEENAN	Complainant: OFF MARKSTEINER, J	Hearing: 12/23/2019, 9:00 AM	Charge: PETIT LARCENY <$5 PICKPOCKET	Result: CONTINUED
+Arlington General District Court	Case #: GC19005379-00	Defendant: MILLER, KEENAN	Complainant: OFF MARKSTEINER, J	Hearing: 12/23/2019, 9:00 AM	Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC18001441-05	Defendant: THOMAS, ZACHARY E	Complainant: COMMONWEALTH OF VIRGINIA	Hearing: 12/23/2019, 9:00 AM	Charge: FAIL TO APPEAR, MISD OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19048492-00	Defendant: VELASQUEZ, ELBER ORESTE	Complainant: OFF IVIE, A	Hearing: 12/23/2019, 9:00 AM	Amended Charge: DWI, 2ND W/IN 10Y	Result: CONTINUED
+Arlington General District Court	Case #: GC19005265-00	Defendant: BROWN, ANDREW D	Complainant: DEP J VAN HETTINGA	Hearing: 12/23/2019, 9:30 AM	Charge: FUGITIVE W/ FELONY ARREST	Result: FINAL
+Arlington General District Court	Case #: GT19033076-00	Defendant: HANSON, ROBERT GLENN	Complainant: OFFICER MANN, S	Hearing: 12/23/2019, 9:30 AM	Amended Charge: RD-GENERALLY-MISD	Result: FINAL
+Arlington General District Court	Case #: GC19005299-00	Defendant: HODGE, DAMIEN TIM	Complainant: RICHARDSON, T	Hearing: 12/23/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19005091-00	Defendant: MANGUM, LESTER LAVON	Complainant: HAYES	Hearing: 12/23/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GC19004180-00	Defendant: MONTES, JOSE ARMANDO; JR	Complainant: OFF BURGESS JR, J	Hearing: 12/23/2019, 9:30 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT19036879-00	Defendant: MONTES, JOSE ARMANDO; JR	Complainant: OFF BURGESS JR, J	Hearing: 12/23/2019, 9:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19004822-00	Defendant: ODERA, SHEILA	Complainant: HARRIS, L	Hearing: 12/23/2019, 9:30 AM	Charge: PUBLIC INTOXICATION	Result: FINAL
+Arlington General District Court	Case #: GC19005090-00	Defendant: SMITH, JOHN WILLIAM	Complainant: HAYES	Hearing: 12/23/2019, 9:30 AM	Charge: FARE EVASION	Result: FINAL
+Arlington General District Court	Case #: GT19048366-00	Defendant: STOMBAUGH, CHARLES LYNN	Complainant: LYNCH, E	Hearing: 12/23/2019, 9:30 AM	Charge: DRINK WHILE DRIVING/OPEN CONT.	Result: FINAL
+Arlington General District Court	Case #: GT19040132-00	Defendant: TERRY, BRUCE WAYNE	Complainant: OFF YANDA, S	Hearing: 12/23/2019, 9:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19040133-00	Defendant: TERRY, BRUCE WAYNE	Complainant: OFF YANDA, S	Hearing: 12/23/2019, 9:30 AM	Charge: REFUSE BREATH, SUBQ W/IN 10YRS	Result: CONTINUED
+Arlington General District Court	Case #: GT19041082-00	Defendant: ARAYA, ANGEL ALFREDO	Complainant: CPL KOOHARIAN, B	Hearing: 12/23/2019, 10:00 AM	Amended Charge: DWI, 1ST BAC .14%	Result: CONTINUED
+Arlington General District Court	Case #: GC19005358-00	Defendant: DIALLO, MOUSSA	Complainant: OFF ROBERTSON, E	Hearing: 12/23/2019, 10:00 AM	Charge: DISTRIB/PWI MARIJ >1/2 OZ-5LBS	Result: CONTINUED
+Arlington General District Court	Case #: GC19005359-00	Defendant: DIALLO, MOUSSA	Complainant: OFF ROBERTSON, E	Hearing: 12/23/2019, 10:00 AM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19000094-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 12/23/2019, 10:00 AM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GC19000095-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 12/23/2019, 10:00 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19000096-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 12/23/2019, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19000097-00	Defendant: ENRIQUEZ-BUENO, JOEL	Complainant: REYES, M	Hearing: 12/23/2019, 10:00 AM	Charge: FALSE IDENTIFY SELF TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC19005225-00	Defendant: GLADMON, ERIC SPENCER	Complainant: OFF MARKSTEINER, J	Hearing: 12/23/2019, 10:00 AM	Amended Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19003717-00	Defendant: HAIZOUN, MOUAD	Complainant: OFF ERNESTO, M	Hearing: 12/23/2019, 10:00 AM	Charge: POSSESS MARIJUANA, 2+ OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19004544-00	Defendant: MUNOZ GONZALEZ, JOSE EDUARDO	Complainant: CPL KOOHARIAN, B	Hearing: 12/23/2019, 10:00 AM	Charge: OBSTRUCT/RESIST W/O FORCE	Result: CONTINUED
+Arlington General District Court	Case #: GC19004545-00	Defendant: MUNOZ GONZALEZ, JOSE EDUARDO	Complainant: CPL KOOHARIAN, B	Hearing: 12/23/2019, 10:00 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19005350-00	Defendant: PETERS, BURCHELL C	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 10:00 AM	Charge: DISORDERLY CONDUCT	Result: CONTINUED
+Arlington General District Court	Case #: GC19005351-00	Defendant: PETERS, BURCHELL C	Complainant: OFF LIPSCHUTZ, J	Hearing: 12/23/2019, 10:00 AM	Charge: INTOXICATION IN PUBLIC	Result: CONTINUED
+Arlington General District Court	Case #: GC19005355-00	Defendant: PHILLIPS, RALPH DOUGLASS	Complainant: DET COOK, C D	Hearing: 12/23/2019, 10:00 AM	Charge: STLN PRPRTY:INT TO SELL >=$500	Result: CONTINUED
+Arlington General District Court	Case #: GC19005356-00	Defendant: PHILLIPS, RALPH DOUGLASS	Complainant: DET COOK, C D	Hearing: 12/23/2019, 10:00 AM	Charge: GRND LARCENY: >=$500 NOT PERSN	Result: CONTINUED
+Arlington General District Court	Case #: GC19005357-00	Defendant: PHILLIPS, RALPH DOUGLASS	Complainant: DET COOK, C D	Hearing: 12/23/2019, 10:00 AM	Charge: ENTER STRUC TO COMMIT A&B ETC.	Result: CONTINUED
+Arlington General District Court	Case #: GT19036838-00	Defendant: SEGRIST, SARA	Complainant: SEIBERT, G	Hearing: 12/23/2019, 10:00 AM	Amended Charge: RD-GENERALLY-MISD	Result: CONTINUED
+Arlington General District Court	Case #: GT19048391-00	Defendant: SHIFFLETT, DILLON LEE	Complainant: DET SEIBERT, G	Hearing: 12/23/2019, 10:00 AM	Amended Charge: DWI, 2ND W/O BAC	Result: CONTINUED
+Arlington General District Court	Case #: GT19038683-00	Defendant: SPIEGEL, RORY JES	Complainant: CAPIZZI, S	Hearing: 12/23/2019, 10:00 AM	Charge: 44/25 SPEED	Result: FINAL
+Arlington General District Court	Case #: GC19004659-00	Defendant: WARNER, EARL	Complainant: OFF GILES, K	Hearing: 12/23/2019, 10:00 AM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GT19027076-00	Defendant: ALARCON ALARCON, LESLIE GUADAL	Complainant: NUCELLI, A	Hearing: 12/23/2019, 10:30 AM	Charge: DWI, 1ST	Result: CONTINUED
+Arlington General District Court	Case #: GT19027084-00	Defendant: ALARCON ALARCON, LESLIE GUADAL	Complainant: NUCELLI, A	Hearing: 12/23/2019, 10:30 AM	Charge: REFUSE BREATH	Result: CONTINUED
+Arlington General District Court	Case #: GT19033923-00	Defendant: CORDOVA, JUAN CARLOS	Complainant: OFF MALDONADO RIVERA, M	Hearing: 12/23/2019, 10:30 AM	Amended Charge: DWI, 2ND OFF W/5Y-10Y	Result: CONTINUED
+Arlington General District Court	Case #: GT19033924-00	Defendant: CORDOVA, JUAN CARLOS	Complainant: OFF MALDONADO RIVERA, M	Hearing: 12/23/2019, 10:30 AM	Charge: OPER SUSP/REVOKE	Result: CONTINUED
+Arlington General District Court	Case #: GT19033925-00	Defendant: CORDOVA, JUAN CARLOS	Complainant: OFF MALDONADO RIVERA, M	Hearing: 12/23/2019, 10:30 AM	Charge: OPER MV W/O IGNITION INTERLOCK	Result: CONTINUED
+Arlington General District Court	Case #: GC19003385-00	Defendant: HERRERA, JONATHAN ALBERTO	Complainant: ALLEN, R	Hearing: 12/23/2019, 10:30 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GT19032309-00	Defendant: HERRERA, JONATHAN ALBERTO	Complainant: ALLEN, R	Hearing: 12/23/2019, 10:30 AM	Amended Charge: DWI 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GT19032310-00	Defendant: HERRERA, JONATHAN ALBERTO	Complainant: ALLEN, R	Hearing: 12/23/2019, 10:30 AM	Charge: CIVIL VIOLATION - REFUSED BLOOD/BREATH TEST	Result: CONTINUED
+Arlington General District Court	Case #: GT19032311-00	Defendant: HERRERA, JONATHAN ALBERTO	Complainant: ALLEN, R	Hearing: 12/23/2019, 10:30 AM	Charge: DRINK WHILE DRIVING/OPEN CONT	Result: CONTINUED
+Arlington General District Court	Case #: GT19041947-00	Defendant: O'TOOLE, KELLY CATHERINE	Complainant: MYERS, R	Hearing: 12/23/2019, 10:30 AM	Charge: DWI: 1ST OFFENSE	Result: CONTINUED
+Arlington General District Court	Case #: GC19004440-00	Defendant: BALLARD, TEVIN GERALD	Complainant: OFFICER HARRIS, L	Hearing: 12/23/2019, 11:30 AM	Amended Charge: SALE, DISTRIBUTE MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19004441-00	Defendant: BALLARD, TEVIN GERALD	Complainant: OFFICER HARRIS, L	Hearing: 12/23/2019, 11:30 AM	Charge: POSSESS MARIJUANA, 1ST OFF	Result: CONTINUED
+Arlington General District Court	Case #: GC19005397-00	Defendant: BRAEMER, RAYMOND WILLIAM	Complainant: SMITH, A	Hearing: 12/23/2019, 2:00 PM	Charge: ASSAULT & BATTERY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005362-00	Defendant: BROWN, COLIN W	Complainant: ELEZOVIC, PJETER	Hearing: 12/23/2019, 2:00 PM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19005249-00	Defendant: CHEN, HANG	Complainant: MISHLER, A	Hearing: 12/23/2019, 2:00 PM	Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005289-00	Defendant: DAWSON, DELANTA DEMETRIUS	Complainant: PLAYFORD, S	Hearing: 12/23/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19005383-00	Defendant: FISHBACK, BRIAN BRADFORD	Complainant: CPL GARDNER, D	Hearing: 12/23/2019, 2:00 PM	Amended Charge: UNAUTH DISTRIB CTRL DRUG PARA	Result: CONTINUED
+Arlington General District Court	Case #: GC19005381-00	Defendant: HERBERT, DAYSHAN	Complainant: DET BIGG, M	Hearing: 12/23/2019, 2:00 PM	Charge: SELL/PROVIDE RESALE SCH I/ II	Result: CONTINUED
+Arlington General District Court	Case #: GC19005384-00	Defendant: KERN, ROBERT EUGENE	Complainant: CPL GARDNER, D	Hearing: 12/23/2019, 2:00 PM	Charge: DRUGS: POSSESS SCH I OR II	Result: CONTINUED
+Arlington General District Court	Case #: GC19005363-00	Defendant: KNOX, JERON TORRELL	Complainant: DET PARSONS, T R	Hearing: 12/23/2019, 2:00 PM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005364-00	Defendant: KNOX, JERON TORRELL	Complainant: DET PARSONS, T R	Hearing: 12/23/2019, 2:00 PM	Charge: OBTAIN CREDIT CARD NO.LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005365-00	Defendant: KNOX, JERON TORRELL	Complainant: DET PARSONS, T R	Hearing: 12/23/2019, 2:00 PM	Charge: CC FRAUD: BY MERCHANT >500 6M	Result: CONTINUED
+Arlington General District Court	Case #: GC19005382-00	Defendant: LELIS, PATRICIA	Complainant: CPL WANEK, S	Hearing: 12/23/2019, 2:00 PM	Charge: FALSE REPORT/SUMMON TO LAW ENF	Result: CONTINUED
+Arlington General District Court	Case #: GC19005380-00	Defendant: MACK, RACHEL TIERRA	Complainant: OFF NELSON, M	Hearing: 12/23/2019, 2:00 PM	Amended Charge: PETIT LARCENY	Result: CONTINUED
+Arlington General District Court	Case #: GC19005231-00	Defendant: MELTON, RAHMIR KIRON	Complainant: POVEDA, S	Hearing: 12/23/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GC19005347-00	Defendant: SPANTA, ALI SINA	Complainant: SEIBERT, G	Hearing: 12/23/2019, 2:00 PM	Charge: POSSESSION OF MARIJUANA	Result: CONTINUED
+Arlington General District Court	Case #: GT19048412-00	Defendant: SPANTA, ALI SINA	Complainant: SEIBERT, G	Hearing: 12/23/2019, 2:00 PM	Charge: 68/45 SPEED	Result: CONTINUED
+Arlington General District Court	Case #: GC19005360-00	Defendant: TURNER, DENNIS DEMETRIUS	Complainant: OFFICER HARPER, L	Hearing: 12/23/2019, 2:00 PM	Charge: IDNTY THFT: OBT ID, AVOID ARST	Result: CONTINUED
+Arlington General District Court	Case #: GC19005361-00	Defendant: TURNER, DENNIS DEMETRIUS	Complainant: OFFICER HARPER, L	Hearing: 12/23/2019, 2:00 PM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
+Arlington General District Court	Case #: GC19005092-00	Defendant: VELCU, LILIANA	Complainant: RODRIGUEZ, K	Hearing: 12/23/2019, 2:00 PM	Charge: TRESPASS AFTER FORBIDDEN	Result: CONTINUED
