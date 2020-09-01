@@ -47,7 +47,7 @@ echo $DB_INSTANCEID
 
 if [[ ! $DB_STORAGE ]];
 then
-    export DB_STORAGE=100
+    export DB_STORAGE=20
 fi
 echo $DB_STORAGE
 
