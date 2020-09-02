@@ -7,7 +7,11 @@ echo "Please make sure that a key is set in your shell's environment by entering
 exit 0;
 fi
 
-source ./aws_ec2_param_functions.sh
+maindir=$(pwd)
+
+awsdir="$maindir/bin/aws"
+
+source $awsdir/aws_ec2_param_functions.sh
 
 #export AMIID=ami-0273df992a343e0d6 #ebs bionic image used during development, uncomment to use for instance
 
@@ -63,7 +67,7 @@ else
 export ENDPOINT=$(aws ec2 describe-instances --instance-ids $INSTANCEID --query "Reservations[0].Instances[0].PublicDnsName" --output text)
 fi
 
-    . aws_ec2_functions.sh
+source $awsdir/aws_ec2_functions.sh
 echo "$INSTANCEID is accepting SSH connections under $ENDPOINT"
 
 exec $SHELL -i
