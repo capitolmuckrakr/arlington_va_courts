@@ -1,10 +1,31 @@
 # coding: utf-8
 from scrape_no_captcha_v2 import *
 from random import random
-import datetime
+from sqlalchemy import create_engine, text
+from sqlalchemy.orm import sessionmaker
+import datetime, os
 
-case_nums = get_ipython().getoutput("cat data/cases_2020* | cut -d '#' -f2 | cut -d ':' -f2 | cut -d ' ' -f2 | cut -c 1-13 | grep -v 'GC' | sort | uniq")
-case_nums = list(case_nums)
+ENDPOINT_DB = os.environ['ENDPOINT_DB']
+PGUSER = os.environ['PGUSER']
+PGPASSWORD = os.environ['PGPASSWORD']
+DB_NAME = os.environ['DB_NAME']
+DB_URL = 'postgresql://' + PGUSER + ':' + PGPASSWORD + '@' + ENDPOINT_DB + '/' + DB_NAME
+
+engine = create_engine(DB_URL)
+conn = engine.connect()
+Session = sessionmaker(bind=engine)
+session = Session()
+#sql to select only cases matching certain charges
+with open('bin/sql/case_nums_for_selected_charges.sql') as file:
+    sql = text(file.read())
+
+result = conn.execute(sql)
+
+case_nums = [x[0] for x in result]
+
+#case_nums = get_ipython().getoutput("cat data/cases_2020* | cut -d '#' -f2 | cut -d ':' -f2 | cut -d ' ' -f2 | cut -c 1-13 | grep -v 'GC' | sort | uniq")
+#case_nums = list(case_nums)
+
 total_cases = len(case_nums)
 driver = driver(True)
 loopcounter = 0
