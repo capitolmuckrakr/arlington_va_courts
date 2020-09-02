@@ -45,7 +45,7 @@ function subnetid() { #select the subnet for the AWS account or profile if one i
 function instancetypeoption() { #Use the t3.large instance if no type is assigned
     if [[ ! $INSTANCETYPE ]];
     then
-        INSTANCETYPE='t3.large'
+        INSTANCETYPE='t3a.large'
         export INSTANCETYPE
     fi
     echo $INSTANCETYPE
