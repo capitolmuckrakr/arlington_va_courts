@@ -36,9 +36,8 @@ export INSTANCEID=$(aws ec2 run-instances \
     --instance-type $INSTANCETYPE \
     --security-group-ids $SGID \
     --subnet-id $SUBNETID \
-    --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":64,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}, \
-    {\"DeviceName\":\"/dev/sdf\",\"Ebs\":{\"VolumeSize\":128,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}]" \
-    --user-data file://aws_ec2_initialize.sh \
+    --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":32,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}]" \
+    --user-data file://$awsdir/aws_ec2_initialize.sh \
     --query "Instances[0].InstanceId" \
     --output text)
 else
@@ -48,9 +47,8 @@ export INSTANCEID=$(aws ec2 run-instances \
     --instance-type $INSTANCETYPE \
     --security-group-ids $SGID \
     --subnet-id $SUBNETID \
-    --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":64,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}, \
-    {\"DeviceName\":\"/dev/sdf\",\"Ebs\":{\"VolumeSize\":128,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}]" \
-    --user-data file://aws_ec2_initialize.sh \
+    --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":32,\"DeleteOnTermination\":true,\"VolumeType\":\"gp2\"}}]" \
+    --user-data file://$awsdir/aws_ec2_initialize.sh \
     --query "Instances[0].InstanceId" \
     --output text)
 fi
