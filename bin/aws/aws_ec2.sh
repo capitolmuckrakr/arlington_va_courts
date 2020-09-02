@@ -7,9 +7,7 @@ echo "Please make sure that a key is set in your shell's environment by entering
 exit 0;
 fi
 
-maindir=$(pwd)
-
-awsdir="$maindir/bin/aws"
+awsdir="$HOME/scripts/arlington_va_courts/bin/aws"
 
 source $awsdir/aws_ec2_param_functions.sh
 
