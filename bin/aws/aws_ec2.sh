@@ -16,6 +16,9 @@ source $awsdir/aws_ec2_param_functions.sh
 #export AMIID=ami-0273df992a343e0d6 #ebs bionic image used during development, uncomment to use for instance
 
 #setting default parameters for the instance by calling param_functions, to override any function assign the corresponding env var
+
+export INSTANCETYPE='t3a.small'
+
 amiid
 vpcid
 subnetid
