@@ -34,4 +34,6 @@ WHERE charge NOT IN (
     'RD FAIL TO MAINTAIN CONTROL',
     'RECKLESS FT MAINTAIN CONTROL'
 )
-AND LEFT(case_num,2) = 'GT';
+AND LEFT(case_num,2) = 'GT'
+ORDER BY case_num
+LIMIT :limitnum OFFSET (:limitnum*:instancecount);
