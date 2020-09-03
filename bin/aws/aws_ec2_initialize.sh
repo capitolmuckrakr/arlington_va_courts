@@ -14,7 +14,7 @@ wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 su ubuntu bash -c "bash Anaconda3-2020.07-Linux-x86_64.sh -b"
 
 #upgrade pip
-su ubuntu bash -c "source ~/.profile; python3 -m pip install --user --upgrade pip"
+su ubuntu bash -c "source /home/ubuntu/.profile; python3 -m pip install --user --upgrade pip"
 
 #add Anaconda to path
 echo 'PATH=/home/ubuntu/anaconda3/bin:$PATH' >> /home/ubuntu/.profile
@@ -33,9 +33,9 @@ git config --global user.email "$GIT_AUTHOR_EMAIL"
 
 wget https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-linux64.tar.gz
 tar -xvzf geckodriver-v0.27.0-linux64.tar.gz
-su ubuntu bash -c "source ~/.profile; conda create -y -n basicscraper python=3.7 ipython"
+su ubuntu bash -c "source /home/ubuntu/.profile; conda create -y -n basicscraper python=3.7 ipython"
 cp geckodriver /home/ubuntu/anaconda3/envs/basicscraper/bin/
-su ubuntu bash -c "source ~/.profile; source activate basicscraper; python3 -m pip install selenium pyvirtualdisplay"
-su ubuntu bash -c "source ~/.profile; conda init bash"
-#Xvfb :10 -ac &
-#export DISPLAY=:10
+
+export code_url='https://github.com/capitolmuckrakr/arlington_va_courts.git'
+su ubuntu bash -c "source /home/ubuntu/.profile; source activate basicscraper; python3 -m pip install selenium pyvirtualdisplay; cd /home/ubuntu/scripts; git clone $code_url"
+su ubuntu bash -c "source /home/ubuntu/.profile; conda init bash"
