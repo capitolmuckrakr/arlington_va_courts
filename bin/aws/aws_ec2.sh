@@ -97,7 +97,34 @@ else
 export ENDPOINT=$(aws ec2 describe-instances --instance-ids $INSTANCEID --query "Reservations[0].Instances[0].PublicDnsName" --output text)
 fi
 
+initialize_upload_files="$awsdir/.env"
+
+counter=0
+scp -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM $initialize_upload_files ubuntu@$ENDPOINT:/home/ubuntu/
+upload_result=$?
+
+while [[ $? -ne 0 ]];
+do
+if [[ $counter -lt 3 ]];
+then
+sleep 5
+let counter+=1
+scp -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM $initialize_upload_files ubuntu@$ENDPOINT:/home/ubuntu/;
+upload_result=$?
+else
+echo "Failed 3 times to upload, exiting ..."
+exit 1
+fi
+done
+
 source $awsdir/aws_ec2_functions.sh
+sleep 5
+if [[ $upload_result -ne 0 ]];
+then
+sleep 5
+upload $initialize_upload_files
+fi
+
 echo "$INSTANCEID is accepting SSH connections under $ENDPOINT"
 
 exec $SHELL -i
