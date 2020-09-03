@@ -57,6 +57,39 @@ else
 aws ec2 wait instance-running --instance-ids $INSTANCEID
 fi
 
+source $awsdir/aws_ec2_functions.sh
+
+oldfile="$awsdir/.env"
+EXENDPNT='export ENDPOINT_DB='"${ENDPOINT_DB}"
+sed -i 's/ENDPOINTDB/'"$(echo ${EXENDPNT})"'/' $oldfile
+EPGUSER='export PGUSER='"${PGUSER}"
+EPGPASSWORD='export PGPASSWORD='"${PGPASSWORD}"
+EPGDATABASE='export DB_NAME='"${DB_NAME}"
+sed -i 's/PGUSERNAME/'"$(echo ${EPGUSER})"'/' $oldfile
+sed -i 's/PGPSWD/'"$(echo ${EPGPASSWORD})"'/' $oldfile
+sed -i 's/PGDB/'"$(echo ${EPGDATABASE})"'/' $oldfile
+
+sleep 360
+aws ec2 stop-instances --instance-ids $INSTANCEID
+
+if [[ $profile ]];
+then
+aws ec2 wait instance-stopped --profile $profile --instance-ids $INSTANCEID
+else
+aws ec2 wait instance-stopped --instance-ids $INSTANCEID
+fi
+
+aws ec2 modify-instance-attribute --instance-id $INSTANCEID --instance-type "{\"Value\": \"t3a.micro\"}"
+
+aws ec2 start-instances --instance-ids $INSTANCEID
+
+if [[ $profile ]];
+then
+aws ec2 wait instance-running --profile $profile --instance-ids $INSTANCEID
+else
+aws ec2 wait instance-running --instance-ids $INSTANCEID
+fi
+
 if [[ $profile ]];
 then
 export ENDPOINT=$(aws ec2 describe-instances --profile $profile --instance-ids $INSTANCEID --query "Reservations[0].Instances[0].PublicDnsName" --output text)
