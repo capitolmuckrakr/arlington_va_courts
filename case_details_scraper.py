@@ -11,6 +11,9 @@ PGPASSWORD = os.environ['PGPASSWORD']
 DB_NAME = os.environ['DB_NAME']
 DB_URL = 'postgresql://' + PGUSER + ':' + PGPASSWORD + '@' + ENDPOINT_DB + '/' + DB_NAME
 
+LIMITNUM = os.getenv('LIMITNUM',1000)
+INSTANCECOUNT = os.getenv('INSTANCECOUNT',0)
+
 engine = create_engine(DB_URL)
 conn = engine.connect()
 Session = sessionmaker(bind=engine)
@@ -19,7 +22,7 @@ session = Session()
 with open('bin/sql/case_nums_for_selected_charges.sql') as file:
     sql = text(file.read())
 
-result = conn.execute(sql)
+result = conn.execute(sql,limitnum=LIMITNUM,instancecount=INSTANCECOUNT)
 
 case_nums = [x[0] for x in result]
 
