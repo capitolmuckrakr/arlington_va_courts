@@ -7,13 +7,11 @@ echo "Please make sure that a key is set by entering 'export PEM=' followed by a
 exit 0;
 fi
 
-echo "waiting for $INSTANCEID ..."
 read -r -d '' instructions <<-EOF
 Type 'connect' to access the server
 Type 'upload [FILEPATH]' to send a file to the server.
 EOF
 
-echo "$instructions"
 export instructions=$instructions
 function instructions() {
     echo "$instructions"
