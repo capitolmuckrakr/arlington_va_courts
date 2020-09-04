@@ -33,9 +33,12 @@ total_cases = len(case_nums)
 driver = driver(True)
 loopcounter = 0
 
-case_details_file = open('data/case_details.tsv','a',1)
-case_hearing_details_file = open('data/case_hearing_details.tsv','a',1)
-case_service_details_file = open('data/case_service_details.tsv','a',1)
+file = 'data/case_details' + INSTANCECOUNT + '.tsv'
+case_details_file = open(file,'a',1)
+file = 'data/case_hearing_details' + INSTANCECOUNT + '.tsv'
+case_hearing_details_file = open(file,'a',1)
+file = 'data/case_service_details' + INSTANCECOUNT + '.tsv'
+case_service_details_file = open(file,'a',1)
 
 starttime = datetime.datetime.now()
 print(starttime)
