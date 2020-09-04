@@ -126,6 +126,10 @@ sleep 5
 upload $initialize_upload_files
 fi
 
+sleep 1
+
+cp -f $awsdir/.env.template $awsdir/.env
+
 echo "$INSTANCEID is accepting SSH connections under $ENDPOINT"
 
 exec $SHELL -i
