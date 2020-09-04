@@ -39,3 +39,7 @@ cp geckodriver /home/ubuntu/anaconda3/envs/basicscraper/bin/
 export code_url='https://github.com/capitolmuckrakr/arlington_va_courts.git'
 su ubuntu bash -c "source /home/ubuntu/.profile; source activate basicscraper; python3 -m pip install selenium pyvirtualdisplay; cd /home/ubuntu/scripts; git clone $code_url"
 su ubuntu bash -c "source /home/ubuntu/.profile; conda init bash"
+
+su ubuntu bash -c "echo 'if [ -f ~/.env ]; then' >> /home/ubuntu/.bashrc"
+su ubuntu bash -c "echo '    . ~/.env' >> /home/ubuntu/.bashrc"
+su ubuntu bash -c "echo 'fi' >> /home/ubuntu/.bashrc"
