@@ -5,7 +5,7 @@ exec 1> >(sudo tee /var/log/instance-setup.log) 2>&1
 
 apt-get update 2>&1 >/dev/null
 DEBIAN_FRONTEND=noninteractive apt-get -yq --force-yes -o Dpkg::Options::="--force-confdef" -o Dpkg::Options::="--force-confold" upgrade 2>&1 >/dev/null
-apt-get install -y -f --no-install-recommends gcc git libssl-dev libffi-dev python3-pip python3-dev python3-setuptools libxml2-dev libxml2 libxslt1.1 libxslt1-dev build-essential firefox xvfb python3-lxml
+apt-get install -y -f --no-install-recommends gcc git libssl-dev libffi-dev python3-pip python3-dev python3-setuptools libxml2-dev libxml2 libxslt1.1 libxslt1-dev build-essential firefox xvfb python3-lxml tmux
 
 #download Anaconda
 wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
