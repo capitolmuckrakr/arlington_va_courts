@@ -36,4 +36,4 @@ WHERE charge NOT IN (
 )
 AND LEFT(case_num,2) = 'GT'
 ORDER BY case_num
-LIMIT :limitnum OFFSET (:limitnum*:instancecount);
+LIMIT :limitnum OFFSET :offset;
