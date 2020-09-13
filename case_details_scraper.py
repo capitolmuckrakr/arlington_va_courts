@@ -22,20 +22,17 @@ def details_scraper(limitn,instancen):
     #sql to select only cases matching certain charges
     with open('bin/sql/case_nums_for_selected_charges.sql') as file:
         sql = text(file.read())
-    
     result = conn.execute(sql,limitnum=limitn,offset=offset)
     case_nums = [x[0] for x in result]
     total_cases = len(case_nums)
     driver = Browser(True)
     loopcounter = 0
-    
     file = 'data/case_details' + str(instancen) + '.tsv'
     case_details_file = open(file,'a',1)
     file = 'data/case_hearing_details' + str(instancen) + '.tsv'
     case_hearing_details_file = open(file,'a',1)
     file = 'data/case_service_details' + str(instancen) + '.tsv'
     case_service_details_file = open(file,'a',1)
-    
     starttime = datetime.datetime.now()
     print(starttime)
     for casenum in case_nums:
