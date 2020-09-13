@@ -9,6 +9,7 @@ fi
 
 maindir="$HOME/scripts/arlington_va_courts"
 awsdir="$HOME/scripts/arlington_va_courts/bin/aws"
+dotsdir="$HOME/scripts/arlington_va_courts/dots"
 
 source $awsdir/aws_ec2_param_functions.sh
 
@@ -60,16 +61,6 @@ fi
 
 source $awsdir/aws_ec2_functions.sh
 
-oldfile="$awsdir/.env"
-EXENDPNT='export ENDPOINT_DB='"${ENDPOINT_DB}"
-sed -i 's/ENDPOINTDB/'"$(echo ${EXENDPNT})"'/' $oldfile
-EPGUSER='export PGUSER='"${PGUSER}"
-EPGPASSWORD='export PGPASSWORD='"${PGPASSWORD}"
-EPGDATABASE='export DB_NAME='"${DB_NAME}"
-sed -i 's/PGUSERNAME/'"$(echo ${EPGUSER})"'/' $oldfile
-sed -i 's/PGPSWD/'"$(echo ${EPGPASSWORD})"'/' $oldfile
-sed -i 's/PGDB/'"$(echo ${EPGDATABASE})"'/' $oldfile
-
 sleep 360
 aws ec2 stop-instances --instance-ids $INSTANCEID
 
@@ -98,7 +89,10 @@ else
 export ENDPOINT=$(aws ec2 describe-instances --instance-ids $INSTANCEID --query "Reservations[0].Instances[0].PublicDnsName" --output text)
 fi
 
-initialize_upload_files="$awsdir/.env"
+#initialize_upload_files="$dotsdir/.env"
+#initialize_upload_files+=" $dotsdir/.tmux.conf"
+#initialize_upload_files+=" $maindir/phrasecount.sh"
+initialize_upload_files="$dotsdir/.tmux.conf"
 
 counter=0
 scp -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM $initialize_upload_files ubuntu@$ENDPOINT:/home/ubuntu/
@@ -127,8 +121,6 @@ upload $initialize_upload_files
 fi
 
 sleep 1
-
-cp -f $awsdir/.env.template $awsdir/.env
 
 echo "$INSTANCEID is accepting SSH connections under $ENDPOINT"
 
