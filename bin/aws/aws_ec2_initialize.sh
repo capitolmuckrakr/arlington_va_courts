@@ -43,3 +43,7 @@ su ubuntu bash -c "source /home/ubuntu/.profile; conda init bash"
 su ubuntu bash -c "echo 'if [ -f ~/.env ]; then' >> /home/ubuntu/.bashrc"
 su ubuntu bash -c "echo '    . ~/.env' >> /home/ubuntu/.bashrc"
 su ubuntu bash -c "echo 'fi' >> /home/ubuntu/.bashrc"
+
+#su ubuntu bash -c "echo 'if [ -z "$TMUX" ]; then' >> /home/ubuntu/.bashrc"
+#su ubuntu bash -c "echo '    tmux attach -t default || tmux new -s default' >> /home/ubuntu/.bashrc"
+#su ubuntu bash -c "echo 'fi' >> /home/ubuntu/.bashrc"
