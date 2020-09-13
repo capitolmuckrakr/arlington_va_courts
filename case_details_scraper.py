@@ -3,7 +3,7 @@ from scrape_no_captcha_v2 import *
 from random import random
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
-import datetime, os
+import datetime, os, sys
 
 ENDPOINT_DB = os.environ['ENDPOINT_DB']
 PGUSER = os.environ['PGUSER']
