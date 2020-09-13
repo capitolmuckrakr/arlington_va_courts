@@ -11,8 +11,7 @@ PGPASSWORD = os.environ['PGPASSWORD']
 DB_NAME = os.environ['DB_NAME']
 DB_URL = 'postgresql://' + PGUSER + ':' + PGPASSWORD + '@' + ENDPOINT_DB + '/' + DB_NAME
 
-LIMITNUM = os.getenv('LIMITNUM',1000)
-INSTANCECOUNT = os.getenv('INSTANCECOUNT',0)
+Browser = driver
 
 engine = create_engine(DB_URL)
 conn = engine.connect()
