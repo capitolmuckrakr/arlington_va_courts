@@ -13,71 +13,73 @@ DB_URL = 'postgresql://' + PGUSER + ':' + PGPASSWORD + '@' + ENDPOINT_DB + '/' +
 
 Browser = driver
 
-engine = create_engine(DB_URL)
-conn = engine.connect()
-Session = sessionmaker(bind=engine)
-session = Session()
-#sql to select only cases matching certain charges
-with open('bin/sql/case_nums_for_selected_charges.sql') as file:
-    sql = text(file.read())
+def details_scraper(limitn,instancen):
+    offset = int(limitn) * int(instancen)
+    engine = create_engine(DB_URL)
+    conn = engine.connect()
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    #sql to select only cases matching certain charges
+    with open('bin/sql/case_nums_for_selected_charges.sql') as file:
+        sql = text(file.read())
+    
+    result = conn.execute(sql,limitnum=limitn,offset=offset)
+    case_nums = [x[0] for x in result]
+    total_cases = len(case_nums)
+    driver = Browser(True)
+    loopcounter = 0
+    
+    file = 'data/case_details' + str(instancen) + '.tsv'
+    case_details_file = open(file,'a',1)
+    file = 'data/case_hearing_details' + str(instancen) + '.tsv'
+    case_hearing_details_file = open(file,'a',1)
+    file = 'data/case_service_details' + str(instancen) + '.tsv'
+    case_service_details_file = open(file,'a',1)
+    
+    starttime = datetime.datetime.now()
+    print(starttime)
+    for casenum in case_nums:
+        try:
+            loopcounter+=1
+            print("Checking case #{} of {}".format(loopcounter,total_cases))
+            start_page(driver)
+            terms(driver)
+            search_setup_cases(driver)
+            case_search(driver,casenum)
+            results = case_details(driver)
+            history = case_details_hearing_info(driver)
+            hearing_info = case_details_info_items(history)
+            hearing_info = [casenum + '\t' + x for x in hearing_info]
+            new_results = []
+            new_results.append(casenum)
+            [new_results.append(x) for x in results]
+            element = driver.find_element_by_id('serviceAndProcess')
+            button = element.find_element_by_class_name('accordion-toggle')
+            button.click()
+            services = case_details_service_info(driver)
+            if services:
+                services_info = case_details_info_items(services)
+                services_info = [casenum + '\t' + x for x in services_info]
+                for x in services_info:
+                    case_service_details_file.write(x + "\n")
+            case_details_file.write("\t".join(new_results)+"\n")
+            for x in hearing_info:
+                case_hearing_details_file.write(x + "\n")
+        except Exception as e:
+            print(str(e))
+        if (loopcounter % 3) == 0:
+            sleep(int((random() * 10)//1))
+        if (loopcounter % 25) == 0:
+            sleep(int((random() * 100)//1))
+        if (loopcounter % 600) == 0:
+            sleep(int((random() * 30)//1))
+    endtime = datetime.datetime.now()
+    print(endtime)
+    driver.close()
+    case_details_file.close()
+    case_hearing_details_file.close()
+    case_service_details_file.close()
 
-result = conn.execute(sql,limitnum=LIMITNUM,instancecount=INSTANCECOUNT)
-
-case_nums = [x[0] for x in result]
-
-#case_nums = get_ipython().getoutput("cat data/cases_2020* | cut -d '#' -f2 | cut -d ':' -f2 | cut -d ' ' -f2 | cut -c 1-13 | grep -v 'GC' | sort | uniq")
-#case_nums = list(case_nums)
-
-total_cases = len(case_nums)
-driver = driver(True)
-loopcounter = 0
-
-file = 'data/case_details' + INSTANCECOUNT + '.tsv'
-case_details_file = open(file,'a',1)
-file = 'data/case_hearing_details' + INSTANCECOUNT + '.tsv'
-case_hearing_details_file = open(file,'a',1)
-file = 'data/case_service_details' + INSTANCECOUNT + '.tsv'
-case_service_details_file = open(file,'a',1)
-
-starttime = datetime.datetime.now()
-print(starttime)
-for casenum in case_nums:
-    try:
-        loopcounter+=1
-        print("Checking case #{} of {}".format(loopcounter,total_cases))
-        start_page(driver)
-        terms(driver)
-        search_setup_cases(driver)
-        case_search(driver,casenum)
-        results = case_details(driver)
-        history = case_details_hearing_info(driver)
-        hearing_info = case_details_info_items(history)
-        hearing_info = [casenum + '\t' + x for x in hearing_info]
-        new_results = []
-        new_results.append(casenum)
-        [new_results.append(x) for x in results]
-        element = driver.find_element_by_id('serviceAndProcess')
-        button = element.find_element_by_class_name('accordion-toggle')
-        button.click()
-        services = case_details_service_info(driver)
-        if services:
-            services_info = case_details_info_items(services)
-            services_info = [casenum + '\t' + x for x in services_info]
-            for x in services_info:
-                case_service_details_file.write(x + "\n")
-        case_details_file.write("\t".join(new_results)+"\n")
-        for x in hearing_info:
-            case_hearing_details_file.write(x + "\n")
-    except Exception as e:
-        print(str(e))
-    if (loopcounter % 3) == 0:
-        sleep(int((random() * 10)//1))
-    if (loopcounter % 25) == 0:
-        sleep(int((random() * 100)//1))
-    if (loopcounter % 600) == 0:
-        sleep(int((random() * 30)//1))
-endtime = datetime.datetime.now()
-driver.close()
-case_details_file.close()
-case_hearing_details_file.close()
-case_service_details_file.close()
+if __name__ == "__main__":
+    (limitn, instancen) = sys.argv[1:3]
+    details_scraper(limitn,instancen)
