@@ -89,10 +89,7 @@ else
 export ENDPOINT=$(aws ec2 describe-instances --instance-ids $INSTANCEID --query "Reservations[0].Instances[0].PublicDnsName" --output text)
 fi
 
-#initialize_upload_files="$dotsdir/.env"
-#initialize_upload_files+=" $dotsdir/.tmux.conf"
-#initialize_upload_files+=" $maindir/phrasecount.sh"
-initialize_upload_files="$dotsdir/.tmux.conf"
+initialize_upload_files="$dotsdir/.env"
 
 counter=0
 scp -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM $initialize_upload_files ubuntu@$ENDPOINT:/home/ubuntu/
