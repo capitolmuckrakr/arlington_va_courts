@@ -25,26 +25,46 @@ function upload() {
 function connect() {
     ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM ubuntu@${ENDPOINT}
     }
+function wait_terminate_instance() {
+    if [[ $profile ]];
+    then
+    aws ec2 wait instance-terminated --profile $profile --instance-ids $INSTANCEID;
+    else
+    aws ec2 wait instance-terminated --instance-ids $INSTANCEID;
+    fi
+    if [[ $mypid ]]
+    then
+        if [[ $(ps -q ${mypid} -o comm=) ]]
+        then
+        jobs
+        fg %1 2>/dev/null
+    fi
+fi
+echo $INSTANCEID terminated
+    if [[ $terminatepid ]]
+    then
+        if [[ $(ps -q ${terminatepid} -o comm=) ]]
+        then
+        jobs
+        fg %1 2>/dev/null
+    fi
+fi
+exit
+}
 function terminate_instance() {
-                      if [[ $profile ]];
-                      then
-                      aws ec2 terminate-instances --profile $profile --instance-ids $INSTANCEID;
-                      echo "terminating $INSTANCEID ...";
-                      aws ec2 wait instance-terminated --profile $profile --instance-ids $INSTANCEID;
-                      else
-                      aws ec2 terminate-instances --instance-ids $INSTANCEID;
-                      echo "terminating $INSTANCEID ...";
-                      aws ec2 wait instance-terminated --instance-ids $INSTANCEID;
-                      fi
-                      if [[ $mypid ]]
-                      then
-                        jobs
-                        fg %1 2>/dev/null
-                      fi
-                      echo $INSTANCEID terminated
+    if [[ $profile ]];
+    then
+    aws ec2 terminate-instances --profile $profile --instance-ids $INSTANCEID;
+    else
+    aws ec2 terminate-instances --instance-ids $INSTANCEID;
+    fi
+    echo "terminating $INSTANCEID ...";
+    sleep 1;
+    wait_terminate_instance & terminatepid=$!
 }
 
 export -f instructions
+export -f wait_terminate_instance
 export -f terminate_instance
 export -f upload
 export -f connect
