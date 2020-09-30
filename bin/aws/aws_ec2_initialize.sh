@@ -46,7 +46,7 @@ su ubuntu bash -c "echo 'fi' >> /home/ubuntu/.bashrc"
 
 su ubuntu bash -c "cp /home/ubuntu/scripts/arlington_va_courts/dots/.tmux.conf /home/ubuntu/"
 
-su ubuntu bash -c "echo alias scraperenv=\"conda activate basicscraper\" >> /home/ubuntu/.bashrc"
+#su ubuntu bash -c "echo alias scraperenv=\"conda activate basicscraper\" >> /home/ubuntu/.bashrc" #can't get this to work
 
 #su ubuntu bash -c "echo 'if [ -z "$TMUX" ]; then' >> /home/ubuntu/.bashrc"
 #su ubuntu bash -c "echo '    tmux attach -t default || tmux new -s default' >> /home/ubuntu/.bashrc"
