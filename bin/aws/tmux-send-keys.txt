@@ -1,0 +1,3 @@
+ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM ubuntu@$ENDPOINT -t "tmux new -s default -d"
+ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM -t ubuntu@$ENDPOINT -t "tmux send-keys -t $TMUX_SESSION:1 scraperenv C-m"
+ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -i $PEM -t ubuntu@$ENDPOINT -t "tmux send-keys -t $TMUX_SESSION:1 'ipython ~/scripts/arlington_va_courts/case_details_scraper.py 10 10' C-m"
