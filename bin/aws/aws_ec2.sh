@@ -14,7 +14,6 @@ dotsdir="$HOME/scripts/arlington_va_courts/dots"
 source $awsdir/aws_ec2_param_functions.sh
 
 #setting default parameters for the instance by calling param_functions, to override any function assign the corresponding env var in the shell
-
 amiid
 vpcid
 subnetid
